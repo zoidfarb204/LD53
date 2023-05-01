@@ -33,9 +33,8 @@ public class MapHandler : MonoBehaviour
             //set line segments to nd.count
 
             lr.positionCount = way.nd.Length;
+            lr.SetWidth(0.1f,.1f);
             var count = 0;
-
-
 
             foreach (var nd in way.nd)
             {
@@ -49,9 +48,12 @@ public class MapHandler : MonoBehaviour
                     continue;
                 
                 //rescale x and y to fit in -100,100 based on the max and min values
-                var scaledX = (node.lat - latmin) / (latmax - latmin) * (100-(-100)) + (-100);
-                var scaledY = (node.lon - longmin) /(longmax - longmin) * (100-(-100)) + (-100);
+                var scaledY = (node.lat - latmin) / (latmax - latmin) * (200);
+                var scaledX = (node.lon - longmin) /(longmax - longmin) * (200);
+                //var scaledX = node.lat;
+                //var scaledY = node.lon;
                 lr.SetPosition(count, new Vector2((float)scaledX, (float)scaledY));
+                count++;
             }
         }
     }
