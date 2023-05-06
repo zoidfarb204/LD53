@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Xml.Serialization;
@@ -23,6 +24,7 @@ public class MapHandler : MonoBehaviour
         var latmax = osmXml.node.Max(x => x.lat);
         var longmin = osmXml.node.Min(x => x.lon);
         var longmax = osmXml.node.Max(x => x.lon);
+        var Nodes = new List<Node>();
 
         foreach (var way in osmXml.way)
         {
@@ -53,11 +55,61 @@ public class MapHandler : MonoBehaviour
                 //var scaledX = node.lat;
                 //var scaledY = node.lon;
                 lr.SetPosition(count, new Vector2((float)scaledX, (float)scaledY));
+
+                var n = new Node
+                {
+                    X = scaledX,
+                    Y = scaledY,
+                    ConnectedNodes = new List<Node>()
+                };
+                Nodes.Add(n);
                 count++;
             }
         }
+
+
+        var nodeList = GenerateNodes(osmXml);
     }
-    
+
+    private static List<Node> GenerateNodes(OsmXML.osm osmXml)
+    {
+        var nodeList = new List<Node>();
+        foreach (var node in osmXml.node)
+        {
+            nodeList.Add(new Node
+            {
+                Id = node.id,
+                X = node.lon,
+                Y = node.lat,
+                ConnectedNodes = new List<Node>()
+            });
+        }
+
+        foreach (var way in osmXml.way)
+        {
+            for (int i = 0; i < way.nd.Length; i++)
+            {
+                var node = nodeList.FirstOrDefault(x => x.Id == way.nd[i].@ref);
+                if (node != null)
+                {
+                    if (i > 0)
+                    {
+                        var prevNode = nodeList.FirstOrDefault(x => x.Id == way.nd[i - 1].@ref);
+                        node.ConnectedNodes.Add(prevNode);
+                    }
+
+                    if (i < way.nd.Length - 1)
+                    {
+                        var nextNode = nodeList.FirstOrDefault(x => x.Id == way.nd[i + 1].@ref);
+                        node.ConnectedNodes.Add(nextNode);
+                    }
+                }
+            }
+        }
+
+        return nodeList.Where(x => x.Id != 0).ToList();
+    }
+
     // Update is called once per frame
     void Update()
     {
