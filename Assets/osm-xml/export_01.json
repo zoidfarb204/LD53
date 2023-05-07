@@ -1,0 +1,7890 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57.1 74a55df1",
+  "osm3s": {
+    "timestamp_osm_base": "2023-05-06T16:00:54Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "way",
+      "id": 18309620,
+      "nodes": [
+        188630338,
+        188630340,
+        188630342,
+        188630343
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "South Maple Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "P S Maple",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18309647,
+      "nodes": [
+        188630724,
+        188630726,
+        188630728,
+        188630730,
+        188630732,
+        188630734,
+        188630736
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "North Vine Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Vine",
+        "tiger:name_direction_prefix": "N",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18309649,
+      "nodes": [
+        188630739,
+        188630740
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "North Vine Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Vine",
+        "tiger:name_direction_prefix": "N",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18309681,
+      "nodes": [
+        188631188,
+        188631191,
+        188631192,
+        188631194,
+        188631197,
+        188631199,
+        188631201,
+        188631203,
+        188631204
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "West Union Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Union",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18309963,
+      "nodes": [
+        188634803,
+        188634805,
+        188634807,
+        188634809
+      ],
+      "tags": {
+        "highway": "residential",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:reviewed": "no",
+        "tiger:separated": "no",
+        "tiger:source": "tiger_import_dch_v0.6_20070813",
+        "tiger:tlid": "34320596",
+        "tiger:upload_uuid": "bulk_upload.pl-23d92e4b-a7d6-48cc-941c-ea4935b1f26e"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18310785,
+      "nodes": [
+        188645967,
+        188645969,
+        188645970
+      ],
+      "tags": {
+        "highway": "residential",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:reviewed": "no",
+        "tiger:separated": "no",
+        "tiger:source": "tiger_import_dch_v0.6_20070813",
+        "tiger:tlid": "34322647:34320699",
+        "tiger:upload_uuid": "bulk_upload.pl-23d92e4b-a7d6-48cc-941c-ea4935b1f26e"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18310804,
+      "nodes": [
+        188646129,
+        188646130,
+        188646132,
+        188646134
+      ],
+      "tags": {
+        "highway": "residential",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:reviewed": "no",
+        "tiger:separated": "no",
+        "tiger:source": "tiger_import_dch_v0.6_20070813",
+        "tiger:tlid": "34321083:34321084:34321086",
+        "tiger:upload_uuid": "bulk_upload.pl-23d92e4b-a7d6-48cc-941c-ea4935b1f26e"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18311111,
+      "nodes": [
+        188651497,
+        188651500,
+        188651502
+      ],
+      "tags": {
+        "highway": "residential",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:reviewed": "no",
+        "tiger:separated": "no",
+        "tiger:source": "tiger_import_dch_v0.6_20070813",
+        "tiger:tlid": "34320711:34304385",
+        "tiger:upload_uuid": "bulk_upload.pl-23d92e4b-a7d6-48cc-941c-ea4935b1f26e"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18311358,
+      "nodes": [
+        188655415,
+        188655417,
+        188645964,
+        188655419
+      ],
+      "tags": {
+        "highway": "residential",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:reviewed": "no",
+        "tiger:separated": "no",
+        "tiger:source": "tiger_import_dch_v0.6_20070813",
+        "tiger:tlid": "34320680:34320683:34320687",
+        "tiger:upload_uuid": "bulk_upload.pl-23d92e4b-a7d6-48cc-941c-ea4935b1f26e"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18311365,
+      "nodes": [
+        188655491,
+        188655493
+      ],
+      "tags": {
+        "highway": "residential",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:reviewed": "no",
+        "tiger:separated": "no",
+        "tiger:source": "tiger_import_dch_v0.6_20070813",
+        "tiger:tlid": "34320685",
+        "tiger:upload_uuid": "bulk_upload.pl-23d92e4b-a7d6-48cc-941c-ea4935b1f26e"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18311864,
+      "nodes": [
+        188663899,
+        188663901,
+        188663903
+      ],
+      "tags": {
+        "highway": "residential",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:reviewed": "no",
+        "tiger:separated": "no",
+        "tiger:source": "tiger_import_dch_v0.6_20070813",
+        "tiger:tlid": "34320641:34322629",
+        "tiger:upload_uuid": "bulk_upload.pl-23d92e4b-a7d6-48cc-941c-ea4935b1f26e"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18312968,
+      "nodes": [
+        188678840,
+        188678841,
+        188678842,
+        188678843,
+        188678844
+      ],
+      "tags": {
+        "highway": "residential",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:reviewed": "no",
+        "tiger:separated": "no",
+        "tiger:source": "tiger_import_dch_v0.6_20070813",
+        "tiger:tlid": "34321052",
+        "tiger:upload_uuid": "bulk_upload.pl-23d92e4b-a7d6-48cc-941c-ea4935b1f26e"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18312969,
+      "nodes": [
+        188678850,
+        188678852,
+        188678854,
+        188678856,
+        188678860,
+        188678862,
+        188678864
+      ],
+      "tags": {
+        "highway": "residential",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:reviewed": "no",
+        "tiger:separated": "no",
+        "tiger:source": "tiger_import_dch_v0.6_20070813",
+        "tiger:tlid": "34321053:34321054",
+        "tiger:upload_uuid": "bulk_upload.pl-23d92e4b-a7d6-48cc-941c-ea4935b1f26e"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18312971,
+      "nodes": [
+        188678869,
+        188678870
+      ],
+      "tags": {
+        "highway": "residential",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:reviewed": "no",
+        "tiger:separated": "no",
+        "tiger:source": "tiger_import_dch_v0.6_20070813",
+        "tiger:tlid": "34320693",
+        "tiger:upload_uuid": "bulk_upload.pl-23d92e4b-a7d6-48cc-941c-ea4935b1f26e"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18312976,
+      "nodes": [
+        188678947,
+        188678950
+      ],
+      "tags": {
+        "highway": "residential",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:reviewed": "no",
+        "tiger:separated": "no",
+        "tiger:source": "tiger_import_dch_v0.6_20070813",
+        "tiger:tlid": "34320696",
+        "tiger:upload_uuid": "bulk_upload.pl-23d92e4b-a7d6-48cc-941c-ea4935b1f26e"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18313553,
+      "nodes": [
+        188686201,
+        188686202,
+        188686203,
+        188686204,
+        188686206,
+        188686207,
+        188686208,
+        188686209,
+        188686210,
+        188651497,
+        188686211,
+        188686203
+      ],
+      "tags": {
+        "highway": "residential",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:reviewed": "no",
+        "tiger:separated": "no",
+        "tiger:source": "tiger_import_dch_v0.6_20070813",
+        "tiger:tlid": "34302906:34314545:34314546:34302911",
+        "tiger:upload_uuid": "bulk_upload.pl-23d92e4b-a7d6-48cc-941c-ea4935b1f26e"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18314605,
+      "nodes": [
+        188698154,
+        188630739
+      ],
+      "tags": {
+        "highway": "residential",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:reviewed": "no",
+        "tiger:separated": "no",
+        "tiger:source": "tiger_import_dch_v0.6_20070813",
+        "tiger:tlid": "34321061",
+        "tiger:upload_uuid": "bulk_upload.pl-23d92e4b-a7d6-48cc-941c-ea4935b1f26e"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18315975,
+      "nodes": [
+        188712805,
+        188712807
+      ],
+      "tags": {
+        "highway": "residential",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:reviewed": "no",
+        "tiger:separated": "no",
+        "tiger:source": "tiger_import_dch_v0.6_20070813",
+        "tiger:tlid": "34304784",
+        "tiger:upload_uuid": "bulk_upload.pl-23d92e4b-a7d6-48cc-941c-ea4935b1f26e"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18316181,
+      "nodes": [
+        188714754,
+        188714755,
+        188714756,
+        188691762
+      ],
+      "tags": {
+        "highway": "residential",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:reviewed": "no",
+        "tiger:separated": "no",
+        "tiger:source": "tiger_import_dch_v0.6_20070813",
+        "tiger:tlid": "34333658",
+        "tiger:upload_uuid": "bulk_upload.pl-23d92e4b-a7d6-48cc-941c-ea4935b1f26e"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18316380,
+      "nodes": [
+        188716743,
+        188716745,
+        188716747,
+        188716749,
+        188716751,
+        188716753,
+        188716755
+      ],
+      "tags": {
+        "highway": "residential",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:reviewed": "no",
+        "tiger:separated": "no",
+        "tiger:source": "tiger_import_dch_v0.6_20070813",
+        "tiger:tlid": "34320702",
+        "tiger:upload_uuid": "bulk_upload.pl-23d92e4b-a7d6-48cc-941c-ea4935b1f26e"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18316381,
+      "nodes": [
+        188716759,
+        188716760,
+        188645969
+      ],
+      "tags": {
+        "highway": "residential",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:reviewed": "no",
+        "tiger:separated": "no",
+        "tiger:source": "tiger_import_dch_v0.6_20070813",
+        "tiger:tlid": "34320703",
+        "tiger:upload_uuid": "bulk_upload.pl-23d92e4b-a7d6-48cc-941c-ea4935b1f26e"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18316383,
+      "nodes": [
+        188716775,
+        188716777,
+        188716779
+      ],
+      "tags": {
+        "highway": "residential",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:reviewed": "no",
+        "tiger:separated": "no",
+        "tiger:source": "tiger_import_dch_v0.6_20070813",
+        "tiger:tlid": "34320704",
+        "tiger:upload_uuid": "bulk_upload.pl-23d92e4b-a7d6-48cc-941c-ea4935b1f26e"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18316385,
+      "nodes": [
+        188686204,
+        188716815
+      ],
+      "tags": {
+        "highway": "residential",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:reviewed": "no",
+        "tiger:separated": "no",
+        "tiger:source": "tiger_import_dch_v0.6_20070813",
+        "tiger:tlid": "34320705",
+        "tiger:upload_uuid": "bulk_upload.pl-23d92e4b-a7d6-48cc-941c-ea4935b1f26e"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18316388,
+      "nodes": [
+        188716852,
+        188716854,
+        188716856,
+        188716858,
+        188716860,
+        188716862,
+        188716864,
+        188716866,
+        188716868,
+        188716870
+      ],
+      "tags": {
+        "highway": "residential",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:reviewed": "no",
+        "tiger:separated": "no",
+        "tiger:source": "tiger_import_dch_v0.6_20070813",
+        "tiger:tlid": "34320707",
+        "tiger:upload_uuid": "bulk_upload.pl-23d92e4b-a7d6-48cc-941c-ea4935b1f26e"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18316389,
+      "nodes": [
+        188716876,
+        188716878
+      ],
+      "tags": {
+        "highway": "residential",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:reviewed": "no",
+        "tiger:separated": "no",
+        "tiger:source": "tiger_import_dch_v0.6_20070813",
+        "tiger:tlid": "34320708",
+        "tiger:upload_uuid": "bulk_upload.pl-23d92e4b-a7d6-48cc-941c-ea4935b1f26e"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18316550,
+      "nodes": [
+        188718432,
+        188718434,
+        188718436,
+        188718438
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "Cameron Court",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18316786,
+      "nodes": [
+        188720684,
+        188716837,
+        188720686,
+        188645967,
+        188720688,
+        188720690,
+        188720692,
+        188720694,
+        188631201,
+        188720696,
+        188720698,
+        188720700,
+        188720702,
+        188720703,
+        188720704,
+        188720705,
+        188637377,
+        3917536611
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "South Jefferson Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Jefferson",
+        "tiger:name_direction_prefix": "S",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18316868,
+      "nodes": [
+        188721804,
+        188721805,
+        188721806,
+        188721808,
+        188721810,
+        188721812,
+        188721814,
+        188721815
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "East Page Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Page",
+        "tiger:name_direction_prefix": "E",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18316878,
+      "nodes": [
+        188716870,
+        188716852,
+        188721897,
+        8980737129,
+        188716775,
+        188686201,
+        188721898,
+        188686117,
+        188721900,
+        188721902,
+        188721904,
+        188721906,
+        188721908,
+        188721909,
+        188721910,
+        188721911,
+        188721912,
+        188721914,
+        188631197,
+        188721916,
+        188721918,
+        188721920,
+        188630338
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "South Maple Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Maple",
+        "tiger:name_direction_prefix": "S",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18317000,
+      "nodes": [
+        188723541,
+        188723542,
+        188723543,
+        188723546,
+        188723549,
+        188723551,
+        188723553,
+        188723555,
+        188723558,
+        188630734,
+        188723560,
+        188723562,
+        188723564,
+        188723566,
+        188723569,
+        188723571,
+        188723573,
+        188723574,
+        188723576,
+        188723578,
+        188723579,
+        188723581,
+        188723582
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "West McPike Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "McPike",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18317028,
+      "nodes": [
+        188724302,
+        188724304,
+        188712636
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "Alford Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Alford",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18317057,
+      "nodes": [
+        188724905,
+        188724906,
+        188724907,
+        188724909,
+        188724911,
+        188724913,
+        188724916,
+        188724921
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "North 6th Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "6th",
+        "tiger:name_direction_prefix": "N",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18317059,
+      "nodes": [
+        188724926,
+        188724928,
+        188724930
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "North 6th Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "6th",
+        "tiger:name_direction_prefix": "N",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18317062,
+      "nodes": [
+        188724936,
+        188724938,
+        188724941,
+        188724943,
+        188724945,
+        188724948,
+        188724950,
+        188724951,
+        188724952,
+        188724954,
+        188724957
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "East State Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "State",
+        "tiger:name_direction_prefix": "E",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18317228,
+      "nodes": [
+        188726774,
+        188726775,
+        188722146,
+        188646138,
+        188721810,
+        188726781,
+        188726783,
+        188726784,
+        188726785,
+        188726786,
+        188726788,
+        188726790
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "North Taylor Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Taylor",
+        "tiger:name_direction_prefix": "N",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18317320,
+      "nodes": [
+        188728288,
+        188728290,
+        188728292,
+        188728294,
+        188728296,
+        188728298,
+        188728299,
+        188728300,
+        188728301,
+        188728302,
+        188637519
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "South Central Avenue",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Central",
+        "tiger:name_direction_prefix": "S",
+        "tiger:name_type": "Ave",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18317368,
+      "nodes": [
+        188729090,
+        188729092,
+        188729094,
+        188658233
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "South Utterback Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Utterback",
+        "tiger:name_direction_prefix": "S",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18317370,
+      "nodes": [
+        188729100,
+        188729102,
+        8906116904,
+        188729104,
+        188729105,
+        188729106,
+        188729107
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "South Utterback Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Utterback",
+        "tiger:name_direction_prefix": "S",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18317372,
+      "nodes": [
+        188729111,
+        188729113,
+        188729115,
+        188729117,
+        188678844,
+        188729119,
+        188729120,
+        188729122,
+        188729123
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "West Daniels Avenue",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Daniels",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "Ave",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18317386,
+      "nodes": [
+        188729285,
+        188729286,
+        188729288,
+        188729290,
+        188646132,
+        188722153,
+        188729291,
+        188721805
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "North Harrison Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Harrison",
+        "tiger:name_direction_prefix": "N",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18317398,
+      "nodes": [
+        188729409,
+        188729411,
+        188729413,
+        188729415,
+        188646129,
+        188722155
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "Forest Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Forest",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18317467,
+      "nodes": [
+        188730280,
+        188730282,
+        188730285,
+        188730287,
+        188730288,
+        188730289,
+        188730290,
+        188730292,
+        188730294,
+        188730295,
+        188730296,
+        188724302,
+        188730298,
+        188730300,
+        188730302,
+        188730304,
+        188730306,
+        188730308,
+        188730309,
+        188730310,
+        188730311,
+        188730312,
+        188730314
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "East Arlington Avenue",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Arlington",
+        "tiger:name_direction_prefix": "E",
+        "tiger:name_type": "Ave",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18317535,
+      "nodes": [
+        3917536611,
+        188745348,
+        188655419,
+        188655486,
+        188731160,
+        188707510,
+        188731162,
+        188698125,
+        188731163,
+        188731164,
+        188723574,
+        188731165,
+        188731166,
+        188724916,
+        188731168,
+        188731170,
+        188731172,
+        188731174,
+        188731175,
+        188729115
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "North Jefferson Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Jefferson",
+        "tiger:name_direction_prefix": "N",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18317547,
+      "nodes": [
+        188731364,
+        188731367,
+        188731369,
+        188731371,
+        188731373,
+        188724943,
+        188731375
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "South Taylor Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Taylor",
+        "tiger:name_direction_prefix": "S",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18317575,
+      "nodes": [
+        188731699,
+        188707506,
+        188731701,
+        188731703,
+        188723573,
+        188731705,
+        188731707,
+        188724913,
+        188731709,
+        188731710,
+        188731712,
+        188731714,
+        188678844
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "North Walnut Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Walnut",
+        "tiger:name_direction_prefix": "N",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18317598,
+      "nodes": [
+        188720684,
+        188732086,
+        188716847,
+        188732089,
+        188732091,
+        188716740,
+        188732094,
+        188712807
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "Joe Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Joe",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18317599,
+      "nodes": [
+        188732101,
+        188731717,
+        188732104,
+        188732107,
+        188691881,
+        188732110,
+        188732112,
+        188721918,
+        188732115,
+        188720696,
+        188732118,
+        188732121
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "West Olive Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Olive",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18317601,
+      "nodes": [
+        188732131,
+        188732133,
+        188732137,
+        188732140,
+        188732143,
+        188732145,
+        188732147,
+        188732149,
+        188732152,
+        188732155
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "South Cleveland Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Cleveland",
+        "tiger:name_direction_prefix": "S",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18317603,
+      "nodes": [
+        188732161,
+        188732164,
+        188732166,
+        188732169,
+        188732172,
+        188732174
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "South Cleveland Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Cleveland",
+        "tiger:name_direction_prefix": "S",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18317618,
+      "nodes": [
+        188732293,
+        188732294,
+        188726783
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "East McPike Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "McPike",
+        "tiger:name_direction_prefix": "E",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18317621,
+      "nodes": [
+        188723582,
+        188732298,
+        188732299,
+        188732300,
+        188732302,
+        188732304,
+        188732306,
+        188732308,
+        188732310,
+        188726783
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "East McPike Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "McPike",
+        "tiger:name_direction_prefix": "E",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18317693,
+      "nodes": [
+        188733307,
+        188733309,
+        188733311,
+        188733313,
+        188733315
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "South Elm Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Elm",
+        "tiger:name_direction_prefix": "S",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18317695,
+      "nodes": [
+        188733319,
+        188733320,
+        188733321,
+        188733323,
+        188733325,
+        188733327
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "South Elm Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Elm",
+        "tiger:name_direction_prefix": "S",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18317803,
+      "nodes": [
+        188735052,
+        188735054,
+        188735055,
+        188735057,
+        188723553
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "North Cleveland Street",
+        "tiger:cfcc": "A74",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Cleveland",
+        "tiger:name_direction_prefix": "N",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18317916,
+      "nodes": [
+        188737396,
+        188728301,
+        188732149,
+        188737399,
+        188737400,
+        188737403,
+        188737404,
+        188737406,
+        188721909,
+        188737408,
+        188720690,
+        188737410,
+        188737412
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "West Home Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Home",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18317938,
+      "nodes": [
+        188737869,
+        188737408,
+        188737871,
+        188737873,
+        188737875,
+        188737877,
+        188631199,
+        188732115,
+        188737881,
+        188737882
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "South Walnut Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Walnut",
+        "tiger:name_direction_prefix": "S",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18317939,
+      "nodes": [
+        188737894,
+        188737896,
+        188737898
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "South Walnut Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Walnut",
+        "tiger:name_direction_prefix": "S",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18317962,
+      "nodes": [
+        188738263,
+        188738265,
+        188738267,
+        188671524,
+        188738269,
+        188738271,
+        188738272,
+        188738273,
+        188738275,
+        188671574,
+        188738277,
+        188738279,
+        188671540,
+        188671551,
+        188738281,
+        188738283,
+        188738285,
+        188637514,
+        188738287,
+        188691781,
+        188691803,
+        188738289,
+        188738291,
+        188738293,
+        188669672,
+        188738294,
+        188738295,
+        188738296,
+        188727517,
+        188738299,
+        188738301,
+        188738302,
+        188738303,
+        188738304,
+        188669661,
+        188738306,
+        188644187,
+        188644208,
+        188738310,
+        188738311,
+        188644092,
+        188636526,
+        188644086,
+        188738313,
+        188644153,
+        188738314,
+        188644065,
+        188738315,
+        188723508
+      ],
+      "tags": {
+        "highway": "tertiary",
+        "name": "State Highway P",
+        "name_1": "Highway P",
+        "name_2": "County Road 564",
+        "ref": "MO P",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "State Highway P",
+        "tiger:name_base_1": "Highway P",
+        "tiger:name_base_2": "County Road 564",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18318004,
+      "nodes": [
+        188738982,
+        188738984,
+        188738986,
+        188738988,
+        188678954,
+        188721914,
+        188738990,
+        188737877,
+        188720694,
+        188738992,
+        188738994,
+        188738996
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "West Woodlawn Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Woodlawn",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18318127,
+      "nodes": [
+        188740875,
+        188740876,
+        188740877,
+        188740878,
+        188740879
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "East Haig Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Haig",
+        "tiger:name_direction_prefix": "E",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18318139,
+      "nodes": [
+        188741006,
+        188664070,
+        188741008,
+        188663903,
+        188741010,
+        188637422,
+        188741012,
+        188749912,
+        188749913
+      ],
+      "tags": {
+        "highway": "unclassified",
+        "name": "Galloway Road",
+        "name_1": "County Road 565",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Galloway",
+        "tiger:name_base_1": "Audrain Rd 565",
+        "tiger:name_base_2": "County Road 565",
+        "tiger:name_type": "Rd",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18318146,
+      "nodes": [
+        188738996,
+        188741070,
+        188741072
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "East Woodlawn Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Woodlawn",
+        "tiger:name_direction_prefix": "E",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18318183,
+      "nodes": [
+        188663903,
+        188741573,
+        188741575,
+        188741576,
+        188663877,
+        188741577,
+        188741578,
+        188741579,
+        188637519,
+        188732155,
+        188741581,
+        188741583,
+        188741585,
+        188721912,
+        188737873,
+        188720692,
+        188741587,
+        188741589
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "West Walsh Boulevard",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Walsh",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "Blvd",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18318227,
+      "nodes": [
+        188634855,
+        188671536,
+        188742322,
+        188630338,
+        188737882,
+        188720702,
+        188742323,
+        188742324,
+        188724936
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "West State Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "State",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18318273,
+      "nodes": [
+        188745341,
+        188646146,
+        188742805,
+        188742806,
+        188722144,
+        188742808,
+        188721812,
+        188742810,
+        188732304
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "North Clark Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Clark",
+        "tiger:name_direction_prefix": "N",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18318284,
+      "nodes": [
+        188742915,
+        188742917,
+        188737406,
+        188741585,
+        188738986,
+        188631192,
+        188732112,
+        188742919,
+        188742322
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "South Oak Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Oak",
+        "tiger:name_direction_prefix": "S",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18318422,
+      "nodes": [
+        188630343,
+        188637381,
+        188744617,
+        188744618,
+        188744620,
+        188744624,
+        188723569,
+        188679111,
+        188744626,
+        188744628,
+        188724911,
+        188744629,
+        188744631,
+        188744633,
+        188744634,
+        188744636
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "North Maple Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Maple",
+        "tiger:name_direction_prefix": "N",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18318430,
+      "nodes": [
+        188737412,
+        188744778,
+        188744780,
+        188744781,
+        188744783,
+        188744785,
+        188744787,
+        188744789,
+        188733319,
+        188744791,
+        188729100,
+        8906116909,
+        188682230
+      ],
+      "tags": {
+        "highway": "tertiary",
+        "name": "East Home Street",
+        "name_1": "Highway V",
+        "name_2": "State Highway V",
+        "ref": "MO V",
+        "surface": "paved",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Home",
+        "tiger:name_base_1": "Highway V",
+        "tiger:name_base_2": "State Highway V",
+        "tiger:name_direction_prefix": "E",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18318432,
+      "nodes": [
+        188744799,
+        188744800,
+        188744801,
+        188731175,
+        188731714,
+        188744636,
+        188744802,
+        188744803
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "West Arlington Avenue",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Arlington",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "Ave",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18318531,
+      "nodes": [
+        188716870,
+        188746141,
+        188746143,
+        188746145,
+        188746147,
+        188716876,
+        188746149,
+        188732174,
+        188728292,
+        188746151
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "West Limit Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Limit",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18318577,
+      "nodes": [
+        188746767,
+        188722142,
+        188746769,
+        188721814,
+        188746773,
+        188732300
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "North Monroe Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Monroe",
+        "tiger:name_direction_prefix": "N",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18318579,
+      "nodes": [
+        188746778,
+        188637368
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "North Monroe Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Monroe",
+        "tiger:name_direction_prefix": "N",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18318585,
+      "nodes": [
+        188739226,
+        188746824,
+        188746826,
+        188746827,
+        188746829,
+        188746831,
+        188746833,
+        188746835,
+        188746837,
+        8994698297,
+        188732091,
+        188716755,
+        188746839,
+        188740879,
+        188679088,
+        188746840,
+        188746841,
+        188737412,
+        188741589,
+        188678947,
+        188746843,
+        188738996,
+        188631204,
+        188678869,
+        188732121,
+        188678821,
+        188746845,
+        188746847,
+        188724936,
+        188746849,
+        188746851,
+        188746853,
+        188637370,
+        188745345
+      ],
+      "tags": {
+        "highway": "tertiary",
+        "name": "South Main Street",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Main",
+        "tiger:name_direction_prefix": "S",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18318612,
+      "nodes": [
+        188745345,
+        188747021,
+        188655415,
+        188747023,
+        188722140,
+        188721815,
+        188723582,
+        188747025,
+        188730314,
+        188744799,
+        188730280,
+        188729111,
+        188646071,
+        188646084,
+        188747027,
+        188672856,
+        188672930,
+        188672888,
+        188672842,
+        188728845
+      ],
+      "tags": {
+        "highway": "tertiary",
+        "name": "North Main Street",
+        "name_1": "State Highway F",
+        "ref": "MO F",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Main",
+        "tiger:name_base_1": "State Highway F",
+        "tiger:name_direction_prefix": "N",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18318620,
+      "nodes": [
+        188747099,
+        188747100,
+        188728294
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "West Pershing Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Pershing",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18318640,
+      "nodes": [
+        188738267,
+        188747472,
+        188747474,
+        188747476,
+        188747479,
+        188747482,
+        188747484,
+        188747486,
+        188634809
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "Myrtle Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Myrtle",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18318643,
+      "nodes": [
+        188747023,
+        188746767,
+        188747491,
+        188742805,
+        188646142,
+        188726775,
+        188747492,
+        188729286,
+        188747494,
+        188747497,
+        188729409
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "East Washington Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Washington",
+        "tiger:name_direction_prefix": "E",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18318680,
+      "nodes": [
+        188679078,
+        188737410,
+        188741587,
+        188738992,
+        188631203,
+        188732118,
+        188747908,
+        188742323,
+        188747910,
+        188747912,
+        188747914
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "South Lindell Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Lindell",
+        "tiger:name_direction_prefix": "S",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18318681,
+      "nodes": [
+        188732089,
+        188716743,
+        188747922
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "South Lindell Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Lindell",
+        "tiger:name_direction_prefix": "S",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18318691,
+      "nodes": [
+        188748320,
+        188747494,
+        188646130,
+        188722154,
+        188748322
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "North Adams Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Adams",
+        "tiger:name_direction_prefix": "N",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18318708,
+      "nodes": [
+        188729104,
+        188748621,
+        188733321,
+        188748623,
+        188748625,
+        188748627,
+        188748629,
+        188748630,
+        188748631,
+        188748632,
+        188748633,
+        188741589
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "East Walsh Boulevard",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Walsh",
+        "tiger:name_direction_prefix": "E",
+        "tiger:name_type": "Blvd",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18318713,
+      "nodes": [
+        188746149,
+        188748673,
+        188747099,
+        8980737125,
+        188748675,
+        188748677,
+        188748679,
+        188748681,
+        188748685,
+        188748687,
+        188748689,
+        188737404,
+        188748691,
+        188741583,
+        188738984,
+        188631191,
+        188732110,
+        188748692,
+        188671531,
+        188634855
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "South Vine Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Vine",
+        "tiger:name_direction_prefix": "S",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18318728,
+      "nodes": [
+        188655417,
+        188749155,
+        188707512,
+        188749157,
+        188698127,
+        188749159,
+        188723578,
+        188749161,
+        188749163,
+        188749165,
+        188749167,
+        188724921,
+        188744801,
+        188749169,
+        188729113
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "North Lindell Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Lindell",
+        "tiger:name_direction_prefix": "N",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18318805,
+      "nodes": [
+        188749913,
+        188709047,
+        188709030,
+        188671806,
+        188750584
+      ],
+      "tags": {
+        "highway": "unclassified",
+        "name": "Galloway Road",
+        "name_1": "County Road 565",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "County Road 565",
+        "tiger:name_base_1": "Galloway",
+        "tiger:name_type_1": "Rd",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18318827,
+      "nodes": [
+        188750848,
+        188750850,
+        188728300,
+        188732143,
+        188750852,
+        188748687,
+        188742915,
+        188721906,
+        188737869,
+        188750854,
+        188720688,
+        188679078,
+        188750856,
+        188746840
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "West Bland Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Bland",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18318841,
+      "nodes": [
+        188712807,
+        188716737,
+        188751046,
+        188751047,
+        188740878,
+        188751049,
+        188744778,
+        188751051,
+        188748632,
+        188678950,
+        188741070,
+        188751053,
+        188751056,
+        188678870,
+        188751058,
+        188678822,
+        188751060,
+        188724938,
+        188751062,
+        188751064,
+        188751065,
+        188746778
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "South Monroe Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Monroe",
+        "tiger:name_direction_prefix": "S",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18318901,
+      "nodes": [
+        188746833,
+        188752031,
+        8995301450,
+        188752032,
+        188712805,
+        188752033,
+        188740875,
+        188752034,
+        188752035,
+        188744789,
+        188752036,
+        188748625,
+        188752038,
+        188752040,
+        188752042,
+        188718459,
+        188752044,
+        188752046,
+        188752048,
+        188752050,
+        188752052,
+        188752054,
+        188724957
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "South Highland Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Highland",
+        "tiger:name_direction_prefix": "S",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18318918,
+      "nodes": [
+        188752200,
+        188747492,
+        188646134,
+        188722148,
+        188646137,
+        188721806,
+        188752202,
+        188752204,
+        188752206,
+        188752208,
+        188732293
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "North Grant Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Grant",
+        "tiger:name_direction_prefix": "N",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18318921,
+      "nodes": [
+        188752219,
+        188752220,
+        188752222,
+        188752224,
+        188707528,
+        188752226,
+        188723564,
+        188679109,
+        188752228,
+        188724909,
+        188752230,
+        188752231,
+        188752232,
+        188752233,
+        188752234,
+        188752236,
+        188752238,
+        188744803,
+        188729123,
+        188752240,
+        188752242
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "North Oak Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Oak",
+        "tiger:name_direction_prefix": "N",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18318929,
+      "nodes": [
+        188730314,
+        188724921,
+        188731174,
+        188731712,
+        188744633,
+        188752342,
+        188752236,
+        188752344,
+        188752346,
+        188752348,
+        188752350
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "West Missouri Avenue",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Missouri",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "Ave",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18318935,
+      "nodes": [
+        188729304,
+        188655524,
+        188752381,
+        188752383,
+        188752385,
+        188752387,
+        188655498,
+        188752389,
+        188729090,
+        188729107,
+        188655491,
+        188733307,
+        188733327,
+        188752390,
+        188752040,
+        188752391,
+        188752392,
+        188678814,
+        188752393,
+        188731364,
+        188752394,
+        188751056,
+        188631204
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "East Union Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Union",
+        "tiger:name_direction_prefix": "E",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18318938,
+      "nodes": [
+        188752405,
+        188752407,
+        188752409,
+        188723555,
+        188752411
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "North Lincoln Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Lincoln",
+        "tiger:name_direction_prefix": "N",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18319005,
+      "nodes": [
+        188740877,
+        188753282,
+        188753284,
+        188744780,
+        188753286,
+        188748630,
+        188753288,
+        188741072,
+        188752394,
+        188753290,
+        188753291,
+        188753293,
+        188724941,
+        188753295,
+        188742804,
+        188637366,
+        188745341
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "South Clark Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Clark",
+        "tiger:name_direction_prefix": "S",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18319017,
+      "nodes": [
+        188753537,
+        188753539
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "North Daniel Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Daniel",
+        "tiger:name_direction_prefix": "N",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18319222,
+      "nodes": [
+        188714754,
+        188756053,
+        188691883,
+        188748692,
+        188756055,
+        188742919,
+        188756056,
+        188721920,
+        188756058,
+        188737881,
+        188720700,
+        188747908,
+        188746845
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "West Park Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Park",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18319381,
+      "nodes": [
+        188748675,
+        188758731,
+        188758734,
+        188758736,
+        188732131
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "West Haig Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Haig",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18319388,
+      "nodes": [
+        188671806,
+        188641132,
+        188758824,
+        188741675,
+        188671557,
+        188753539,
+        188671526,
+        188742389,
+        188758825,
+        188735038,
+        188735052,
+        188634801,
+        188752405,
+        188752399,
+        188630726,
+        188752219,
+        188744617,
+        188758826,
+        188731699,
+        188758828,
+        188707516,
+        188731160,
+        188645966,
+        188749155,
+        188747023
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "West Washington Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Washington",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18319390,
+      "nodes": [
+        188749163,
+        188758838,
+        188731165,
+        188678952,
+        188731705,
+        188744626,
+        188758840,
+        188752228,
+        188758842,
+        188630736,
+        188758844,
+        188752411,
+        188758845,
+        188758846,
+        188718420
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "West Saint Johns Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "St Johns",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18319447,
+      "nodes": [
+        188750584,
+        188691874,
+        188738271,
+        188760010,
+        188760011,
+        188634803,
+        188734620,
+        188760012,
+        188718432,
+        188760014,
+        188723541,
+        188718421,
+        188718420,
+        188760015,
+        188724930,
+        188703839,
+        188678957,
+        188760018,
+        188678980,
+        188678879,
+        188752350,
+        188760020,
+        188698171,
+        188717714,
+        188760022,
+        188760024,
+        188730519
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "North Galloway Road",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Galloway",
+        "tiger:name_direction_prefix": "N",
+        "tiger:name_type": "Rd",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18319450,
+      "nodes": [
+        188730292,
+        188760043
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "Kirtley Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Kirtley",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18319476,
+      "nodes": [
+        188760503,
+        188760505
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "Marys Avenue",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Marys",
+        "tiger:name_type": "Ave",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18319492,
+      "nodes": [
+        188752231,
+        188760660,
+        188630739
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "North 7th Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "7th",
+        "tiger:name_direction_prefix": "N",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18319533,
+      "nodes": [
+        188678850,
+        188761150,
+        188761152,
+        188761154,
+        188761156,
+        188761158,
+        188761160,
+        188761162,
+        188761164,
+        188752350
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "Breezy Lane",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Breezy",
+        "tiger:name_type": "Ln",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18319608,
+      "nodes": [
+        188735055,
+        188762499,
+        188752409,
+        188630732,
+        188752226,
+        188744620,
+        188731703,
+        188731163,
+        188749159,
+        188721815
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "West Page Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Page",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18319766,
+      "nodes": [
+        188729120,
+        188765014,
+        188760503,
+        188765016
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "Carr Lane",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Carr",
+        "tiger:name_type": "Ln",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18319783,
+      "nodes": [
+        188746839,
+        188751047,
+        188752033
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "East 4th Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "4th",
+        "tiger:name_direction_prefix": "E",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18319860,
+      "nodes": [
+        188729092,
+        188733311,
+        188766177,
+        188752044
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "East Olive Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Olive",
+        "tiger:name_direction_prefix": "E",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18319861,
+      "nodes": [
+        188732121,
+        188751058,
+        188753291,
+        188731369,
+        188766181
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "East Olive Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Olive",
+        "tiger:name_direction_prefix": "E",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18319947,
+      "nodes": [
+        188746845,
+        188751060,
+        188753293,
+        188731373,
+        188767282,
+        188767284,
+        188767286,
+        188752048,
+        188767288,
+        188767290,
+        188733313,
+        188729094
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "East Park Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Park",
+        "tiger:name_direction_prefix": "E",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18320014,
+      "nodes": [
+        188758734,
+        188750852,
+        188737400,
+        188741581,
+        188768249,
+        188738982,
+        188768251,
+        188631188,
+        188732107,
+        188768253,
+        188756053
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "South Lincoln Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Lincoln",
+        "tiger:name_direction_prefix": "S",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18320143,
+      "nodes": [
+        188748629,
+        188770443,
+        188752393
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "South Sharon Road",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Sharon",
+        "tiger:name_direction_prefix": "S",
+        "tiger:name_type": "Rd",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18320238,
+      "nodes": [
+        188737898,
+        188716759,
+        188720686,
+        188747922,
+        188746839
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "West 4th Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "4th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 18320241,
+      "nodes": [
+        188746840,
+        188751049,
+        188753282,
+        188771795,
+        188752035
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "East Bland Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Bland",
+        "tiger:name_direction_prefix": "E",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "63382",
+        "tiger:zip_right": "63382"
+      }
+    },
+    {
+      "type": "way",
+      "id": 551004057,
+      "nodes": [
+        5321445509,
+        5321445510,
+        188750584,
+        5321445511,
+        188738263,
+        188753537,
+        188742387
+      ],
+      "tags": {
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "35 mph",
+        "ref": "US 54"
+      }
+    },
+    {
+      "type": "way",
+      "id": 551004058,
+      "nodes": [
+        188742387,
+        188742389,
+        188742391
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "North Central Avenue",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Audrain, MO",
+        "tiger:name_base": "Central",
+        "tiger:name_direction_prefix": "N",
+        "tiger:name_type": "Ave",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 551004059,
+      "nodes": [
+        188742387,
+        188735054,
+        188752407,
+        188630728,
+        188752222,
+        188744618,
+        188731701,
+        188731162,
+        188749157,
+        188722140,
+        188722142,
+        188722144,
+        188722146,
+        188722148
+      ],
+      "tags": {
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "30 mph",
+        "ref": "US 54"
+      }
+    },
+    {
+      "type": "way",
+      "id": 551004060,
+      "nodes": [
+        188722148,
+        188722153,
+        188722154
+      ],
+      "tags": {
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "35 mph",
+        "ref": "US 54"
+      }
+    },
+    {
+      "type": "way",
+      "id": 551004061,
+      "nodes": [
+        188722154,
+        188722155,
+        5321445512,
+        5321445513,
+        8049664522,
+        5321445514,
+        5321445515,
+        5321445516,
+        5321445517,
+        5321445518,
+        5321445519,
+        5321445520
+      ],
+      "tags": {
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "40 mph",
+        "ref": "US 54"
+      }
+    },
+    {
+      "type": "node",
+      "id": 188723508,
+      "lat": 39.308006,
+      "lon": -91.552201
+    },
+    {
+      "type": "node",
+      "id": 188738315,
+      "lat": 39.307939,
+      "lon": -91.549181
+    },
+    {
+      "type": "node",
+      "id": 188644065,
+      "lat": 39.307888,
+      "lon": -91.547206
+    },
+    {
+      "type": "node",
+      "id": 188644153,
+      "lat": 39.307844,
+      "lon": -91.545412
+    },
+    {
+      "type": "node",
+      "id": 188738313,
+      "lat": 39.307787,
+      "lon": -91.542484
+    },
+    {
+      "type": "node",
+      "id": 188738314,
+      "lat": 39.30786,
+      "lon": -91.546078
+    },
+    {
+      "type": "node",
+      "id": 188636526,
+      "lat": 39.30767,
+      "lon": -91.537147
+    },
+    {
+      "type": "node",
+      "id": 188644086,
+      "lat": 39.307712,
+      "lon": -91.539041
+    },
+    {
+      "type": "node",
+      "id": 188644092,
+      "lat": 39.307583,
+      "lon": -91.533413
+    },
+    {
+      "type": "node",
+      "id": 188644187,
+      "lat": 39.307476,
+      "lon": -91.529507
+    },
+    {
+      "type": "node",
+      "id": 188644208,
+      "lat": 39.307483,
+      "lon": -91.529758
+    },
+    {
+      "type": "node",
+      "id": 188738310,
+      "lat": 39.307515,
+      "lon": -91.53088
+    },
+    {
+      "type": "node",
+      "id": 188738311,
+      "lat": 39.307566,
+      "lon": -91.532692
+    },
+    {
+      "type": "node",
+      "id": 188669661,
+      "lat": 39.307222,
+      "lon": -91.519468
+    },
+    {
+      "type": "node",
+      "id": 188727517,
+      "lat": 39.306809,
+      "lon": -91.514747
+    },
+    {
+      "type": "node",
+      "id": 188738299,
+      "lat": 39.306894,
+      "lon": -91.515537
+    },
+    {
+      "type": "node",
+      "id": 188738301,
+      "lat": 39.30694,
+      "lon": -91.515967
+    },
+    {
+      "type": "node",
+      "id": 188738302,
+      "lat": 39.307106,
+      "lon": -91.517576
+    },
+    {
+      "type": "node",
+      "id": 188738303,
+      "lat": 39.307181,
+      "lon": -91.518428
+    },
+    {
+      "type": "node",
+      "id": 188738304,
+      "lat": 39.307207,
+      "lon": -91.518973
+    },
+    {
+      "type": "node",
+      "id": 188738306,
+      "lat": 39.307266,
+      "lon": -91.520886
+    },
+    {
+      "type": "node",
+      "id": 188741006,
+      "lat": 39.29149,
+      "lon": -91.499692
+    },
+    {
+      "type": "node",
+      "id": 188664070,
+      "lat": 39.294154,
+      "lon": -91.499646
+    },
+    {
+      "type": "node",
+      "id": 188741008,
+      "lat": 39.296844,
+      "lon": -91.499601
+    },
+    {
+      "type": "node",
+      "id": 188728288,
+      "lat": 39.296341,
+      "lon": -91.491322
+    },
+    {
+      "type": "node",
+      "id": 188728290,
+      "lat": 39.297757,
+      "lon": -91.491299
+    },
+    {
+      "type": "node",
+      "id": 188728292,
+      "lat": 39.298599,
+      "lon": -91.491267
+    },
+    {
+      "type": "node",
+      "id": 188732161,
+      "lat": 39.296337,
+      "lon": -91.49017
+    },
+    {
+      "type": "node",
+      "id": 188732164,
+      "lat": 39.29634,
+      "lon": -91.490141
+    },
+    {
+      "type": "node",
+      "id": 188732166,
+      "lat": 39.296379,
+      "lon": -91.490094
+    },
+    {
+      "type": "node",
+      "id": 188732169,
+      "lat": 39.296457,
+      "lon": -91.490079
+    },
+    {
+      "type": "node",
+      "id": 188732172,
+      "lat": 39.297747,
+      "lon": -91.490056
+    },
+    {
+      "type": "node",
+      "id": 188732174,
+      "lat": 39.298581,
+      "lon": -91.490029
+    },
+    {
+      "type": "node",
+      "id": 188746149,
+      "lat": 39.298555,
+      "lon": -91.488637
+    },
+    {
+      "type": "node",
+      "id": 188746151,
+      "lat": 39.298613,
+      "lon": -91.492279
+    },
+    {
+      "type": "node",
+      "id": 5321445509,
+      "lat": 39.303543,
+      "lon": -91.5021955
+    },
+    {
+      "type": "node",
+      "id": 5321445510,
+      "lat": 39.3040031,
+      "lon": -91.5014025
+    },
+    {
+      "type": "node",
+      "id": 188669672,
+      "lat": 39.306578,
+      "lon": -91.512073
+    },
+    {
+      "type": "node",
+      "id": 188691781,
+      "lat": 39.306445,
+      "lon": -91.508477
+    },
+    {
+      "type": "node",
+      "id": 188691803,
+      "lat": 39.306476,
+      "lon": -91.509353
+    },
+    {
+      "type": "node",
+      "id": 188738287,
+      "lat": 39.306432,
+      "lon": -91.508107
+    },
+    {
+      "type": "node",
+      "id": 188738289,
+      "lat": 39.306498,
+      "lon": -91.509991
+    },
+    {
+      "type": "node",
+      "id": 188738291,
+      "lat": 39.306505,
+      "lon": -91.51018
+    },
+    {
+      "type": "node",
+      "id": 188738293,
+      "lat": 39.306547,
+      "lon": -91.511132
+    },
+    {
+      "type": "node",
+      "id": 188738294,
+      "lat": 39.306593,
+      "lon": -91.512524
+    },
+    {
+      "type": "node",
+      "id": 188738295,
+      "lat": 39.306624,
+      "lon": -91.512969
+    },
+    {
+      "type": "node",
+      "id": 188738296,
+      "lat": 39.306697,
+      "lon": -91.513739
+    },
+    {
+      "type": "node",
+      "id": 188637514,
+      "lat": 39.306393,
+      "lon": -91.507
+    },
+    {
+      "type": "node",
+      "id": 188671540,
+      "lat": 39.3062627,
+      "lon": -91.5035574
+    },
+    {
+      "type": "node",
+      "id": 188671551,
+      "lat": 39.3062787,
+      "lon": -91.5040182
+    },
+    {
+      "type": "node",
+      "id": 188738277,
+      "lat": 39.3061919,
+      "lon": -91.5017144
+    },
+    {
+      "type": "node",
+      "id": 188738279,
+      "lat": 39.306247,
+      "lon": -91.502971
+    },
+    {
+      "type": "node",
+      "id": 188738281,
+      "lat": 39.3062987,
+      "lon": -91.5045911
+    },
+    {
+      "type": "node",
+      "id": 188738283,
+      "lat": 39.3063134,
+      "lon": -91.5048637
+    },
+    {
+      "type": "node",
+      "id": 188738285,
+      "lat": 39.3063335,
+      "lon": -91.5056075
+    },
+    {
+      "type": "node",
+      "id": 188637422,
+      "lat": 39.3040267,
+      "lon": -91.4994824
+    },
+    {
+      "type": "node",
+      "id": 188641132,
+      "lat": 39.305174,
+      "lon": -91.499239
+    },
+    {
+      "type": "node",
+      "id": 188663877,
+      "lat": 39.299554,
+      "lon": -91.497626
+    },
+    {
+      "type": "node",
+      "id": 188663899,
+      "lat": 39.298768,
+      "lon": -91.500116
+    },
+    {
+      "type": "node",
+      "id": 188663901,
+      "lat": 39.2988,
+      "lon": -91.499798
+    },
+    {
+      "type": "node",
+      "id": 188663903,
+      "lat": 39.298823,
+      "lon": -91.499568
+    },
+    {
+      "type": "node",
+      "id": 188671806,
+      "lat": 39.30509,
+      "lon": -91.499468
+    },
+    {
+      "type": "node",
+      "id": 188709030,
+      "lat": 39.304886,
+      "lon": -91.49947
+    },
+    {
+      "type": "node",
+      "id": 188709047,
+      "lat": 39.3045707,
+      "lon": -91.4994878
+    },
+    {
+      "type": "node",
+      "id": 188741010,
+      "lat": 39.303162,
+      "lon": -91.499489
+    },
+    {
+      "type": "node",
+      "id": 188741012,
+      "lat": 39.3040963,
+      "lon": -91.4994824
+    },
+    {
+      "type": "node",
+      "id": 188741573,
+      "lat": 39.298826,
+      "lon": -91.4994272
+    },
+    {
+      "type": "node",
+      "id": 188741575,
+      "lat": 39.29887,
+      "lon": -91.499246
+    },
+    {
+      "type": "node",
+      "id": 188741576,
+      "lat": 39.298884,
+      "lon": -91.499212
+    },
+    {
+      "type": "node",
+      "id": 188741577,
+      "lat": 39.300186,
+      "lon": -91.496136
+    },
+    {
+      "type": "node",
+      "id": 188741578,
+      "lat": 39.300308,
+      "lon": -91.495827
+    },
+    {
+      "type": "node",
+      "id": 188749912,
+      "lat": 39.3043121,
+      "lon": -91.4994903
+    },
+    {
+      "type": "node",
+      "id": 188749913,
+      "lat": 39.3043637,
+      "lon": -91.4994885
+    },
+    {
+      "type": "node",
+      "id": 188631188,
+      "lat": 39.30393,
+      "lon": -91.491885
+    },
+    {
+      "type": "node",
+      "id": 188631191,
+      "lat": 39.304318,
+      "lon": -91.490939
+    },
+    {
+      "type": "node",
+      "id": 188631192,
+      "lat": 39.304676,
+      "lon": -91.490087
+    },
+    {
+      "type": "node",
+      "id": 188631194,
+      "lat": 39.3048564,
+      "lon": -91.4896526
+    },
+    {
+      "type": "node",
+      "id": 188631197,
+      "lat": 39.305068,
+      "lon": -91.489153
+    },
+    {
+      "type": "node",
+      "id": 188637519,
+      "lat": 39.3016476,
+      "lon": -91.4927147
+    },
+    {
+      "type": "node",
+      "id": 188678954,
+      "lat": 39.304096,
+      "lon": -91.489183
+    },
+    {
+      "type": "node",
+      "id": 188691881,
+      "lat": 39.304865,
+      "lon": -91.491936
+    },
+    {
+      "type": "node",
+      "id": 188721914,
+      "lat": 39.304322,
+      "lon": -91.488632
+    },
+    {
+      "type": "node",
+      "id": 188728294,
+      "lat": 39.299392,
+      "lon": -91.491235
+    },
+    {
+      "type": "node",
+      "id": 188728296,
+      "lat": 39.299517,
+      "lon": -91.491262
+    },
+    {
+      "type": "node",
+      "id": 188728298,
+      "lat": 39.29963,
+      "lon": -91.491303
+    },
+    {
+      "type": "node",
+      "id": 188728299,
+      "lat": 39.29983,
+      "lon": -91.49143
+    },
+    {
+      "type": "node",
+      "id": 188728300,
+      "lat": 39.300139,
+      "lon": -91.491653
+    },
+    {
+      "type": "node",
+      "id": 188728301,
+      "lat": 39.300904,
+      "lon": -91.492174
+    },
+    {
+      "type": "node",
+      "id": 188728302,
+      "lat": 39.301161,
+      "lon": -91.492348
+    },
+    {
+      "type": "node",
+      "id": 188731717,
+      "lat": 39.30424,
+      "lon": -91.493449
+    },
+    {
+      "type": "node",
+      "id": 188732101,
+      "lat": 39.30415,
+      "lon": -91.493658
+    },
+    {
+      "type": "node",
+      "id": 188732104,
+      "lat": 39.304368,
+      "lon": -91.493148
+    },
+    {
+      "type": "node",
+      "id": 188732107,
+      "lat": 39.304674,
+      "lon": -91.492399
+    },
+    {
+      "type": "node",
+      "id": 188732110,
+      "lat": 39.305064,
+      "lon": -91.491458
+    },
+    {
+      "type": "node",
+      "id": 188732131,
+      "lat": 39.29988,
+      "lon": -91.490146
+    },
+    {
+      "type": "node",
+      "id": 188732133,
+      "lat": 39.299869,
+      "lon": -91.490229
+    },
+    {
+      "type": "node",
+      "id": 188732137,
+      "lat": 39.299908,
+      "lon": -91.490308
+    },
+    {
+      "type": "node",
+      "id": 188732140,
+      "lat": 39.300329,
+      "lon": -91.490618
+    },
+    {
+      "type": "node",
+      "id": 188732143,
+      "lat": 39.300521,
+      "lon": -91.490735
+    },
+    {
+      "type": "node",
+      "id": 188732145,
+      "lat": 39.300638,
+      "lon": -91.490806
+    },
+    {
+      "type": "node",
+      "id": 188732147,
+      "lat": 39.300906,
+      "lon": -91.490996
+    },
+    {
+      "type": "node",
+      "id": 188732149,
+      "lat": 39.30129,
+      "lon": -91.491252
+    },
+    {
+      "type": "node",
+      "id": 188732152,
+      "lat": 39.301608,
+      "lon": -91.491464
+    },
+    {
+      "type": "node",
+      "id": 188732155,
+      "lat": 39.302033,
+      "lon": -91.491755
+    },
+    {
+      "type": "node",
+      "id": 188737396,
+      "lat": 39.300626,
+      "lon": -91.492842
+    },
+    {
+      "type": "node",
+      "id": 188737399,
+      "lat": 39.301574,
+      "lon": -91.490525
+    },
+    {
+      "type": "node",
+      "id": 188737400,
+      "lat": 39.301667,
+      "lon": -91.490315
+    },
+    {
+      "type": "node",
+      "id": 188737403,
+      "lat": 39.301822,
+      "lon": -91.489965
+    },
+    {
+      "type": "node",
+      "id": 188737404,
+      "lat": 39.302064,
+      "lon": -91.489388
+    },
+    {
+      "type": "node",
+      "id": 188737406,
+      "lat": 39.302431,
+      "lon": -91.488524
+    },
+    {
+      "type": "node",
+      "id": 188738982,
+      "lat": 39.303162,
+      "lon": -91.491355
+    },
+    {
+      "type": "node",
+      "id": 188738984,
+      "lat": 39.303564,
+      "lon": -91.490419
+    },
+    {
+      "type": "node",
+      "id": 188738986,
+      "lat": 39.303929,
+      "lon": -91.489583
+    },
+    {
+      "type": "node",
+      "id": 188738988,
+      "lat": 39.303978,
+      "lon": -91.489472
+    },
+    {
+      "type": "node",
+      "id": 188741579,
+      "lat": 39.300848,
+      "lon": -91.494581
+    },
+    {
+      "type": "node",
+      "id": 188741581,
+      "lat": 39.302421,
+      "lon": -91.49084
+    },
+    {
+      "type": "node",
+      "id": 188741583,
+      "lat": 39.302816,
+      "lon": -91.48991
+    },
+    {
+      "type": "node",
+      "id": 188741585,
+      "lat": 39.303172,
+      "lon": -91.489073
+    },
+    {
+      "type": "node",
+      "id": 188742917,
+      "lat": 39.302269,
+      "lon": -91.488404
+    },
+    {
+      "type": "node",
+      "id": 188747099,
+      "lat": 39.299388,
+      "lon": -91.48861
+    },
+    {
+      "type": "node",
+      "id": 188747100,
+      "lat": 39.29939,
+      "lon": -91.49011
+    },
+    {
+      "type": "node",
+      "id": 188748673,
+      "lat": 39.298727,
+      "lon": -91.488627
+    },
+    {
+      "type": "node",
+      "id": 188748675,
+      "lat": 39.300505,
+      "lon": -91.488584
+    },
+    {
+      "type": "node",
+      "id": 188748677,
+      "lat": 39.300938,
+      "lon": -91.488575
+    },
+    {
+      "type": "node",
+      "id": 188748679,
+      "lat": 39.300947,
+      "lon": -91.488712
+    },
+    {
+      "type": "node",
+      "id": 188748681,
+      "lat": 39.301004,
+      "lon": -91.488711
+    },
+    {
+      "type": "node",
+      "id": 188748685,
+      "lat": 39.301096,
+      "lon": -91.488734
+    },
+    {
+      "type": "node",
+      "id": 188748687,
+      "lat": 39.30131,
+      "lon": -91.488872
+    },
+    {
+      "type": "node",
+      "id": 188748689,
+      "lat": 39.301608,
+      "lon": -91.489066
+    },
+    {
+      "type": "node",
+      "id": 188748691,
+      "lat": 39.302478,
+      "lon": -91.48968
+    },
+    {
+      "type": "node",
+      "id": 188750848,
+      "lat": 39.299884,
+      "lon": -91.492228
+    },
+    {
+      "type": "node",
+      "id": 188750850,
+      "lat": 39.300032,
+      "lon": -91.491914
+    },
+    {
+      "type": "node",
+      "id": 188750852,
+      "lat": 39.300916,
+      "lon": -91.489797
+    },
+    {
+      "type": "node",
+      "id": 188758731,
+      "lat": 39.300445,
+      "lon": -91.488762
+    },
+    {
+      "type": "node",
+      "id": 188758734,
+      "lat": 39.30021,
+      "lon": -91.489323
+    },
+    {
+      "type": "node",
+      "id": 188758736,
+      "lat": 39.299885,
+      "lon": -91.490109
+    },
+    {
+      "type": "node",
+      "id": 188768249,
+      "lat": 39.302964,
+      "lon": -91.491222
+    },
+    {
+      "type": "node",
+      "id": 188768251,
+      "lat": 39.303434,
+      "lon": -91.491536
+    },
+    {
+      "type": "node",
+      "id": 8980737125,
+      "lat": 39.300104,
+      "lon": -91.4885933
+    },
+    {
+      "type": "node",
+      "id": 188630734,
+      "lat": 39.309919,
+      "lon": -91.494955
+    },
+    {
+      "type": "node",
+      "id": 188630736,
+      "lat": 39.310652,
+      "lon": -91.495451
+    },
+    {
+      "type": "node",
+      "id": 188634803,
+      "lat": 39.306713,
+      "lon": -91.499415
+    },
+    {
+      "type": "node",
+      "id": 188634805,
+      "lat": 39.306713,
+      "lon": -91.499358
+    },
+    {
+      "type": "node",
+      "id": 188634807,
+      "lat": 39.306839,
+      "lon": -91.499084
+    },
+    {
+      "type": "node",
+      "id": 188634809,
+      "lat": 39.306868,
+      "lon": -91.498895
+    },
+    {
+      "type": "node",
+      "id": 188671524,
+      "lat": 39.306407,
+      "lon": -91.498595
+    },
+    {
+      "type": "node",
+      "id": 188671526,
+      "lat": 39.306327,
+      "lon": -91.496513
+    },
+    {
+      "type": "node",
+      "id": 188671557,
+      "lat": 39.305683,
+      "lon": -91.498019
+    },
+    {
+      "type": "node",
+      "id": 188671574,
+      "lat": 39.3061452,
+      "lon": -91.5002303
+    },
+    {
+      "type": "node",
+      "id": 188678957,
+      "lat": 39.3110533,
+      "lon": -91.4992545
+    },
+    {
+      "type": "node",
+      "id": 188678980,
+      "lat": 39.3113797,
+      "lon": -91.4992392
+    },
+    {
+      "type": "node",
+      "id": 188691874,
+      "lat": 39.305738,
+      "lon": -91.499445
+    },
+    {
+      "type": "node",
+      "id": 188703839,
+      "lat": 39.310052,
+      "lon": -91.499278
+    },
+    {
+      "type": "node",
+      "id": 188718420,
+      "lat": 39.3090222,
+      "lon": -91.4993239
+    },
+    {
+      "type": "node",
+      "id": 188718421,
+      "lat": 39.3083221,
+      "lon": -91.4993562
+    },
+    {
+      "type": "node",
+      "id": 188718432,
+      "lat": 39.307287,
+      "lon": -91.499403
+    },
+    {
+      "type": "node",
+      "id": 188718434,
+      "lat": 39.3073013,
+      "lon": -91.4995437
+    },
+    {
+      "type": "node",
+      "id": 188718436,
+      "lat": 39.3073137,
+      "lon": -91.4999119
+    },
+    {
+      "type": "node",
+      "id": 188718438,
+      "lat": 39.3073123,
+      "lon": -91.5001882
+    },
+    {
+      "type": "node",
+      "id": 188723541,
+      "lat": 39.3080565,
+      "lon": -91.4993646
+    },
+    {
+      "type": "node",
+      "id": 188723542,
+      "lat": 39.308146,
+      "lon": -91.499214
+    },
+    {
+      "type": "node",
+      "id": 188723543,
+      "lat": 39.308246,
+      "lon": -91.498971
+    },
+    {
+      "type": "node",
+      "id": 188723546,
+      "lat": 39.308307,
+      "lon": -91.498739
+    },
+    {
+      "type": "node",
+      "id": 188723549,
+      "lat": 39.308548,
+      "lon": -91.498175
+    },
+    {
+      "type": "node",
+      "id": 188723551,
+      "lat": 39.308982,
+      "lon": -91.497144
+    },
+    {
+      "type": "node",
+      "id": 188723553,
+      "lat": 39.30912,
+      "lon": -91.496815
+    },
+    {
+      "type": "node",
+      "id": 188723555,
+      "lat": 39.309515,
+      "lon": -91.495862
+    },
+    {
+      "type": "node",
+      "id": 188723558,
+      "lat": 39.309647,
+      "lon": -91.495542
+    },
+    {
+      "type": "node",
+      "id": 188724905,
+      "lat": 39.311203,
+      "lon": -91.496426
+    },
+    {
+      "type": "node",
+      "id": 188724906,
+      "lat": 39.311518,
+      "lon": -91.495678
+    },
+    {
+      "type": "node",
+      "id": 188724907,
+      "lat": 39.311669,
+      "lon": -91.495336
+    },
+    {
+      "type": "node",
+      "id": 188724926,
+      "lat": 39.3102,
+      "lon": -91.498781
+    },
+    {
+      "type": "node",
+      "id": 188724928,
+      "lat": 39.310094,
+      "lon": -91.499092
+    },
+    {
+      "type": "node",
+      "id": 188724930,
+      "lat": 39.309976,
+      "lon": -91.499283
+    },
+    {
+      "type": "node",
+      "id": 188734620,
+      "lat": 39.3068,
+      "lon": -91.499414
+    },
+    {
+      "type": "node",
+      "id": 188735038,
+      "lat": 39.306665,
+      "lon": -91.495734
+    },
+    {
+      "type": "node",
+      "id": 188735052,
+      "lat": 39.306879,
+      "lon": -91.495235
+    },
+    {
+      "type": "node",
+      "id": 188735054,
+      "lat": 39.307624,
+      "lon": -91.495759
+    },
+    {
+      "type": "node",
+      "id": 188735055,
+      "lat": 39.308371,
+      "lon": -91.496284
+    },
+    {
+      "type": "node",
+      "id": 188735057,
+      "lat": 39.308798,
+      "lon": -91.496575
+    },
+    {
+      "type": "node",
+      "id": 188738263,
+      "lat": 39.3066227,
+      "lon": -91.498006
+    },
+    {
+      "type": "node",
+      "id": 188738265,
+      "lat": 39.306534,
+      "lon": -91.498238
+    },
+    {
+      "type": "node",
+      "id": 188738267,
+      "lat": 39.306521,
+      "lon": -91.498276
+    },
+    {
+      "type": "node",
+      "id": 188738269,
+      "lat": 39.30623,
+      "lon": -91.499089
+    },
+    {
+      "type": "node",
+      "id": 188738271,
+      "lat": 39.3061497,
+      "lon": -91.4994399
+    },
+    {
+      "type": "node",
+      "id": 188738272,
+      "lat": 39.3061373,
+      "lon": -91.4995694
+    },
+    {
+      "type": "node",
+      "id": 188738273,
+      "lat": 39.3061385,
+      "lon": -91.499673
+    },
+    {
+      "type": "node",
+      "id": 188738275,
+      "lat": 39.3061372,
+      "lon": -91.4998438
+    },
+    {
+      "type": "node",
+      "id": 188741675,
+      "lat": 39.305465,
+      "lon": -91.498532
+    },
+    {
+      "type": "node",
+      "id": 188742387,
+      "lat": 39.307232,
+      "lon": -91.496683
+    },
+    {
+      "type": "node",
+      "id": 188742389,
+      "lat": 39.306479,
+      "lon": -91.496163
+    },
+    {
+      "type": "node",
+      "id": 188742391,
+      "lat": 39.3060932,
+      "lon": -91.495901
+    },
+    {
+      "type": "node",
+      "id": 188747472,
+      "lat": 39.306774,
+      "lon": -91.498454
+    },
+    {
+      "type": "node",
+      "id": 188747474,
+      "lat": 39.307012,
+      "lon": -91.498591
+    },
+    {
+      "type": "node",
+      "id": 188747476,
+      "lat": 39.307169,
+      "lon": -91.498676
+    },
+    {
+      "type": "node",
+      "id": 188747479,
+      "lat": 39.307174,
+      "lon": -91.498715
+    },
+    {
+      "type": "node",
+      "id": 188747482,
+      "lat": 39.307133,
+      "lon": -91.498853
+    },
+    {
+      "type": "node",
+      "id": 188747484,
+      "lat": 39.30707,
+      "lon": -91.498982
+    },
+    {
+      "type": "node",
+      "id": 188747486,
+      "lat": 39.307017,
+      "lon": -91.498993
+    },
+    {
+      "type": "node",
+      "id": 188750584,
+      "lat": 39.3056,
+      "lon": -91.49945
+    },
+    {
+      "type": "node",
+      "id": 188752407,
+      "lat": 39.30802,
+      "lon": -91.494822
+    },
+    {
+      "type": "node",
+      "id": 188752409,
+      "lat": 39.308769,
+      "lon": -91.495343
+    },
+    {
+      "type": "node",
+      "id": 188752411,
+      "lat": 39.310261,
+      "lon": -91.496401
+    },
+    {
+      "type": "node",
+      "id": 188753537,
+      "lat": 39.306822,
+      "lon": -91.497618
+    },
+    {
+      "type": "node",
+      "id": 188753539,
+      "lat": 39.306074,
+      "lon": -91.497101
+    },
+    {
+      "type": "node",
+      "id": 188758824,
+      "lat": 39.3053073,
+      "lon": -91.4989337
+    },
+    {
+      "type": "node",
+      "id": 188758825,
+      "lat": 39.306631,
+      "lon": -91.495812
+    },
+    {
+      "type": "node",
+      "id": 188758844,
+      "lat": 39.310582,
+      "lon": -91.495634
+    },
+    {
+      "type": "node",
+      "id": 188758845,
+      "lat": 39.310015,
+      "lon": -91.496989
+    },
+    {
+      "type": "node",
+      "id": 188758846,
+      "lat": 39.309098,
+      "lon": -91.499184
+    },
+    {
+      "type": "node",
+      "id": 188760010,
+      "lat": 39.30639,
+      "lon": -91.499422
+    },
+    {
+      "type": "node",
+      "id": 188760011,
+      "lat": 39.306569,
+      "lon": -91.499418
+    },
+    {
+      "type": "node",
+      "id": 188760012,
+      "lat": 39.307105,
+      "lon": -91.499407
+    },
+    {
+      "type": "node",
+      "id": 188760014,
+      "lat": 39.307638,
+      "lon": -91.499396
+    },
+    {
+      "type": "node",
+      "id": 188760015,
+      "lat": 39.309207,
+      "lon": -91.499328
+    },
+    {
+      "type": "node",
+      "id": 188760018,
+      "lat": 39.311189,
+      "lon": -91.4992472
+    },
+    {
+      "type": "node",
+      "id": 188762499,
+      "lat": 39.308557,
+      "lon": -91.495836
+    },
+    {
+      "type": "node",
+      "id": 5321445511,
+      "lat": 39.3061401,
+      "lon": -91.4987024
+    },
+    {
+      "type": "node",
+      "id": 188630338,
+      "lat": 39.307314,
+      "lon": -91.490737
+    },
+    {
+      "type": "node",
+      "id": 188630340,
+      "lat": 39.307399,
+      "lon": -91.490796
+    },
+    {
+      "type": "node",
+      "id": 188630342,
+      "lat": 39.3077842,
+      "lon": -91.4910648
+    },
+    {
+      "type": "node",
+      "id": 188630343,
+      "lat": 39.307834,
+      "lon": -91.4910975
+    },
+    {
+      "type": "node",
+      "id": 188630724,
+      "lat": 39.3073732,
+      "lon": -91.493194
+    },
+    {
+      "type": "node",
+      "id": 188630726,
+      "lat": 39.307659,
+      "lon": -91.493386
+    },
+    {
+      "type": "node",
+      "id": 188630728,
+      "lat": 39.308405,
+      "lon": -91.493915
+    },
+    {
+      "type": "node",
+      "id": 188630730,
+      "lat": 39.308776,
+      "lon": -91.494171
+    },
+    {
+      "type": "node",
+      "id": 188630732,
+      "lat": 39.309159,
+      "lon": -91.494436
+    },
+    {
+      "type": "node",
+      "id": 188634801,
+      "lat": 39.307131,
+      "lon": -91.494638
+    },
+    {
+      "type": "node",
+      "id": 188634855,
+      "lat": 39.306554,
+      "lon": -91.492507
+    },
+    {
+      "type": "node",
+      "id": 188637377,
+      "lat": 39.3085489,
+      "lon": -91.4891612
+    },
+    {
+      "type": "node",
+      "id": 188637381,
+      "lat": 39.3078998,
+      "lon": -91.4911399
+    },
+    {
+      "type": "node",
+      "id": 188645964,
+      "lat": 39.3090102,
+      "lon": -91.488939
+    },
+    {
+      "type": "node",
+      "id": 188645966,
+      "lat": 39.309429,
+      "lon": -91.489244
+    },
+    {
+      "type": "node",
+      "id": 188655417,
+      "lat": 39.309221,
+      "lon": -91.488416
+    },
+    {
+      "type": "node",
+      "id": 188655419,
+      "lat": 39.308818,
+      "lon": -91.489354
+    },
+    {
+      "type": "node",
+      "id": 188655486,
+      "lat": 39.308967,
+      "lon": -91.48946
+    },
+    {
+      "type": "node",
+      "id": 188671531,
+      "lat": 39.306243,
+      "lon": -91.492289
+    },
+    {
+      "type": "node",
+      "id": 188671536,
+      "lat": 39.306749,
+      "lon": -91.492067
+    },
+    {
+      "type": "node",
+      "id": 188679109,
+      "lat": 39.3106993,
+      "lon": -91.4942901
+    },
+    {
+      "type": "node",
+      "id": 188679111,
+      "lat": 39.3110762,
+      "lon": -91.4933572
+    },
+    {
+      "type": "node",
+      "id": 188691762,
+      "lat": 39.305611,
+      "lon": -91.493518
+    },
+    {
+      "type": "node",
+      "id": 188691883,
+      "lat": 39.305605,
+      "lon": -91.49246
+    },
+    {
+      "type": "node",
+      "id": 188698125,
+      "lat": 39.310356,
+      "lon": -91.490447
+    },
+    {
+      "type": "node",
+      "id": 188698127,
+      "lat": 39.3107752,
+      "lon": -91.4895179
+    },
+    {
+      "type": "node",
+      "id": 188707506,
+      "lat": 39.309241,
+      "lon": -91.490862
+    },
+    {
+      "type": "node",
+      "id": 188707510,
+      "lat": 39.3096462,
+      "lon": -91.4899358
+    },
+    {
+      "type": "node",
+      "id": 188707512,
+      "lat": 39.310022,
+      "lon": -91.4889869
+    },
+    {
+      "type": "node",
+      "id": 188707516,
+      "lat": 39.309092,
+      "lon": -91.490027
+    },
+    {
+      "type": "node",
+      "id": 188707528,
+      "lat": 39.309139,
+      "lon": -91.493202
+    },
+    {
+      "type": "node",
+      "id": 188714754,
+      "lat": 39.305313,
+      "lon": -91.493181
+    },
+    {
+      "type": "node",
+      "id": 188714755,
+      "lat": 39.305323,
+      "lon": -91.493299
+    },
+    {
+      "type": "node",
+      "id": 188714756,
+      "lat": 39.305381,
+      "lon": -91.493366
+    },
+    {
+      "type": "node",
+      "id": 188720700,
+      "lat": 39.307336,
+      "lon": -91.488325
+    },
+    {
+      "type": "node",
+      "id": 188720702,
+      "lat": 39.308109,
+      "lon": -91.488858
+    },
+    {
+      "type": "node",
+      "id": 188720703,
+      "lat": 39.308214,
+      "lon": -91.488931
+    },
+    {
+      "type": "node",
+      "id": 188720704,
+      "lat": 39.308374,
+      "lon": -91.489042
+    },
+    {
+      "type": "node",
+      "id": 188720705,
+      "lat": 39.3084734,
+      "lon": -91.4891105
+    },
+    {
+      "type": "node",
+      "id": 188721815,
+      "lat": 39.311528,
+      "lon": -91.488851
+    },
+    {
+      "type": "node",
+      "id": 188721916,
+      "lat": 39.30554,
+      "lon": -91.489482
+    },
+    {
+      "type": "node",
+      "id": 188721918,
+      "lat": 39.30581,
+      "lon": -91.489679
+    },
+    {
+      "type": "node",
+      "id": 188721920,
+      "lat": 39.306565,
+      "lon": -91.490212
+    },
+    {
+      "type": "node",
+      "id": 188722140,
+      "lat": 39.310781,
+      "lon": -91.488342
+    },
+    {
+      "type": "node",
+      "id": 188723560,
+      "lat": 39.310006,
+      "lon": -91.494768
+    },
+    {
+      "type": "node",
+      "id": 188723562,
+      "lat": 39.310248,
+      "lon": -91.494199
+    },
+    {
+      "type": "node",
+      "id": 188723564,
+      "lat": 39.310307,
+      "lon": -91.494024
+    },
+    {
+      "type": "node",
+      "id": 188723566,
+      "lat": 39.310372,
+      "lon": -91.493834
+    },
+    {
+      "type": "node",
+      "id": 188723569,
+      "lat": 39.310686,
+      "lon": -91.493085
+    },
+    {
+      "type": "node",
+      "id": 188723571,
+      "lat": 39.31099,
+      "lon": -91.492366
+    },
+    {
+      "type": "node",
+      "id": 188723573,
+      "lat": 39.311078,
+      "lon": -91.492149
+    },
+    {
+      "type": "node",
+      "id": 188723574,
+      "lat": 39.311464,
+      "lon": -91.491205
+    },
+    {
+      "type": "node",
+      "id": 188731160,
+      "lat": 39.309251,
+      "lon": -91.489656
+    },
+    {
+      "type": "node",
+      "id": 188731162,
+      "lat": 39.309998,
+      "lon": -91.490187
+    },
+    {
+      "type": "node",
+      "id": 188731163,
+      "lat": 39.310747,
+      "lon": -91.490713
+    },
+    {
+      "type": "node",
+      "id": 188731164,
+      "lat": 39.311197,
+      "lon": -91.491018
+    },
+    {
+      "type": "node",
+      "id": 188731699,
+      "lat": 39.308843,
+      "lon": -91.490581
+    },
+    {
+      "type": "node",
+      "id": 188731701,
+      "lat": 39.309612,
+      "lon": -91.491122
+    },
+    {
+      "type": "node",
+      "id": 188731703,
+      "lat": 39.310356,
+      "lon": -91.491645
+    },
+    {
+      "type": "node",
+      "id": 188732112,
+      "lat": 39.305424,
+      "lon": -91.490591
+    },
+    {
+      "type": "node",
+      "id": 188732115,
+      "lat": 39.306205,
+      "lon": -91.488743
+    },
+    {
+      "type": "node",
+      "id": 188737881,
+      "lat": 39.306945,
+      "lon": -91.489263
+    },
+    {
+      "type": "node",
+      "id": 188737882,
+      "lat": 39.307714,
+      "lon": -91.489787
+    },
+    {
+      "type": "node",
+      "id": 188742322,
+      "lat": 39.306942,
+      "lon": -91.491612
+    },
+    {
+      "type": "node",
+      "id": 188742919,
+      "lat": 39.306185,
+      "lon": -91.491104
+    },
+    {
+      "type": "node",
+      "id": 188744617,
+      "lat": 39.308444,
+      "lon": -91.491517
+    },
+    {
+      "type": "node",
+      "id": 188744618,
+      "lat": 39.309228,
+      "lon": -91.492053
+    },
+    {
+      "type": "node",
+      "id": 188744620,
+      "lat": 39.309962,
+      "lon": -91.492584
+    },
+    {
+      "type": "node",
+      "id": 188744624,
+      "lat": 39.310137,
+      "lon": -91.49271
+    },
+    {
+      "type": "node",
+      "id": 188744626,
+      "lat": 39.311444,
+      "lon": -91.493611
+    },
+    {
+      "type": "node",
+      "id": 188744628,
+      "lat": 39.311734,
+      "lon": -91.49383
+    },
+    {
+      "type": "node",
+      "id": 188745348,
+      "lat": 39.3086926,
+      "lon": -91.4892655
+    },
+    {
+      "type": "node",
+      "id": 188748692,
+      "lat": 39.305808,
+      "lon": -91.491985
+    },
+    {
+      "type": "node",
+      "id": 188749155,
+      "lat": 39.309657,
+      "lon": -91.488717
+    },
+    {
+      "type": "node",
+      "id": 188749157,
+      "lat": 39.310408,
+      "lon": -91.489257
+    },
+    {
+      "type": "node",
+      "id": 188749159,
+      "lat": 39.31114,
+      "lon": -91.489777
+    },
+    {
+      "type": "node",
+      "id": 188752219,
+      "lat": 39.308047,
+      "lon": -91.492465
+    },
+    {
+      "type": "node",
+      "id": 188752220,
+      "lat": 39.308352,
+      "lon": -91.49268
+    },
+    {
+      "type": "node",
+      "id": 188752222,
+      "lat": 39.308824,
+      "lon": -91.492988
+    },
+    {
+      "type": "node",
+      "id": 188752224,
+      "lat": 39.309037,
+      "lon": -91.493127
+    },
+    {
+      "type": "node",
+      "id": 188752226,
+      "lat": 39.30956,
+      "lon": -91.493512
+    },
+    {
+      "type": "node",
+      "id": 188752228,
+      "lat": 39.311048,
+      "lon": -91.494534
+    },
+    {
+      "type": "node",
+      "id": 188752399,
+      "lat": 39.307567,
+      "lon": -91.493605
+    },
+    {
+      "type": "node",
+      "id": 188752405,
+      "lat": 39.307273,
+      "lon": -91.494302
+    },
+    {
+      "type": "node",
+      "id": 188756053,
+      "lat": 39.305417,
+      "lon": -91.492914
+    },
+    {
+      "type": "node",
+      "id": 188756055,
+      "lat": 39.306046,
+      "lon": -91.491419
+    },
+    {
+      "type": "node",
+      "id": 188756056,
+      "lat": 39.30646,
+      "lon": -91.490478
+    },
+    {
+      "type": "node",
+      "id": 188756058,
+      "lat": 39.306711,
+      "lon": -91.48984
+    },
+    {
+      "type": "node",
+      "id": 188758826,
+      "lat": 39.308752,
+      "lon": -91.490781
+    },
+    {
+      "type": "node",
+      "id": 188758828,
+      "lat": 39.309031,
+      "lon": -91.49017
+    },
+    {
+      "type": "node",
+      "id": 188758840,
+      "lat": 39.311126,
+      "lon": -91.494366
+    },
+    {
+      "type": "node",
+      "id": 188758842,
+      "lat": 39.310981,
+      "lon": -91.494678
+    },
+    {
+      "type": "node",
+      "id": 188768253,
+      "lat": 39.305334,
+      "lon": -91.492856
+    },
+    {
+      "type": "node",
+      "id": 3917536611,
+      "lat": 39.3086359,
+      "lon": -91.4892255
+    },
+    {
+      "type": "node",
+      "id": 188630739,
+      "lat": 39.311946,
+      "lon": -91.496955
+    },
+    {
+      "type": "node",
+      "id": 188630740,
+      "lat": 39.312324,
+      "lon": -91.496982
+    },
+    {
+      "type": "node",
+      "id": 188678850,
+      "lat": 39.313965,
+      "lon": -91.500606
+    },
+    {
+      "type": "node",
+      "id": 188678852,
+      "lat": 39.314032,
+      "lon": -91.500708
+    },
+    {
+      "type": "node",
+      "id": 188678854,
+      "lat": 39.314119,
+      "lon": -91.500744
+    },
+    {
+      "type": "node",
+      "id": 188678856,
+      "lat": 39.314208,
+      "lon": -91.500742
+    },
+    {
+      "type": "node",
+      "id": 188678860,
+      "lat": 39.314265,
+      "lon": -91.500713
+    },
+    {
+      "type": "node",
+      "id": 188678862,
+      "lat": 39.314397,
+      "lon": -91.500644
+    },
+    {
+      "type": "node",
+      "id": 188678864,
+      "lat": 39.314639,
+      "lon": -91.5005
+    },
+    {
+      "type": "node",
+      "id": 188678879,
+      "lat": 39.312102,
+      "lon": -91.4992235
+    },
+    {
+      "type": "node",
+      "id": 188698154,
+      "lat": 39.31189,
+      "lon": -91.497093
+    },
+    {
+      "type": "node",
+      "id": 188698171,
+      "lat": 39.31504,
+      "lon": -91.499081
+    },
+    {
+      "type": "node",
+      "id": 188717714,
+      "lat": 39.316341,
+      "lon": -91.499033
+    },
+    {
+      "type": "node",
+      "id": 188724909,
+      "lat": 39.311784,
+      "lon": -91.495062
+    },
+    {
+      "type": "node",
+      "id": 188729120,
+      "lat": 39.315388,
+      "lon": -91.495093
+    },
+    {
+      "type": "node",
+      "id": 188729122,
+      "lat": 39.315414,
+      "lon": -91.495789
+    },
+    {
+      "type": "node",
+      "id": 188729123,
+      "lat": 39.315435,
+      "lon": -91.496154
+    },
+    {
+      "type": "node",
+      "id": 188744802,
+      "lat": 39.314589,
+      "lon": -91.495954
+    },
+    {
+      "type": "node",
+      "id": 188744803,
+      "lat": 39.314588,
+      "lon": -91.496183
+    },
+    {
+      "type": "node",
+      "id": 188752230,
+      "lat": 39.31188,
+      "lon": -91.495131
+    },
+    {
+      "type": "node",
+      "id": 188752231,
+      "lat": 39.312521,
+      "lon": -91.495563
+    },
+    {
+      "type": "node",
+      "id": 188752232,
+      "lat": 39.31318,
+      "lon": -91.496006
+    },
+    {
+      "type": "node",
+      "id": 188752233,
+      "lat": 39.313411,
+      "lon": -91.496133
+    },
+    {
+      "type": "node",
+      "id": 188752234,
+      "lat": 39.313591,
+      "lon": -91.496198
+    },
+    {
+      "type": "node",
+      "id": 188752236,
+      "lat": 39.313789,
+      "lon": -91.496204
+    },
+    {
+      "type": "node",
+      "id": 188752238,
+      "lat": 39.314493,
+      "lon": -91.496187
+    },
+    {
+      "type": "node",
+      "id": 188752240,
+      "lat": 39.31636,
+      "lon": -91.496122
+    },
+    {
+      "type": "node",
+      "id": 188752242,
+      "lat": 39.316848,
+      "lon": -91.496092
+    },
+    {
+      "type": "node",
+      "id": 188752342,
+      "lat": 39.313756,
+      "lon": -91.495205
+    },
+    {
+      "type": "node",
+      "id": 188752344,
+      "lat": 39.313868,
+      "lon": -91.498583
+    },
+    {
+      "type": "node",
+      "id": 188752346,
+      "lat": 39.313878,
+      "lon": -91.498817
+    },
+    {
+      "type": "node",
+      "id": 188752348,
+      "lat": 39.313885,
+      "lon": -91.49899
+    },
+    {
+      "type": "node",
+      "id": 188752350,
+      "lat": 39.313914,
+      "lon": -91.499123
+    },
+    {
+      "type": "node",
+      "id": 188760020,
+      "lat": 39.314263,
+      "lon": -91.49911
+    },
+    {
+      "type": "node",
+      "id": 188760022,
+      "lat": 39.318217,
+      "lon": -91.498962
+    },
+    {
+      "type": "node",
+      "id": 188760503,
+      "lat": 39.3164,
+      "lon": -91.495062
+    },
+    {
+      "type": "node",
+      "id": 188760660,
+      "lat": 39.312127,
+      "lon": -91.496504
+    },
+    {
+      "type": "node",
+      "id": 188761150,
+      "lat": 39.313918,
+      "lon": -91.500535
+    },
+    {
+      "type": "node",
+      "id": 188761152,
+      "lat": 39.313862,
+      "lon": -91.500329
+    },
+    {
+      "type": "node",
+      "id": 188761154,
+      "lat": 39.313853,
+      "lon": -91.500284
+    },
+    {
+      "type": "node",
+      "id": 188761156,
+      "lat": 39.313835,
+      "lon": -91.500198
+    },
+    {
+      "type": "node",
+      "id": 188761158,
+      "lat": 39.313835,
+      "lon": -91.500113
+    },
+    {
+      "type": "node",
+      "id": 188761160,
+      "lat": 39.313853,
+      "lon": -91.500059
+    },
+    {
+      "type": "node",
+      "id": 188761162,
+      "lat": 39.313909,
+      "lon": -91.499813
+    },
+    {
+      "type": "node",
+      "id": 188761164,
+      "lat": 39.313933,
+      "lon": -91.49943
+    },
+    {
+      "type": "node",
+      "id": 188765014,
+      "lat": 39.315866,
+      "lon": -91.495073
+    },
+    {
+      "type": "node",
+      "id": 188765016,
+      "lat": 39.316709,
+      "lon": -91.495055
+    },
+    {
+      "type": "node",
+      "id": 188646071,
+      "lat": 39.315749,
+      "lon": -91.489538
+    },
+    {
+      "type": "node",
+      "id": 188646084,
+      "lat": 39.316108,
+      "lon": -91.489524
+    },
+    {
+      "type": "node",
+      "id": 188678840,
+      "lat": 39.316225,
+      "lon": -91.491759
+    },
+    {
+      "type": "node",
+      "id": 188678841,
+      "lat": 39.316248,
+      "lon": -91.49271
+    },
+    {
+      "type": "node",
+      "id": 188678842,
+      "lat": 39.31624,
+      "lon": -91.493361
+    },
+    {
+      "type": "node",
+      "id": 188678843,
+      "lat": 39.315938,
+      "lon": -91.493359
+    },
+    {
+      "type": "node",
+      "id": 188678844,
+      "lat": 39.315324,
+      "lon": -91.49339
+    },
+    {
+      "type": "node",
+      "id": 188678952,
+      "lat": 39.312027,
+      "lon": -91.492233
+    },
+    {
+      "type": "node",
+      "id": 188723576,
+      "lat": 39.311795,
+      "lon": -91.490414
+    },
+    {
+      "type": "node",
+      "id": 188723578,
+      "lat": 39.311831,
+      "lon": -91.490266
+    },
+    {
+      "type": "node",
+      "id": 188723579,
+      "lat": 39.31186,
+      "lon": -91.490145
+    },
+    {
+      "type": "node",
+      "id": 188723581,
+      "lat": 39.312192,
+      "lon": -91.489402
+    },
+    {
+      "type": "node",
+      "id": 188723582,
+      "lat": 39.312237,
+      "lon": -91.489335
+    },
+    {
+      "type": "node",
+      "id": 188724911,
+      "lat": 39.312181,
+      "lon": -91.494113
+    },
+    {
+      "type": "node",
+      "id": 188724913,
+      "lat": 39.312578,
+      "lon": -91.493165
+    },
+    {
+      "type": "node",
+      "id": 188724916,
+      "lat": 39.312973,
+      "lon": -91.492242
+    },
+    {
+      "type": "node",
+      "id": 188724921,
+      "lat": 39.313625,
+      "lon": -91.491257
+    },
+    {
+      "type": "node",
+      "id": 188729111,
+      "lat": 39.315208,
+      "lon": -91.48956
+    },
+    {
+      "type": "node",
+      "id": 188729113,
+      "lat": 39.315272,
+      "lon": -91.491203
+    },
+    {
+      "type": "node",
+      "id": 188729115,
+      "lat": 39.315294,
+      "lon": -91.492284
+    },
+    {
+      "type": "node",
+      "id": 188729117,
+      "lat": 39.315304,
+      "lon": -91.492872
+    },
+    {
+      "type": "node",
+      "id": 188729119,
+      "lat": 39.315365,
+      "lon": -91.494475
+    },
+    {
+      "type": "node",
+      "id": 188730280,
+      "lat": 39.314747,
+      "lon": -91.489581
+    },
+    {
+      "type": "node",
+      "id": 188730282,
+      "lat": 39.31475,
+      "lon": -91.489231
+    },
+    {
+      "type": "node",
+      "id": 188730306,
+      "lat": 39.313744,
+      "lon": -91.488384
+    },
+    {
+      "type": "node",
+      "id": 188730308,
+      "lat": 39.313728,
+      "lon": -91.48861
+    },
+    {
+      "type": "node",
+      "id": 188730309,
+      "lat": 39.313704,
+      "lon": -91.488812
+    },
+    {
+      "type": "node",
+      "id": 188730310,
+      "lat": 39.313669,
+      "lon": -91.488955
+    },
+    {
+      "type": "node",
+      "id": 188730311,
+      "lat": 39.313631,
+      "lon": -91.489113
+    },
+    {
+      "type": "node",
+      "id": 188730312,
+      "lat": 39.313578,
+      "lon": -91.489438
+    },
+    {
+      "type": "node",
+      "id": 188730314,
+      "lat": 39.313583,
+      "lon": -91.489632
+    },
+    {
+      "type": "node",
+      "id": 188731165,
+      "lat": 39.312238,
+      "lon": -91.491744
+    },
+    {
+      "type": "node",
+      "id": 188731166,
+      "lat": 39.31292,
+      "lon": -91.492212
+    },
+    {
+      "type": "node",
+      "id": 188731168,
+      "lat": 39.313028,
+      "lon": -91.492274
+    },
+    {
+      "type": "node",
+      "id": 188731170,
+      "lat": 39.313104,
+      "lon": -91.492301
+    },
+    {
+      "type": "node",
+      "id": 188731172,
+      "lat": 39.313398,
+      "lon": -91.492344
+    },
+    {
+      "type": "node",
+      "id": 188731174,
+      "lat": 39.313655,
+      "lon": -91.492335
+    },
+    {
+      "type": "node",
+      "id": 188731175,
+      "lat": 39.314474,
+      "lon": -91.492313
+    },
+    {
+      "type": "node",
+      "id": 188731705,
+      "lat": 39.311837,
+      "lon": -91.492676
+    },
+    {
+      "type": "node",
+      "id": 188731707,
+      "lat": 39.312219,
+      "lon": -91.492936
+    },
+    {
+      "type": "node",
+      "id": 188731709,
+      "lat": 39.31304,
+      "lon": -91.493315
+    },
+    {
+      "type": "node",
+      "id": 188731710,
+      "lat": 39.31353,
+      "lon": -91.493463
+    },
+    {
+      "type": "node",
+      "id": 188731712,
+      "lat": 39.313692,
+      "lon": -91.493467
+    },
+    {
+      "type": "node",
+      "id": 188731714,
+      "lat": 39.314512,
+      "lon": -91.493425
+    },
+    {
+      "type": "node",
+      "id": 188732298,
+      "lat": 39.312328,
+      "lon": -91.489197
+    },
+    {
+      "type": "node",
+      "id": 188732299,
+      "lat": 39.312534,
+      "lon": -91.488736
+    },
+    {
+      "type": "node",
+      "id": 188732300,
+      "lat": 39.312669,
+      "lon": -91.488393
+    },
+    {
+      "type": "node",
+      "id": 188744629,
+      "lat": 39.312682,
+      "lon": -91.494255
+    },
+    {
+      "type": "node",
+      "id": 188744631,
+      "lat": 39.313424,
+      "lon": -91.494424
+    },
+    {
+      "type": "node",
+      "id": 188744633,
+      "lat": 39.313727,
+      "lon": -91.494467
+    },
+    {
+      "type": "node",
+      "id": 188744634,
+      "lat": 39.313995,
+      "lon": -91.494504
+    },
+    {
+      "type": "node",
+      "id": 188744636,
+      "lat": 39.314547,
+      "lon": -91.494479
+    },
+    {
+      "type": "node",
+      "id": 188744799,
+      "lat": 39.314385,
+      "lon": -91.489597
+    },
+    {
+      "type": "node",
+      "id": 188744800,
+      "lat": 39.314388,
+      "lon": -91.489801
+    },
+    {
+      "type": "node",
+      "id": 188744801,
+      "lat": 39.314437,
+      "lon": -91.49124
+    },
+    {
+      "type": "node",
+      "id": 188747025,
+      "lat": 39.312724,
+      "lon": -91.489677
+    },
+    {
+      "type": "node",
+      "id": 188747027,
+      "lat": 39.317188,
+      "lon": -91.489477
+    },
+    {
+      "type": "node",
+      "id": 188749161,
+      "lat": 39.312408,
+      "lon": -91.490675
+    },
+    {
+      "type": "node",
+      "id": 188749163,
+      "lat": 39.312632,
+      "lon": -91.490825
+    },
+    {
+      "type": "node",
+      "id": 188749165,
+      "lat": 39.313301,
+      "lon": -91.491274
+    },
+    {
+      "type": "node",
+      "id": 188749167,
+      "lat": 39.313491,
+      "lon": -91.49128
+    },
+    {
+      "type": "node",
+      "id": 188749169,
+      "lat": 39.314685,
+      "lon": -91.491235
+    },
+    {
+      "type": "node",
+      "id": 188758838,
+      "lat": 39.312554,
+      "lon": -91.491014
+    },
+    {
+      "type": "node",
+      "id": 188760505,
+      "lat": 39.316382,
+      "lon": -91.494262
+    },
+    {
+      "type": "node",
+      "id": 188730519,
+      "lat": 39.321083,
+      "lon": -91.498857
+    },
+    {
+      "type": "node",
+      "id": 188760024,
+      "lat": 39.320561,
+      "lon": -91.498887
+    },
+    {
+      "type": "node",
+      "id": 188672842,
+      "lat": 39.320303,
+      "lon": -91.489336
+    },
+    {
+      "type": "node",
+      "id": 188672856,
+      "lat": 39.319393,
+      "lon": -91.489382
+    },
+    {
+      "type": "node",
+      "id": 188672888,
+      "lat": 39.320002,
+      "lon": -91.489351
+    },
+    {
+      "type": "node",
+      "id": 188672930,
+      "lat": 39.319686,
+      "lon": -91.489367
+    },
+    {
+      "type": "node",
+      "id": 188728845,
+      "lat": 39.3206996,
+      "lon": -91.489319
+    },
+    {
+      "type": "node",
+      "id": 188716876,
+      "lat": 39.298505,
+      "lon": -91.487457
+    },
+    {
+      "type": "node",
+      "id": 188716878,
+      "lat": 39.297048,
+      "lon": -91.487513
+    },
+    {
+      "type": "node",
+      "id": 188746141,
+      "lat": 39.29863,
+      "lon": -91.486893
+    },
+    {
+      "type": "node",
+      "id": 188746143,
+      "lat": 39.29852,
+      "lon": -91.486911
+    },
+    {
+      "type": "node",
+      "id": 188746145,
+      "lat": 39.298473,
+      "lon": -91.487007
+    },
+    {
+      "type": "node",
+      "id": 188746147,
+      "lat": 39.298501,
+      "lon": -91.487362
+    },
+    {
+      "type": "node",
+      "id": 188739226,
+      "lat": 39.298192,
+      "lon": -91.480583
+    },
+    {
+      "type": "node",
+      "id": 188746824,
+      "lat": 39.298392,
+      "lon": -91.480569
+    },
+    {
+      "type": "node",
+      "id": 188645967,
+      "lat": 39.302116,
+      "lon": -91.484686
+    },
+    {
+      "type": "node",
+      "id": 188645969,
+      "lat": 39.301946,
+      "lon": -91.485105
+    },
+    {
+      "type": "node",
+      "id": 188645970,
+      "lat": 39.30189,
+      "lon": -91.485241
+    },
+    {
+      "type": "node",
+      "id": 188651497,
+      "lat": 39.301276,
+      "lon": -91.485841
+    },
+    {
+      "type": "node",
+      "id": 188651500,
+      "lat": 39.301552,
+      "lon": -91.485822
+    },
+    {
+      "type": "node",
+      "id": 188651502,
+      "lat": 39.301603,
+      "lon": -91.485819
+    },
+    {
+      "type": "node",
+      "id": 188679078,
+      "lat": 39.303266,
+      "lon": -91.484243
+    },
+    {
+      "type": "node",
+      "id": 188679088,
+      "lat": 39.302995,
+      "lon": -91.482894
+    },
+    {
+      "type": "node",
+      "id": 188686117,
+      "lat": 39.3016083,
+      "lon": -91.4867763
+    },
+    {
+      "type": "node",
+      "id": 188686201,
+      "lat": 39.301231,
+      "lon": -91.486807
+    },
+    {
+      "type": "node",
+      "id": 188686202,
+      "lat": 39.301218,
+      "lon": -91.486092
+    },
+    {
+      "type": "node",
+      "id": 188686203,
+      "lat": 39.301205,
+      "lon": -91.485975
+    },
+    {
+      "type": "node",
+      "id": 188686204,
+      "lat": 39.301162,
+      "lon": -91.485853
+    },
+    {
+      "type": "node",
+      "id": 188686206,
+      "lat": 39.30116,
+      "lon": -91.485769
+    },
+    {
+      "type": "node",
+      "id": 188686207,
+      "lat": 39.301175,
+      "lon": -91.48575
+    },
+    {
+      "type": "node",
+      "id": 188686208,
+      "lat": 39.301217,
+      "lon": -91.485739
+    },
+    {
+      "type": "node",
+      "id": 188686209,
+      "lat": 39.301259,
+      "lon": -91.485748
+    },
+    {
+      "type": "node",
+      "id": 188686210,
+      "lat": 39.301283,
+      "lon": -91.485806
+    },
+    {
+      "type": "node",
+      "id": 188686211,
+      "lat": 39.30125,
+      "lon": -91.485905
+    },
+    {
+      "type": "node",
+      "id": 188716743,
+      "lat": 39.301319,
+      "lon": -91.482908
+    },
+    {
+      "type": "node",
+      "id": 188716745,
+      "lat": 39.301375,
+      "lon": -91.482668
+    },
+    {
+      "type": "node",
+      "id": 188716747,
+      "lat": 39.30143,
+      "lon": -91.482457
+    },
+    {
+      "type": "node",
+      "id": 188716749,
+      "lat": 39.301429,
+      "lon": -91.482377
+    },
+    {
+      "type": "node",
+      "id": 188716751,
+      "lat": 39.301417,
+      "lon": -91.482179
+    },
+    {
+      "type": "node",
+      "id": 188716753,
+      "lat": 39.301443,
+      "lon": -91.481968
+    },
+    {
+      "type": "node",
+      "id": 188716755,
+      "lat": 39.301482,
+      "lon": -91.481835
+    },
+    {
+      "type": "node",
+      "id": 188716759,
+      "lat": 39.301173,
+      "lon": -91.484619
+    },
+    {
+      "type": "node",
+      "id": 188716760,
+      "lat": 39.30156,
+      "lon": -91.484858
+    },
+    {
+      "type": "node",
+      "id": 188716775,
+      "lat": 39.300896,
+      "lon": -91.486825
+    },
+    {
+      "type": "node",
+      "id": 188716777,
+      "lat": 39.300894,
+      "lon": -91.486992
+    },
+    {
+      "type": "node",
+      "id": 188716779,
+      "lat": 39.300901,
+      "lon": -91.487551
+    },
+    {
+      "type": "node",
+      "id": 188716815,
+      "lat": 39.300834,
+      "lon": -91.485855
+    },
+    {
+      "type": "node",
+      "id": 188716837,
+      "lat": 39.30096,
+      "lon": -91.483893
+    },
+    {
+      "type": "node",
+      "id": 188716847,
+      "lat": 39.300547,
+      "lon": -91.483116
+    },
+    {
+      "type": "node",
+      "id": 188716852,
+      "lat": 39.299618,
+      "lon": -91.486872
+    },
+    {
+      "type": "node",
+      "id": 188716854,
+      "lat": 39.29962,
+      "lon": -91.486503
+    },
+    {
+      "type": "node",
+      "id": 188716856,
+      "lat": 39.299616,
+      "lon": -91.486209
+    },
+    {
+      "type": "node",
+      "id": 188716858,
+      "lat": 39.299551,
+      "lon": -91.486025
+    },
+    {
+      "type": "node",
+      "id": 188716860,
+      "lat": 39.299444,
+      "lon": -91.485947
+    },
+    {
+      "type": "node",
+      "id": 188716862,
+      "lat": 39.299108,
+      "lon": -91.485954
+    },
+    {
+      "type": "node",
+      "id": 188716864,
+      "lat": 39.298994,
+      "lon": -91.486037
+    },
+    {
+      "type": "node",
+      "id": 188716866,
+      "lat": 39.298933,
+      "lon": -91.486156
+    },
+    {
+      "type": "node",
+      "id": 188716868,
+      "lat": 39.298926,
+      "lon": -91.486329
+    },
+    {
+      "type": "node",
+      "id": 188716870,
+      "lat": 39.298933,
+      "lon": -91.486887
+    },
+    {
+      "type": "node",
+      "id": 188720684,
+      "lat": 39.300412,
+      "lon": -91.483507
+    },
+    {
+      "type": "node",
+      "id": 188720686,
+      "lat": 39.301355,
+      "lon": -91.484169
+    },
+    {
+      "type": "node",
+      "id": 188720688,
+      "lat": 39.302874,
+      "lon": -91.48521
+    },
+    {
+      "type": "node",
+      "id": 188720690,
+      "lat": 39.303606,
+      "lon": -91.485717
+    },
+    {
+      "type": "node",
+      "id": 188720692,
+      "lat": 39.304359,
+      "lon": -91.486239
+    },
+    {
+      "type": "node",
+      "id": 188720694,
+      "lat": 39.305104,
+      "lon": -91.48676
+    },
+    {
+      "type": "node",
+      "id": 188721897,
+      "lat": 39.299887,
+      "lon": -91.486866
+    },
+    {
+      "type": "node",
+      "id": 188721898,
+      "lat": 39.301524,
+      "lon": -91.486792
+    },
+    {
+      "type": "node",
+      "id": 188721900,
+      "lat": 39.3017,
+      "lon": -91.486817
+    },
+    {
+      "type": "node",
+      "id": 188721902,
+      "lat": 39.301808,
+      "lon": -91.486864
+    },
+    {
+      "type": "node",
+      "id": 188721904,
+      "lat": 39.301915,
+      "lon": -91.486955
+    },
+    {
+      "type": "node",
+      "id": 188721906,
+      "lat": 39.302071,
+      "lon": -91.48707
+    },
+    {
+      "type": "node",
+      "id": 188721908,
+      "lat": 39.3024,
+      "lon": -91.487313
+    },
+    {
+      "type": "node",
+      "id": 188721909,
+      "lat": 39.302819,
+      "lon": -91.487603
+    },
+    {
+      "type": "node",
+      "id": 188721910,
+      "lat": 39.303039,
+      "lon": -91.487755
+    },
+    {
+      "type": "node",
+      "id": 188721911,
+      "lat": 39.303477,
+      "lon": -91.48803
+    },
+    {
+      "type": "node",
+      "id": 188721912,
+      "lat": 39.303584,
+      "lon": -91.488108
+    },
+    {
+      "type": "node",
+      "id": 188732086,
+      "lat": 39.30047,
+      "lon": -91.483299
+    },
+    {
+      "type": "node",
+      "id": 188732089,
+      "lat": 39.300786,
+      "lon": -91.482546
+    },
+    {
+      "type": "node",
+      "id": 188737408,
+      "lat": 39.303217,
+      "lon": -91.486655
+    },
+    {
+      "type": "node",
+      "id": 188737410,
+      "lat": 39.304006,
+      "lon": -91.484776
+    },
+    {
+      "type": "node",
+      "id": 188737412,
+      "lat": 39.304395,
+      "lon": -91.483864
+    },
+    {
+      "type": "node",
+      "id": 188737869,
+      "lat": 39.302462,
+      "lon": -91.486146
+    },
+    {
+      "type": "node",
+      "id": 188737871,
+      "lat": 39.303445,
+      "lon": -91.486809
+    },
+    {
+      "type": "node",
+      "id": 188737873,
+      "lat": 39.303963,
+      "lon": -91.487184
+    },
+    {
+      "type": "node",
+      "id": 188737875,
+      "lat": 39.304122,
+      "lon": -91.487299
+    },
+    {
+      "type": "node",
+      "id": 188737877,
+      "lat": 39.304708,
+      "lon": -91.4877
+    },
+    {
+      "type": "node",
+      "id": 188737894,
+      "lat": 39.299986,
+      "lon": -91.484571
+    },
+    {
+      "type": "node",
+      "id": 188737896,
+      "lat": 39.300685,
+      "lon": -91.485044
+    },
+    {
+      "type": "node",
+      "id": 188737898,
+      "lat": 39.300981,
+      "lon": -91.485093
+    },
+    {
+      "type": "node",
+      "id": 188738990,
+      "lat": 39.304576,
+      "lon": -91.488012
+    },
+    {
+      "type": "node",
+      "id": 188740878,
+      "lat": 39.303277,
+      "lon": -91.481876
+    },
+    {
+      "type": "node",
+      "id": 188740879,
+      "lat": 39.302876,
+      "lon": -91.482811
+    },
+    {
+      "type": "node",
+      "id": 188741587,
+      "lat": 39.304753,
+      "lon": -91.485301
+    },
+    {
+      "type": "node",
+      "id": 188741589,
+      "lat": 39.305139,
+      "lon": -91.484391
+    },
+    {
+      "type": "node",
+      "id": 188742915,
+      "lat": 39.301677,
+      "lon": -91.487998
+    },
+    {
+      "type": "node",
+      "id": 188744778,
+      "lat": 39.304786,
+      "lon": -91.482931
+    },
+    {
+      "type": "node",
+      "id": 188744780,
+      "lat": 39.305176,
+      "lon": -91.481992
+    },
+    {
+      "type": "node",
+      "id": 188746839,
+      "lat": 39.302145,
+      "lon": -91.482301
+    },
+    {
+      "type": "node",
+      "id": 188746840,
+      "lat": 39.303632,
+      "lon": -91.483334
+    },
+    {
+      "type": "node",
+      "id": 188746841,
+      "lat": 39.304071,
+      "lon": -91.483634
+    },
+    {
+      "type": "node",
+      "id": 188747922,
+      "lat": 39.30176,
+      "lon": -91.483209
+    },
+    {
+      "type": "node",
+      "id": 188750854,
+      "lat": 39.302587,
+      "lon": -91.485847
+    },
+    {
+      "type": "node",
+      "id": 188750856,
+      "lat": 39.303511,
+      "lon": -91.483621
+    },
+    {
+      "type": "node",
+      "id": 188751049,
+      "lat": 39.304029,
+      "lon": -91.482396
+    },
+    {
+      "type": "node",
+      "id": 188751051,
+      "lat": 39.305062,
+      "lon": -91.483127
+    },
+    {
+      "type": "node",
+      "id": 8980737129,
+      "lat": 39.3002475,
+      "lon": -91.4868514
+    },
+    {
+      "type": "node",
+      "id": 188712805,
+      "lat": 39.301591,
+      "lon": -91.480626
+    },
+    {
+      "type": "node",
+      "id": 188712807,
+      "lat": 39.30155,
+      "lon": -91.480723
+    },
+    {
+      "type": "node",
+      "id": 188716737,
+      "lat": 39.30189,
+      "lon": -91.480936
+    },
+    {
+      "type": "node",
+      "id": 188716740,
+      "lat": 39.301415,
+      "lon": -91.481044
+    },
+    {
+      "type": "node",
+      "id": 188732091,
+      "lat": 39.301172,
+      "lon": -91.481624
+    },
+    {
+      "type": "node",
+      "id": 188732094,
+      "lat": 39.301503,
+      "lon": -91.480835
+    },
+    {
+      "type": "node",
+      "id": 188740875,
+      "lat": 39.30381,
+      "lon": -91.480576
+    },
+    {
+      "type": "node",
+      "id": 188740876,
+      "lat": 39.303785,
+      "lon": -91.480701
+    },
+    {
+      "type": "node",
+      "id": 188740877,
+      "lat": 39.303676,
+      "lon": -91.480948
+    },
+    {
+      "type": "node",
+      "id": 188746826,
+      "lat": 39.298724,
+      "lon": -91.480586
+    },
+    {
+      "type": "node",
+      "id": 188746827,
+      "lat": 39.299133,
+      "lon": -91.480646
+    },
+    {
+      "type": "node",
+      "id": 188746829,
+      "lat": 39.299531,
+      "lon": -91.48075
+    },
+    {
+      "type": "node",
+      "id": 188746831,
+      "lat": 39.299956,
+      "lon": -91.480917
+    },
+    {
+      "type": "node",
+      "id": 188746833,
+      "lat": 39.300047,
+      "lon": -91.480963
+    },
+    {
+      "type": "node",
+      "id": 188746835,
+      "lat": 39.300278,
+      "lon": -91.481077
+    },
+    {
+      "type": "node",
+      "id": 188746837,
+      "lat": 39.300616,
+      "lon": -91.481256
+    },
+    {
+      "type": "node",
+      "id": 188751046,
+      "lat": 39.302399,
+      "lon": -91.481255
+    },
+    {
+      "type": "node",
+      "id": 188751047,
+      "lat": 39.302545,
+      "lon": -91.481358
+    },
+    {
+      "type": "node",
+      "id": 188752031,
+      "lat": 39.300139,
+      "lon": -91.480707
+    },
+    {
+      "type": "node",
+      "id": 188752032,
+      "lat": 39.301432,
+      "lon": -91.480635
+    },
+    {
+      "type": "node",
+      "id": 188752033,
+      "lat": 39.302867,
+      "lon": -91.480599
+    },
+    {
+      "type": "node",
+      "id": 188752034,
+      "lat": 39.303916,
+      "lon": -91.480574
+    },
+    {
+      "type": "node",
+      "id": 188752035,
+      "lat": 39.304784,
+      "lon": -91.480555
+    },
+    {
+      "type": "node",
+      "id": 188753282,
+      "lat": 39.304423,
+      "lon": -91.48146
+    },
+    {
+      "type": "node",
+      "id": 188753284,
+      "lat": 39.304536,
+      "lon": -91.481535
+    },
+    {
+      "type": "node",
+      "id": 188771795,
+      "lat": 39.304746,
+      "lon": -91.480705
+    },
+    {
+      "type": "node",
+      "id": 8994698297,
+      "lat": 39.3008178,
+      "lon": -91.4813896
+    },
+    {
+      "type": "node",
+      "id": 8995301450,
+      "lat": 39.3002197,
+      "lon": -91.4807025
+    },
+    {
+      "type": "node",
+      "id": 188631199,
+      "lat": 39.305449,
+      "lon": -91.488214
+    },
+    {
+      "type": "node",
+      "id": 188631201,
+      "lat": 39.305847,
+      "lon": -91.48728
+    },
+    {
+      "type": "node",
+      "id": 188631203,
+      "lat": 39.306247,
+      "lon": -91.486347
+    },
+    {
+      "type": "node",
+      "id": 188631204,
+      "lat": 39.306643,
+      "lon": -91.485428
+    },
+    {
+      "type": "node",
+      "id": 188637366,
+      "lat": 39.310228,
+      "lon": -91.485502
+    },
+    {
+      "type": "node",
+      "id": 188637368,
+      "lat": 39.309827,
+      "lon": -91.486419
+    },
+    {
+      "type": "node",
+      "id": 188637370,
+      "lat": 39.3093789,
+      "lon": -91.4873466
+    },
+    {
+      "type": "node",
+      "id": 188646142,
+      "lat": 39.311029,
+      "lon": -91.485447
+    },
+    {
+      "type": "node",
+      "id": 188646146,
+      "lat": 39.310343,
+      "lon": -91.485582
+    },
+    {
+      "type": "node",
+      "id": 188655415,
+      "lat": 39.309613,
+      "lon": -91.487504
+    },
+    {
+      "type": "node",
+      "id": 188678821,
+      "lat": 39.307775,
+      "lon": -91.486227
+    },
+    {
+      "type": "node",
+      "id": 188678822,
+      "lat": 39.308152,
+      "lon": -91.485285
+    },
+    {
+      "type": "node",
+      "id": 188678869,
+      "lat": 39.307033,
+      "lon": -91.485704
+    },
+    {
+      "type": "node",
+      "id": 188678870,
+      "lat": 39.307431,
+      "lon": -91.484777
+    },
+    {
+      "type": "node",
+      "id": 188678947,
+      "lat": 39.305519,
+      "lon": -91.484645
+    },
+    {
+      "type": "node",
+      "id": 188678950,
+      "lat": 39.305916,
+      "lon": -91.4837
+    },
+    {
+      "type": "node",
+      "id": 188720696,
+      "lat": 39.306601,
+      "lon": -91.487811
+    },
+    {
+      "type": "node",
+      "id": 188720698,
+      "lat": 39.307065,
+      "lon": -91.488139
+    },
+    {
+      "type": "node",
+      "id": 188722142,
+      "lat": 39.311179,
+      "lon": -91.48738
+    },
+    {
+      "type": "node",
+      "id": 188722144,
+      "lat": 39.311573,
+      "lon": -91.486449
+    },
+    {
+      "type": "node",
+      "id": 188724936,
+      "lat": 39.308896,
+      "lon": -91.487023
+    },
+    {
+      "type": "node",
+      "id": 188724938,
+      "lat": 39.309294,
+      "lon": -91.486063
+    },
+    {
+      "type": "node",
+      "id": 188724941,
+      "lat": 39.309683,
+      "lon": -91.48513
+    },
+    {
+      "type": "node",
+      "id": 188724943,
+      "lat": 39.310056,
+      "lon": -91.484259
+    },
+    {
+      "type": "node",
+      "id": 188724945,
+      "lat": 39.310572,
+      "lon": -91.48306
+    },
+    {
+      "type": "node",
+      "id": 188726774,
+      "lat": 39.310759,
+      "lon": -91.484681
+    },
+    {
+      "type": "node",
+      "id": 188726775,
+      "lat": 39.311234,
+      "lon": -91.484975
+    },
+    {
+      "type": "node",
+      "id": 188729285,
+      "lat": 39.311658,
+      "lon": -91.482875
+    },
+    {
+      "type": "node",
+      "id": 188731364,
+      "lat": 39.307831,
+      "lon": -91.482689
+    },
+    {
+      "type": "node",
+      "id": 188731367,
+      "lat": 39.307954,
+      "lon": -91.482765
+    },
+    {
+      "type": "node",
+      "id": 188731369,
+      "lat": 39.308569,
+      "lon": -91.483179
+    },
+    {
+      "type": "node",
+      "id": 188731371,
+      "lat": 39.308713,
+      "lon": -91.483276
+    },
+    {
+      "type": "node",
+      "id": 188731373,
+      "lat": 39.309315,
+      "lon": -91.483708
+    },
+    {
+      "type": "node",
+      "id": 188731375,
+      "lat": 39.310485,
+      "lon": -91.484519
+    },
+    {
+      "type": "node",
+      "id": 188732118,
+      "lat": 39.307002,
+      "lon": -91.486876
+    },
+    {
+      "type": "node",
+      "id": 188732121,
+      "lat": 39.307393,
+      "lon": -91.485958
+    },
+    {
+      "type": "node",
+      "id": 188738992,
+      "lat": 39.305502,
+      "lon": -91.485825
+    },
+    {
+      "type": "node",
+      "id": 188738994,
+      "lat": 39.305826,
+      "lon": -91.485032
+    },
+    {
+      "type": "node",
+      "id": 188738996,
+      "lat": 39.305886,
+      "lon": -91.484895
+    },
+    {
+      "type": "node",
+      "id": 188741070,
+      "lat": 39.306296,
+      "lon": -91.483956
+    },
+    {
+      "type": "node",
+      "id": 188741072,
+      "lat": 39.306683,
+      "lon": -91.483048
+    },
+    {
+      "type": "node",
+      "id": 188742323,
+      "lat": 39.308513,
+      "lon": -91.487927
+    },
+    {
+      "type": "node",
+      "id": 188742324,
+      "lat": 39.308679,
+      "lon": -91.487546
+    },
+    {
+      "type": "node",
+      "id": 188742804,
+      "lat": 39.310156,
+      "lon": -91.485453
+    },
+    {
+      "type": "node",
+      "id": 188742805,
+      "lat": 39.310824,
+      "lon": -91.485919
+    },
+    {
+      "type": "node",
+      "id": 188742806,
+      "lat": 39.311105,
+      "lon": -91.486124
+    },
+    {
+      "type": "node",
+      "id": 188742808,
+      "lat": 39.311744,
+      "lon": -91.486567
+    },
+    {
+      "type": "node",
+      "id": 188745341,
+      "lat": 39.3102714,
+      "lon": -91.4855322
+    },
+    {
+      "type": "node",
+      "id": 188745345,
+      "lat": 39.3094816,
+      "lon": -91.4874102
+    },
+    {
+      "type": "node",
+      "id": 188746767,
+      "lat": 39.310423,
+      "lon": -91.486875
+    },
+    {
+      "type": "node",
+      "id": 188746769,
+      "lat": 39.311276,
+      "lon": -91.487438
+    },
+    {
+      "type": "node",
+      "id": 188746778,
+      "lat": 39.30974,
+      "lon": -91.486365
+    },
+    {
+      "type": "node",
+      "id": 188746843,
+      "lat": 39.305675,
+      "lon": -91.484747
+    },
+    {
+      "type": "node",
+      "id": 188746845,
+      "lat": 39.308121,
+      "lon": -91.486476
+    },
+    {
+      "type": "node",
+      "id": 188746847,
+      "lat": 39.308626,
+      "lon": -91.486842
+    },
+    {
+      "type": "node",
+      "id": 188746849,
+      "lat": 39.308976,
+      "lon": -91.487076
+    },
+    {
+      "type": "node",
+      "id": 188746851,
+      "lat": 39.309197,
+      "lon": -91.487223
+    },
+    {
+      "type": "node",
+      "id": 188746853,
+      "lat": 39.309325,
+      "lon": -91.487309
+    },
+    {
+      "type": "node",
+      "id": 188747021,
+      "lat": 39.309526,
+      "lon": -91.487441
+    },
+    {
+      "type": "node",
+      "id": 188747023,
+      "lat": 39.310035,
+      "lon": -91.487807
+    },
+    {
+      "type": "node",
+      "id": 188747491,
+      "lat": 39.310727,
+      "lon": -91.486144
+    },
+    {
+      "type": "node",
+      "id": 188747492,
+      "lat": 39.311636,
+      "lon": -91.484058
+    },
+    {
+      "type": "node",
+      "id": 188747908,
+      "lat": 39.307731,
+      "lon": -91.487386
+    },
+    {
+      "type": "node",
+      "id": 188747910,
+      "lat": 39.308614,
+      "lon": -91.487997
+    },
+    {
+      "type": "node",
+      "id": 188747912,
+      "lat": 39.308787,
+      "lon": -91.488116
+    },
+    {
+      "type": "node",
+      "id": 188747914,
+      "lat": 39.308951,
+      "lon": -91.4882354
+    },
+    {
+      "type": "node",
+      "id": 188748630,
+      "lat": 39.305926,
+      "lon": -91.482516
+    },
+    {
+      "type": "node",
+      "id": 188748631,
+      "lat": 39.305849,
+      "lon": -91.482689
+    },
+    {
+      "type": "node",
+      "id": 188748632,
+      "lat": 39.305537,
+      "lon": -91.483445
+    },
+    {
+      "type": "node",
+      "id": 188748633,
+      "lat": 39.305432,
+      "lon": -91.483702
+    },
+    {
+      "type": "node",
+      "id": 188751053,
+      "lat": 39.3064,
+      "lon": -91.484026
+    },
+    {
+      "type": "node",
+      "id": 188751056,
+      "lat": 39.307045,
+      "lon": -91.484496
+    },
+    {
+      "type": "node",
+      "id": 188751058,
+      "lat": 39.307782,
+      "lon": -91.485033
+    },
+    {
+      "type": "node",
+      "id": 188751060,
+      "lat": 39.308523,
+      "lon": -91.485538
+    },
+    {
+      "type": "node",
+      "id": 188751062,
+      "lat": 39.309373,
+      "lon": -91.486117
+    },
+    {
+      "type": "node",
+      "id": 188751064,
+      "lat": 39.309591,
+      "lon": -91.486266
+    },
+    {
+      "type": "node",
+      "id": 188751065,
+      "lat": 39.309682,
+      "lon": -91.486328
+    },
+    {
+      "type": "node",
+      "id": 188752200,
+      "lat": 39.311256,
+      "lon": -91.483792
+    },
+    {
+      "type": "node",
+      "id": 188752393,
+      "lat": 39.308047,
+      "lon": -91.482185
+    },
+    {
+      "type": "node",
+      "id": 188752394,
+      "lat": 39.307441,
+      "lon": -91.483586
+    },
+    {
+      "type": "node",
+      "id": 188753286,
+      "lat": 39.30535,
+      "lon": -91.482117
+    },
+    {
+      "type": "node",
+      "id": 188753288,
+      "lat": 39.306231,
+      "lon": -91.482727
+    },
+    {
+      "type": "node",
+      "id": 188753290,
+      "lat": 39.307801,
+      "lon": -91.483841
+    },
+    {
+      "type": "node",
+      "id": 188753291,
+      "lat": 39.308177,
+      "lon": -91.484099
+    },
+    {
+      "type": "node",
+      "id": 188753293,
+      "lat": 39.308924,
+      "lon": -91.48461
+    },
+    {
+      "type": "node",
+      "id": 188753295,
+      "lat": 39.310036,
+      "lon": -91.485371
+    },
+    {
+      "type": "node",
+      "id": 188766181,
+      "lat": 39.308857,
+      "lon": -91.482519
+    },
+    {
+      "type": "node",
+      "id": 188767282,
+      "lat": 39.309623,
+      "lon": -91.482997
+    },
+    {
+      "type": "node",
+      "id": 188767284,
+      "lat": 39.309837,
+      "lon": -91.482477
+    },
+    {
+      "type": "node",
+      "id": 188655491,
+      "lat": 39.308725,
+      "lon": -91.478706
+    },
+    {
+      "type": "node",
+      "id": 188655493,
+      "lat": 39.309227,
+      "lon": -91.478665
+    },
+    {
+      "type": "node",
+      "id": 188655498,
+      "lat": 39.308663,
+      "lon": -91.476668
+    },
+    {
+      "type": "node",
+      "id": 188658233,
+      "lat": 39.311545,
+      "lon": -91.478169
+    },
+    {
+      "type": "node",
+      "id": 188678814,
+      "lat": 39.308258,
+      "lon": -91.481686
+    },
+    {
+      "type": "node",
+      "id": 188682230,
+      "lat": 39.305455,
+      "lon": -91.475509
+    },
+    {
+      "type": "node",
+      "id": 188718459,
+      "lat": 39.309424,
+      "lon": -91.480395
+    },
+    {
+      "type": "node",
+      "id": 188724948,
+      "lat": 39.311156,
+      "lon": -91.481594
+    },
+    {
+      "type": "node",
+      "id": 188724950,
+      "lat": 39.311608,
+      "lon": -91.480618
+    },
+    {
+      "type": "node",
+      "id": 188724951,
+      "lat": 39.311645,
+      "lon": -91.480509
+    },
+    {
+      "type": "node",
+      "id": 188724952,
+      "lat": 39.311659,
+      "lon": -91.48043
+    },
+    {
+      "type": "node",
+      "id": 188724954,
+      "lat": 39.311651,
+      "lon": -91.480367
+    },
+    {
+      "type": "node",
+      "id": 188724957,
+      "lat": 39.311623,
+      "lon": -91.480318
+    },
+    {
+      "type": "node",
+      "id": 188729090,
+      "lat": 39.308714,
+      "lon": -91.478263
+    },
+    {
+      "type": "node",
+      "id": 188729092,
+      "lat": 39.309707,
+      "lon": -91.47824
+    },
+    {
+      "type": "node",
+      "id": 188729094,
+      "lat": 39.310674,
+      "lon": -91.478209
+    },
+    {
+      "type": "node",
+      "id": 188729100,
+      "lat": 39.305539,
+      "lon": -91.478684
+    },
+    {
+      "type": "node",
+      "id": 188729102,
+      "lat": 39.30571,
+      "lon": -91.478654
+    },
+    {
+      "type": "node",
+      "id": 188729104,
+      "lat": 39.3068,
+      "lon": -91.478605
+    },
+    {
+      "type": "node",
+      "id": 188729105,
+      "lat": 39.30764,
+      "lon": -91.478566
+    },
+    {
+      "type": "node",
+      "id": 188729106,
+      "lat": 39.308527,
+      "lon": -91.478525
+    },
+    {
+      "type": "node",
+      "id": 188729107,
+      "lat": 39.30872,
+      "lon": -91.478511
+    },
+    {
+      "type": "node",
+      "id": 188733307,
+      "lat": 39.30874,
+      "lon": -91.479331
+    },
+    {
+      "type": "node",
+      "id": 188733309,
+      "lat": 39.308832,
+      "lon": -91.479323
+    },
+    {
+      "type": "node",
+      "id": 188733311,
+      "lat": 39.30973,
+      "lon": -91.479277
+    },
+    {
+      "type": "node",
+      "id": 188733313,
+      "lat": 39.310714,
+      "lon": -91.479223
+    },
+    {
+      "type": "node",
+      "id": 188733315,
+      "lat": 39.311613,
+      "lon": -91.479174
+    },
+    {
+      "type": "node",
+      "id": 188733319,
+      "lat": 39.305574,
+      "lon": -91.479567
+    },
+    {
+      "type": "node",
+      "id": 188733320,
+      "lat": 39.306214,
+      "lon": -91.479522
+    },
+    {
+      "type": "node",
+      "id": 188733321,
+      "lat": 39.306826,
+      "lon": -91.479496
+    },
+    {
+      "type": "node",
+      "id": 188733323,
+      "lat": 39.306948,
+      "lon": -91.479489
+    },
+    {
+      "type": "node",
+      "id": 188733325,
+      "lat": 39.307854,
+      "lon": -91.479487
+    },
+    {
+      "type": "node",
+      "id": 188733327,
+      "lat": 39.308743,
+      "lon": -91.47945
+    },
+    {
+      "type": "node",
+      "id": 188744781,
+      "lat": 39.305486,
+      "lon": -91.481245
+    },
+    {
+      "type": "node",
+      "id": 188744783,
+      "lat": 39.305539,
+      "lon": -91.481075
+    },
+    {
+      "type": "node",
+      "id": 188744785,
+      "lat": 39.305584,
+      "lon": -91.480861
+    },
+    {
+      "type": "node",
+      "id": 188744787,
+      "lat": 39.305596,
+      "lon": -91.480706
+    },
+    {
+      "type": "node",
+      "id": 188744789,
+      "lat": 39.305592,
+      "lon": -91.480544
+    },
+    {
+      "type": "node",
+      "id": 188744791,
+      "lat": 39.305551,
+      "lon": -91.479143
+    },
+    {
+      "type": "node",
+      "id": 188748621,
+      "lat": 39.30681,
+      "lon": -91.478768
+    },
+    {
+      "type": "node",
+      "id": 188748623,
+      "lat": 39.306836,
+      "lon": -91.480283
+    },
+    {
+      "type": "node",
+      "id": 188748625,
+      "lat": 39.306782,
+      "lon": -91.480497
+    },
+    {
+      "type": "node",
+      "id": 188748627,
+      "lat": 39.306709,
+      "lon": -91.48066
+    },
+    {
+      "type": "node",
+      "id": 188748629,
+      "lat": 39.306543,
+      "lon": -91.481134
+    },
+    {
+      "type": "node",
+      "id": 188752036,
+      "lat": 39.305792,
+      "lon": -91.480543
+    },
+    {
+      "type": "node",
+      "id": 188752038,
+      "lat": 39.308239,
+      "lon": -91.48046
+    },
+    {
+      "type": "node",
+      "id": 188752040,
+      "lat": 39.308764,
+      "lon": -91.480438
+    },
+    {
+      "type": "node",
+      "id": 188752042,
+      "lat": 39.308967,
+      "lon": -91.48043
+    },
+    {
+      "type": "node",
+      "id": 188752044,
+      "lat": 39.309758,
+      "lon": -91.480377
+    },
+    {
+      "type": "node",
+      "id": 188752046,
+      "lat": 39.310137,
+      "lon": -91.480355
+    },
+    {
+      "type": "node",
+      "id": 188752048,
+      "lat": 39.310719,
+      "lon": -91.480329
+    },
+    {
+      "type": "node",
+      "id": 188752050,
+      "lat": 39.310952,
+      "lon": -91.480333
+    },
+    {
+      "type": "node",
+      "id": 188752052,
+      "lat": 39.311364,
+      "lon": -91.480304
+    },
+    {
+      "type": "node",
+      "id": 188752054,
+      "lat": 39.311562,
+      "lon": -91.480305
+    },
+    {
+      "type": "node",
+      "id": 188752389,
+      "lat": 39.308665,
+      "lon": -91.476734
+    },
+    {
+      "type": "node",
+      "id": 188752390,
+      "lat": 39.308763,
+      "lon": -91.480207
+    },
+    {
+      "type": "node",
+      "id": 188752391,
+      "lat": 39.308686,
+      "lon": -91.480653
+    },
+    {
+      "type": "node",
+      "id": 188752392,
+      "lat": 39.308596,
+      "lon": -91.480885
+    },
+    {
+      "type": "node",
+      "id": 188766177,
+      "lat": 39.309742,
+      "lon": -91.479852
+    },
+    {
+      "type": "node",
+      "id": 188767286,
+      "lat": 39.310699,
+      "lon": -91.480447
+    },
+    {
+      "type": "node",
+      "id": 188767288,
+      "lat": 39.310742,
+      "lon": -91.480201
+    },
+    {
+      "type": "node",
+      "id": 188767290,
+      "lat": 39.310731,
+      "lon": -91.479666
+    },
+    {
+      "type": "node",
+      "id": 188770443,
+      "lat": 39.306648,
+      "lon": -91.481226
+    },
+    {
+      "type": "node",
+      "id": 8906116904,
+      "lat": 39.3062497,
+      "lon": -91.4786297
+    },
+    {
+      "type": "node",
+      "id": 8906116909,
+      "lat": 39.3055201,
+      "lon": -91.4779682
+    },
+    {
+      "type": "node",
+      "id": 188655524,
+      "lat": 39.308556,
+      "lon": -91.47239
+    },
+    {
+      "type": "node",
+      "id": 188729304,
+      "lat": 39.308513,
+      "lon": -91.470826
+    },
+    {
+      "type": "node",
+      "id": 188752381,
+      "lat": 39.308565,
+      "lon": -91.472695
+    },
+    {
+      "type": "node",
+      "id": 188752383,
+      "lat": 39.308597,
+      "lon": -91.473796
+    },
+    {
+      "type": "node",
+      "id": 188752385,
+      "lat": 39.308601,
+      "lon": -91.474025
+    },
+    {
+      "type": "node",
+      "id": 188752387,
+      "lat": 39.30862,
+      "lon": -91.47507
+    },
+    {
+      "type": "node",
+      "id": 188646130,
+      "lat": 39.312807,
+      "lon": -91.48246
+    },
+    {
+      "type": "node",
+      "id": 188646132,
+      "lat": 39.312395,
+      "lon": -91.483369
+    },
+    {
+      "type": "node",
+      "id": 188646134,
+      "lat": 39.311992,
+      "lon": -91.48431
+    },
+    {
+      "type": "node",
+      "id": 188646137,
+      "lat": 39.312737,
+      "lon": -91.484843
+    },
+    {
+      "type": "node",
+      "id": 188646138,
+      "lat": 39.312336,
+      "lon": -91.485765
+    },
+    {
+      "type": "node",
+      "id": 188712636,
+      "lat": 39.313763,
+      "lon": -91.487179
+    },
+    {
+      "type": "node",
+      "id": 188721804,
+      "lat": 39.313697,
+      "lon": -91.483665
+    },
+    {
+      "type": "node",
+      "id": 188721805,
+      "lat": 39.313507,
+      "lon": -91.484151
+    },
+    {
+      "type": "node",
+      "id": 188721806,
+      "lat": 39.313129,
+      "lon": -91.48512
+    },
+    {
+      "type": "node",
+      "id": 188721808,
+      "lat": 39.312785,
+      "lon": -91.485878
+    },
+    {
+      "type": "node",
+      "id": 188721810,
+      "lat": 39.312719,
+      "lon": -91.486032
+    },
+    {
+      "type": "node",
+      "id": 188721812,
+      "lat": 39.312314,
+      "lon": -91.48698
+    },
+    {
+      "type": "node",
+      "id": 188721814,
+      "lat": 39.311929,
+      "lon": -91.487891
+    },
+    {
+      "type": "node",
+      "id": 188722146,
+      "lat": 39.311967,
+      "lon": -91.485502
+    },
+    {
+      "type": "node",
+      "id": 188722148,
+      "lat": 39.312358,
+      "lon": -91.484569
+    },
+    {
+      "type": "node",
+      "id": 188722153,
+      "lat": 39.31278,
+      "lon": -91.483645
+    },
+    {
+      "type": "node",
+      "id": 188722154,
+      "lat": 39.313171,
+      "lon": -91.482697
+    },
+    {
+      "type": "node",
+      "id": 188722155,
+      "lat": 39.313538,
+      "lon": -91.481805
+    },
+    {
+      "type": "node",
+      "id": 188724302,
+      "lat": 39.313944,
+      "lon": -91.48756
+    },
+    {
+      "type": "node",
+      "id": 188724304,
+      "lat": 39.313835,
+      "lon": -91.487348
+    },
+    {
+      "type": "node",
+      "id": 188726781,
+      "lat": 39.313255,
+      "lon": -91.486404
+    },
+    {
+      "type": "node",
+      "id": 188726783,
+      "lat": 39.3134359,
+      "lon": -91.4865401
+    },
+    {
+      "type": "node",
+      "id": 188726784,
+      "lat": 39.313507,
+      "lon": -91.486589
+    },
+    {
+      "type": "node",
+      "id": 188726785,
+      "lat": 39.313687,
+      "lon": -91.486591
+    },
+    {
+      "type": "node",
+      "id": 188726786,
+      "lat": 39.314807,
+      "lon": -91.486543
+    },
+    {
+      "type": "node",
+      "id": 188726788,
+      "lat": 39.315261,
+      "lon": -91.486535
+    },
+    {
+      "type": "node",
+      "id": 188726790,
+      "lat": 39.315516,
+      "lon": -91.486478
+    },
+    {
+      "type": "node",
+      "id": 188729286,
+      "lat": 39.312029,
+      "lon": -91.483109
+    },
+    {
+      "type": "node",
+      "id": 188729288,
+      "lat": 39.312116,
+      "lon": -91.483162
+    },
+    {
+      "type": "node",
+      "id": 188729290,
+      "lat": 39.312163,
+      "lon": -91.483202
+    },
+    {
+      "type": "node",
+      "id": 188729291,
+      "lat": 39.313275,
+      "lon": -91.483998
+    },
+    {
+      "type": "node",
+      "id": 188730285,
+      "lat": 39.31471,
+      "lon": -91.488197
+    },
+    {
+      "type": "node",
+      "id": 188730287,
+      "lat": 39.314688,
+      "lon": -91.487991
+    },
+    {
+      "type": "node",
+      "id": 188730288,
+      "lat": 39.314644,
+      "lon": -91.48784
+    },
+    {
+      "type": "node",
+      "id": 188730289,
+      "lat": 39.314551,
+      "lon": -91.487705
+    },
+    {
+      "type": "node",
+      "id": 188730290,
+      "lat": 39.314435,
+      "lon": -91.487565
+    },
+    {
+      "type": "node",
+      "id": 188730292,
+      "lat": 39.314389,
+      "lon": -91.487544
+    },
+    {
+      "type": "node",
+      "id": 188730294,
+      "lat": 39.314304,
+      "lon": -91.487504
+    },
+    {
+      "type": "node",
+      "id": 188730295,
+      "lat": 39.314155,
+      "lon": -91.487473
+    },
+    {
+      "type": "node",
+      "id": 188730296,
+      "lat": 39.314033,
+      "lon": -91.487495
+    },
+    {
+      "type": "node",
+      "id": 188730298,
+      "lat": 39.313901,
+      "lon": -91.487591
+    },
+    {
+      "type": "node",
+      "id": 188730300,
+      "lat": 39.313823,
+      "lon": -91.487706
+    },
+    {
+      "type": "node",
+      "id": 188730302,
+      "lat": 39.313768,
+      "lon": -91.487893
+    },
+    {
+      "type": "node",
+      "id": 188730304,
+      "lat": 39.313748,
+      "lon": -91.488149
+    },
+    {
+      "type": "node",
+      "id": 188732293,
+      "lat": 39.313727,
+      "lon": -91.48585
+    },
+    {
+      "type": "node",
+      "id": 188732294,
+      "lat": 39.3135499,
+      "lon": -91.486269
+    },
+    {
+      "type": "node",
+      "id": 188732302,
+      "lat": 39.312891,
+      "lon": -91.487832
+    },
+    {
+      "type": "node",
+      "id": 188732304,
+      "lat": 39.313049,
+      "lon": -91.487481
+    },
+    {
+      "type": "node",
+      "id": 188732306,
+      "lat": 39.3131075,
+      "lon": -91.4873336
+    },
+    {
+      "type": "node",
+      "id": 188732308,
+      "lat": 39.3132015,
+      "lon": -91.4871106
+    },
+    {
+      "type": "node",
+      "id": 188732310,
+      "lat": 39.313282,
+      "lon": -91.4869056
+    },
+    {
+      "type": "node",
+      "id": 188742810,
+      "lat": 39.312405,
+      "lon": -91.487046
+    },
+    {
+      "type": "node",
+      "id": 188746773,
+      "lat": 39.312323,
+      "lon": -91.488164
+    },
+    {
+      "type": "node",
+      "id": 188747494,
+      "lat": 39.312408,
+      "lon": -91.482211
+    },
+    {
+      "type": "node",
+      "id": 188748320,
+      "lat": 39.311999,
+      "lon": -91.4819
+    },
+    {
+      "type": "node",
+      "id": 188748322,
+      "lat": 39.3137,
+      "lon": -91.483065
+    },
+    {
+      "type": "node",
+      "id": 188752202,
+      "lat": 39.313552,
+      "lon": -91.485405
+    },
+    {
+      "type": "node",
+      "id": 188752204,
+      "lat": 39.313791,
+      "lon": -91.485581
+    },
+    {
+      "type": "node",
+      "id": 188752206,
+      "lat": 39.313815,
+      "lon": -91.48563
+    },
+    {
+      "type": "node",
+      "id": 188752208,
+      "lat": 39.313782,
+      "lon": -91.485734
+    },
+    {
+      "type": "node",
+      "id": 188760043,
+      "lat": 39.314588,
+      "lon": -91.487088
+    },
+    {
+      "type": "node",
+      "id": 188646129,
+      "lat": 39.313183,
+      "lon": -91.481546
+    },
+    {
+      "type": "node",
+      "id": 188729409,
+      "lat": 39.312754,
+      "lon": -91.481374
+    },
+    {
+      "type": "node",
+      "id": 188729411,
+      "lat": 39.312794,
+      "lon": -91.481331
+    },
+    {
+      "type": "node",
+      "id": 188729413,
+      "lat": 39.312858,
+      "lon": -91.481318
+    },
+    {
+      "type": "node",
+      "id": 188729415,
+      "lat": 39.312978,
+      "lon": -91.481398
+    },
+    {
+      "type": "node",
+      "id": 188747497,
+      "lat": 39.312731,
+      "lon": -91.481398
+    },
+    {
+      "type": "node",
+      "id": 5321445512,
+      "lat": 39.3139055,
+      "lon": -91.4808685
+    },
+    {
+      "type": "node",
+      "id": 5321445513,
+      "lat": 39.314053,
+      "lon": -91.4803856
+    },
+    {
+      "type": "node",
+      "id": 5321445514,
+      "lat": 39.3140841,
+      "lon": -91.4800177
+    },
+    {
+      "type": "node",
+      "id": 5321445515,
+      "lat": 39.3140664,
+      "lon": -91.4795808
+    },
+    {
+      "type": "node",
+      "id": 5321445516,
+      "lat": 39.3140263,
+      "lon": -91.4790405
+    },
+    {
+      "type": "node",
+      "id": 5321445517,
+      "lat": 39.3140174,
+      "lon": -91.4785634
+    },
+    {
+      "type": "node",
+      "id": 5321445518,
+      "lat": 39.3140441,
+      "lon": -91.4780863
+    },
+    {
+      "type": "node",
+      "id": 5321445519,
+      "lat": 39.3140975,
+      "lon": -91.4776264
+    },
+    {
+      "type": "node",
+      "id": 5321445520,
+      "lat": 39.314182,
+      "lon": -91.4771148
+    },
+    {
+      "type": "node",
+      "id": 8049664522,
+      "lat": 39.314067,
+      "lon": -91.4802198
+    }
+  ]
+}

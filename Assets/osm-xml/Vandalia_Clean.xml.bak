@@ -1,0 +1,3358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.57.1 74a55df1">
+  <way id="18309620">
+    <nd ref="188630338"/>
+    <nd ref="188630340"/>
+    <nd ref="188630342"/>
+    <nd ref="188630343"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="South Maple Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="P S Maple"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="18309647">
+    <nd ref="188630724"/>
+    <nd ref="188630726"/>
+    <nd ref="188630728"/>
+    <nd ref="188630730"/>
+    <nd ref="188630732"/>
+    <nd ref="188630734"/>
+    <nd ref="188630736"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="North Vine Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Vine"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18309649">
+    <nd ref="188630739"/>
+    <nd ref="188630740"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="North Vine Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Vine"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18309681">
+    <nd ref="188631188"/>
+    <nd ref="188631191"/>
+    <nd ref="188631192"/>
+    <nd ref="188631194"/>
+    <nd ref="188631197"/>
+    <nd ref="188631199"/>
+    <nd ref="188631201"/>
+    <nd ref="188631203"/>
+    <nd ref="188631204"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="West Union Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Union"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18309963">
+    <nd ref="188634803"/>
+    <nd ref="188634805"/>
+    <nd ref="188634807"/>
+    <nd ref="188634809"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="34320596"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-23d92e4b-a7d6-48cc-941c-ea4935b1f26e"/>
+  </way>
+  <way id="18310785">
+    <nd ref="188645967"/>
+    <nd ref="188645969"/>
+    <nd ref="188645970"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="34322647:34320699"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-23d92e4b-a7d6-48cc-941c-ea4935b1f26e"/>
+  </way>
+  <way id="18310804">
+    <nd ref="188646129"/>
+    <nd ref="188646130"/>
+    <nd ref="188646132"/>
+    <nd ref="188646134"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="34321083:34321084:34321086"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-23d92e4b-a7d6-48cc-941c-ea4935b1f26e"/>
+  </way>
+  <way id="18311111">
+    <nd ref="188651497"/>
+    <nd ref="188651500"/>
+    <nd ref="188651502"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="34320711:34304385"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-23d92e4b-a7d6-48cc-941c-ea4935b1f26e"/>
+  </way>
+  <way id="18311358">
+    <nd ref="188655415"/>
+    <nd ref="188655417"/>
+    <nd ref="188645964"/>
+    <nd ref="188655419"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="34320680:34320683:34320687"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-23d92e4b-a7d6-48cc-941c-ea4935b1f26e"/>
+  </way>
+  <way id="18311365">
+    <nd ref="188655491"/>
+    <nd ref="188655493"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="34320685"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-23d92e4b-a7d6-48cc-941c-ea4935b1f26e"/>
+  </way>
+  <way id="18311864">
+    <nd ref="188663899"/>
+    <nd ref="188663901"/>
+    <nd ref="188663903"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="34320641:34322629"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-23d92e4b-a7d6-48cc-941c-ea4935b1f26e"/>
+  </way>
+  <way id="18312968">
+    <nd ref="188678840"/>
+    <nd ref="188678841"/>
+    <nd ref="188678842"/>
+    <nd ref="188678843"/>
+    <nd ref="188678844"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="34321052"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-23d92e4b-a7d6-48cc-941c-ea4935b1f26e"/>
+  </way>
+  <way id="18312969">
+    <nd ref="188678850"/>
+    <nd ref="188678852"/>
+    <nd ref="188678854"/>
+    <nd ref="188678856"/>
+    <nd ref="188678860"/>
+    <nd ref="188678862"/>
+    <nd ref="188678864"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="34321053:34321054"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-23d92e4b-a7d6-48cc-941c-ea4935b1f26e"/>
+  </way>
+  <way id="18312971">
+    <nd ref="188678869"/>
+    <nd ref="188678870"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="34320693"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-23d92e4b-a7d6-48cc-941c-ea4935b1f26e"/>
+  </way>
+  <way id="18312976">
+    <nd ref="188678947"/>
+    <nd ref="188678950"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="34320696"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-23d92e4b-a7d6-48cc-941c-ea4935b1f26e"/>
+  </way>
+  <way id="18313553">
+    <nd ref="188686201"/>
+    <nd ref="188686202"/>
+    <nd ref="188686203"/>
+    <nd ref="188686204"/>
+    <nd ref="188686206"/>
+    <nd ref="188686207"/>
+    <nd ref="188686208"/>
+    <nd ref="188686209"/>
+    <nd ref="188686210"/>
+    <nd ref="188651497"/>
+    <nd ref="188686211"/>
+    <nd ref="188686203"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="34302906:34314545:34314546:34302911"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-23d92e4b-a7d6-48cc-941c-ea4935b1f26e"/>
+  </way>
+  <way id="18314605">
+    <nd ref="188698154"/>
+    <nd ref="188630739"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="34321061"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-23d92e4b-a7d6-48cc-941c-ea4935b1f26e"/>
+  </way>
+  <way id="18315975">
+    <nd ref="188712805"/>
+    <nd ref="188712807"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="34304784"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-23d92e4b-a7d6-48cc-941c-ea4935b1f26e"/>
+  </way>
+  <way id="18316181">
+    <nd ref="188714754"/>
+    <nd ref="188714755"/>
+    <nd ref="188714756"/>
+    <nd ref="188691762"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="34333658"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-23d92e4b-a7d6-48cc-941c-ea4935b1f26e"/>
+  </way>
+  <way id="18316380">
+    <nd ref="188716743"/>
+    <nd ref="188716745"/>
+    <nd ref="188716747"/>
+    <nd ref="188716749"/>
+    <nd ref="188716751"/>
+    <nd ref="188716753"/>
+    <nd ref="188716755"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="34320702"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-23d92e4b-a7d6-48cc-941c-ea4935b1f26e"/>
+  </way>
+  <way id="18316381">
+    <nd ref="188716759"/>
+    <nd ref="188716760"/>
+    <nd ref="188645969"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="34320703"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-23d92e4b-a7d6-48cc-941c-ea4935b1f26e"/>
+  </way>
+  <way id="18316383">
+    <nd ref="188716775"/>
+    <nd ref="188716777"/>
+    <nd ref="188716779"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="34320704"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-23d92e4b-a7d6-48cc-941c-ea4935b1f26e"/>
+  </way>
+  <way id="18316385">
+    <nd ref="188686204"/>
+    <nd ref="188716815"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="34320705"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-23d92e4b-a7d6-48cc-941c-ea4935b1f26e"/>
+  </way>
+  <way id="18316388">
+    <nd ref="188716852"/>
+    <nd ref="188716854"/>
+    <nd ref="188716856"/>
+    <nd ref="188716858"/>
+    <nd ref="188716860"/>
+    <nd ref="188716862"/>
+    <nd ref="188716864"/>
+    <nd ref="188716866"/>
+    <nd ref="188716868"/>
+    <nd ref="188716870"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="34320707"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-23d92e4b-a7d6-48cc-941c-ea4935b1f26e"/>
+  </way>
+  <way id="18316389">
+    <nd ref="188716876"/>
+    <nd ref="188716878"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="34320708"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-23d92e4b-a7d6-48cc-941c-ea4935b1f26e"/>
+  </way>
+  <way id="18316550">
+    <nd ref="188718432"/>
+    <nd ref="188718434"/>
+    <nd ref="188718436"/>
+    <nd ref="188718438"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Cameron Court"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="18316786">
+    <nd ref="188720684"/>
+    <nd ref="188716837"/>
+    <nd ref="188720686"/>
+    <nd ref="188645967"/>
+    <nd ref="188720688"/>
+    <nd ref="188720690"/>
+    <nd ref="188720692"/>
+    <nd ref="188720694"/>
+    <nd ref="188631201"/>
+    <nd ref="188720696"/>
+    <nd ref="188720698"/>
+    <nd ref="188720700"/>
+    <nd ref="188720702"/>
+    <nd ref="188720703"/>
+    <nd ref="188720704"/>
+    <nd ref="188720705"/>
+    <nd ref="188637377"/>
+    <nd ref="3917536611"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="South Jefferson Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Jefferson"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18316868">
+    <nd ref="188721804"/>
+    <nd ref="188721805"/>
+    <nd ref="188721806"/>
+    <nd ref="188721808"/>
+    <nd ref="188721810"/>
+    <nd ref="188721812"/>
+    <nd ref="188721814"/>
+    <nd ref="188721815"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="East Page Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Page"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18316878">
+    <nd ref="188716870"/>
+    <nd ref="188716852"/>
+    <nd ref="188721897"/>
+    <nd ref="8980737129"/>
+    <nd ref="188716775"/>
+    <nd ref="188686201"/>
+    <nd ref="188721898"/>
+    <nd ref="188686117"/>
+    <nd ref="188721900"/>
+    <nd ref="188721902"/>
+    <nd ref="188721904"/>
+    <nd ref="188721906"/>
+    <nd ref="188721908"/>
+    <nd ref="188721909"/>
+    <nd ref="188721910"/>
+    <nd ref="188721911"/>
+    <nd ref="188721912"/>
+    <nd ref="188721914"/>
+    <nd ref="188631197"/>
+    <nd ref="188721916"/>
+    <nd ref="188721918"/>
+    <nd ref="188721920"/>
+    <nd ref="188630338"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="South Maple Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Maple"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18317000">
+    <nd ref="188723541"/>
+    <nd ref="188723542"/>
+    <nd ref="188723543"/>
+    <nd ref="188723546"/>
+    <nd ref="188723549"/>
+    <nd ref="188723551"/>
+    <nd ref="188723553"/>
+    <nd ref="188723555"/>
+    <nd ref="188723558"/>
+    <nd ref="188630734"/>
+    <nd ref="188723560"/>
+    <nd ref="188723562"/>
+    <nd ref="188723564"/>
+    <nd ref="188723566"/>
+    <nd ref="188723569"/>
+    <nd ref="188723571"/>
+    <nd ref="188723573"/>
+    <nd ref="188723574"/>
+    <nd ref="188723576"/>
+    <nd ref="188723578"/>
+    <nd ref="188723579"/>
+    <nd ref="188723581"/>
+    <nd ref="188723582"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="West McPike Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="McPike"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18317028">
+    <nd ref="188724302"/>
+    <nd ref="188724304"/>
+    <nd ref="188712636"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Alford Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Alford"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="18317057">
+    <nd ref="188724905"/>
+    <nd ref="188724906"/>
+    <nd ref="188724907"/>
+    <nd ref="188724909"/>
+    <nd ref="188724911"/>
+    <nd ref="188724913"/>
+    <nd ref="188724916"/>
+    <nd ref="188724921"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="North 6th Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="6th"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18317059">
+    <nd ref="188724926"/>
+    <nd ref="188724928"/>
+    <nd ref="188724930"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="North 6th Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="6th"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+  </way>
+  <way id="18317062">
+    <nd ref="188724936"/>
+    <nd ref="188724938"/>
+    <nd ref="188724941"/>
+    <nd ref="188724943"/>
+    <nd ref="188724945"/>
+    <nd ref="188724948"/>
+    <nd ref="188724950"/>
+    <nd ref="188724951"/>
+    <nd ref="188724952"/>
+    <nd ref="188724954"/>
+    <nd ref="188724957"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="East State Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="State"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18317132">
+    <nd ref="188725872"/>
+    <nd ref="188725874"/>
+    <nd ref="188725876"/>
+    <nd ref="188725878"/>
+    <nd ref="188637454"/>
+    <nd ref="188725881"/>
+    <nd ref="8955933464"/>
+    <nd ref="188725883"/>
+    <nd ref="188725885"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Redbud Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Redbud"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+  </way>
+  <way id="18317228">
+    <nd ref="188726774"/>
+    <nd ref="188726775"/>
+    <nd ref="188722146"/>
+    <nd ref="188646138"/>
+    <nd ref="188721810"/>
+    <nd ref="188726781"/>
+    <nd ref="188726783"/>
+    <nd ref="188726784"/>
+    <nd ref="188726785"/>
+    <nd ref="188726786"/>
+    <nd ref="188726788"/>
+    <nd ref="188726790"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="North Taylor Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Taylor"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18317320">
+    <nd ref="188728288"/>
+    <nd ref="188728290"/>
+    <nd ref="188728292"/>
+    <nd ref="188728294"/>
+    <nd ref="188728296"/>
+    <nd ref="188728298"/>
+    <nd ref="188728299"/>
+    <nd ref="188728300"/>
+    <nd ref="188728301"/>
+    <nd ref="188728302"/>
+    <nd ref="188637519"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="South Central Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Central"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18317368">
+    <nd ref="188729090"/>
+    <nd ref="188729092"/>
+    <nd ref="188729094"/>
+    <nd ref="188658233"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="South Utterback Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Utterback"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18317370">
+    <nd ref="188729100"/>
+    <nd ref="188729102"/>
+    <nd ref="8906116904"/>
+    <nd ref="188729104"/>
+    <nd ref="188729105"/>
+    <nd ref="188729106"/>
+    <nd ref="188729107"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="South Utterback Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Utterback"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18317372">
+    <nd ref="188729111"/>
+    <nd ref="188729113"/>
+    <nd ref="188729115"/>
+    <nd ref="188729117"/>
+    <nd ref="188678844"/>
+    <nd ref="188729119"/>
+    <nd ref="188729120"/>
+    <nd ref="188729122"/>
+    <nd ref="188729123"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="West Daniels Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Daniels"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18317386">
+    <nd ref="188729285"/>
+    <nd ref="188729286"/>
+    <nd ref="188729288"/>
+    <nd ref="188729290"/>
+    <nd ref="188646132"/>
+    <nd ref="188722153"/>
+    <nd ref="188729291"/>
+    <nd ref="188721805"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="North Harrison Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Harrison"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18317398">
+    <nd ref="188729409"/>
+    <nd ref="188729411"/>
+    <nd ref="188729413"/>
+    <nd ref="188729415"/>
+    <nd ref="188646129"/>
+    <nd ref="188722155"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Forest Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Forest"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18317467">
+    <nd ref="188730280"/>
+    <nd ref="188730282"/>
+    <nd ref="188730285"/>
+    <nd ref="188730287"/>
+    <nd ref="188730288"/>
+    <nd ref="188730289"/>
+    <nd ref="188730290"/>
+    <nd ref="188730292"/>
+    <nd ref="188730294"/>
+    <nd ref="188730295"/>
+    <nd ref="188730296"/>
+    <nd ref="188724302"/>
+    <nd ref="188730298"/>
+    <nd ref="188730300"/>
+    <nd ref="188730302"/>
+    <nd ref="188730304"/>
+    <nd ref="188730306"/>
+    <nd ref="188730308"/>
+    <nd ref="188730309"/>
+    <nd ref="188730310"/>
+    <nd ref="188730311"/>
+    <nd ref="188730312"/>
+    <nd ref="188730314"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="East Arlington Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Arlington"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="18317535">
+    <nd ref="3917536611"/>
+    <nd ref="188745348"/>
+    <nd ref="188655419"/>
+    <nd ref="188655486"/>
+    <nd ref="188731160"/>
+    <nd ref="188707510"/>
+    <nd ref="188731162"/>
+    <nd ref="188698125"/>
+    <nd ref="188731163"/>
+    <nd ref="188731164"/>
+    <nd ref="188723574"/>
+    <nd ref="188731165"/>
+    <nd ref="188731166"/>
+    <nd ref="188724916"/>
+    <nd ref="188731168"/>
+    <nd ref="188731170"/>
+    <nd ref="188731172"/>
+    <nd ref="188731174"/>
+    <nd ref="188731175"/>
+    <nd ref="188729115"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="North Jefferson Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Jefferson"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18317547">
+    <nd ref="188731364"/>
+    <nd ref="188731367"/>
+    <nd ref="188731369"/>
+    <nd ref="188731371"/>
+    <nd ref="188731373"/>
+    <nd ref="188724943"/>
+    <nd ref="188731375"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="South Taylor Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Taylor"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18317575">
+    <nd ref="188731699"/>
+    <nd ref="188707506"/>
+    <nd ref="188731701"/>
+    <nd ref="188731703"/>
+    <nd ref="188723573"/>
+    <nd ref="188731705"/>
+    <nd ref="188731707"/>
+    <nd ref="188724913"/>
+    <nd ref="188731709"/>
+    <nd ref="188731710"/>
+    <nd ref="188731712"/>
+    <nd ref="188731714"/>
+    <nd ref="188678844"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="North Walnut Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Walnut"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18317598">
+    <nd ref="188720684"/>
+    <nd ref="188732086"/>
+    <nd ref="188716847"/>
+    <nd ref="188732089"/>
+    <nd ref="188732091"/>
+    <nd ref="188716740"/>
+    <nd ref="188732094"/>
+    <nd ref="188712807"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Joe Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Joe"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="18317599">
+    <nd ref="188732101"/>
+    <nd ref="188731717"/>
+    <nd ref="188732104"/>
+    <nd ref="188732107"/>
+    <nd ref="188691881"/>
+    <nd ref="188732110"/>
+    <nd ref="188732112"/>
+    <nd ref="188721918"/>
+    <nd ref="188732115"/>
+    <nd ref="188720696"/>
+    <nd ref="188732118"/>
+    <nd ref="188732121"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="West Olive Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Olive"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18317601">
+    <nd ref="188732131"/>
+    <nd ref="188732133"/>
+    <nd ref="188732137"/>
+    <nd ref="188732140"/>
+    <nd ref="188732143"/>
+    <nd ref="188732145"/>
+    <nd ref="188732147"/>
+    <nd ref="188732149"/>
+    <nd ref="188732152"/>
+    <nd ref="188732155"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="South Cleveland Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Cleveland"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="18317603">
+    <nd ref="188732161"/>
+    <nd ref="188732164"/>
+    <nd ref="188732166"/>
+    <nd ref="188732169"/>
+    <nd ref="188732172"/>
+    <nd ref="188732174"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="South Cleveland Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Cleveland"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="18317618">
+    <nd ref="188732293"/>
+    <nd ref="188732294"/>
+    <nd ref="188726783"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="East McPike Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="McPike"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+  </way>
+  <way id="18317621">
+    <nd ref="188723582"/>
+    <nd ref="188732298"/>
+    <nd ref="188732299"/>
+    <nd ref="188732300"/>
+    <nd ref="188732302"/>
+    <nd ref="188732304"/>
+    <nd ref="188732306"/>
+    <nd ref="188732308"/>
+    <nd ref="188732310"/>
+    <nd ref="188726783"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="East McPike Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="McPike"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18317693">
+    <nd ref="188733307"/>
+    <nd ref="188733309"/>
+    <nd ref="188733311"/>
+    <nd ref="188733313"/>
+    <nd ref="188733315"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="South Elm Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Elm"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18317695">
+    <nd ref="188733319"/>
+    <nd ref="188733320"/>
+    <nd ref="188733321"/>
+    <nd ref="188733323"/>
+    <nd ref="188733325"/>
+    <nd ref="188733327"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="South Elm Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Elm"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18317803">
+    <nd ref="188735052"/>
+    <nd ref="188735054"/>
+    <nd ref="188735055"/>
+    <nd ref="188735057"/>
+    <nd ref="188723553"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="North Cleveland Street"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Cleveland"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="18317916">
+    <nd ref="188737396"/>
+    <nd ref="188728301"/>
+    <nd ref="188732149"/>
+    <nd ref="188737399"/>
+    <nd ref="188737400"/>
+    <nd ref="188737403"/>
+    <nd ref="188737404"/>
+    <nd ref="188737406"/>
+    <nd ref="188721909"/>
+    <nd ref="188737408"/>
+    <nd ref="188720690"/>
+    <nd ref="188737410"/>
+    <nd ref="188737412"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="West Home Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Home"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18317938">
+    <nd ref="188737869"/>
+    <nd ref="188737408"/>
+    <nd ref="188737871"/>
+    <nd ref="188737873"/>
+    <nd ref="188737875"/>
+    <nd ref="188737877"/>
+    <nd ref="188631199"/>
+    <nd ref="188732115"/>
+    <nd ref="188737881"/>
+    <nd ref="188737882"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="South Walnut Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Walnut"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18317939">
+    <nd ref="188737894"/>
+    <nd ref="188737896"/>
+    <nd ref="188737898"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="South Walnut Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Walnut"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18317962">
+    <nd ref="188738263"/>
+    <nd ref="188738265"/>
+    <nd ref="188738267"/>
+    <nd ref="188671524"/>
+    <nd ref="188738269"/>
+    <nd ref="188738271"/>
+    <nd ref="188738272"/>
+    <nd ref="188738273"/>
+    <nd ref="188738275"/>
+    <nd ref="188671574"/>
+    <nd ref="188738277"/>
+    <nd ref="188738279"/>
+    <nd ref="188671540"/>
+    <nd ref="188671551"/>
+    <nd ref="188738281"/>
+    <nd ref="188738283"/>
+    <nd ref="188738285"/>
+    <nd ref="188637514"/>
+    <nd ref="188738287"/>
+    <nd ref="188691781"/>
+    <nd ref="188691803"/>
+    <nd ref="188738289"/>
+    <nd ref="188738291"/>
+    <nd ref="188738293"/>
+    <nd ref="188669672"/>
+    <nd ref="188738294"/>
+    <nd ref="188738295"/>
+    <nd ref="188738296"/>
+    <nd ref="188727517"/>
+    <nd ref="188738299"/>
+    <nd ref="188738301"/>
+    <nd ref="188738302"/>
+    <nd ref="188738303"/>
+    <nd ref="188738304"/>
+    <nd ref="188669661"/>
+    <nd ref="188738306"/>
+    <nd ref="188644187"/>
+    <nd ref="188644208"/>
+    <nd ref="188738310"/>
+    <nd ref="188738311"/>
+    <nd ref="188644092"/>
+    <nd ref="188636526"/>
+    <nd ref="188644086"/>
+    <nd ref="188738313"/>
+    <nd ref="188644153"/>
+    <nd ref="188738314"/>
+    <nd ref="188644065"/>
+    <nd ref="188738315"/>
+    <nd ref="188723508"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="State Highway P"/>
+    <tag k="name_1" v="Highway P"/>
+    <tag k="name_2" v="County Road 564"/>
+    <tag k="ref" v="MO P"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="State Highway P"/>
+    <tag k="tiger:name_base_1" v="Highway P"/>
+    <tag k="tiger:name_base_2" v="County Road 564"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="18318004">
+    <nd ref="188738982"/>
+    <nd ref="188738984"/>
+    <nd ref="188738986"/>
+    <nd ref="188738988"/>
+    <nd ref="188678954"/>
+    <nd ref="188721914"/>
+    <nd ref="188738990"/>
+    <nd ref="188737877"/>
+    <nd ref="188720694"/>
+    <nd ref="188738992"/>
+    <nd ref="188738994"/>
+    <nd ref="188738996"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="West Woodlawn Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Woodlawn"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18318007">
+    <nd ref="188739011"/>
+    <nd ref="188739013"/>
+    <nd ref="188695400"/>
+    <nd ref="188695369"/>
+    <nd ref="188707829"/>
+    <nd ref="188695416"/>
+    <nd ref="188695366"/>
+    <nd ref="188695396"/>
+    <nd ref="188739015"/>
+    <nd ref="188739017"/>
+    <nd ref="188676514"/>
+    <nd ref="188739018"/>
+    <nd ref="188739019"/>
+    <nd ref="188739020"/>
+    <nd ref="188729299"/>
+    <nd ref="188739021"/>
+    <nd ref="188678940"/>
+    <nd ref="188739022"/>
+    <nd ref="188682230"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="State Highway V"/>
+    <tag k="name_1" v="Highway V"/>
+    <tag k="ref" v="MO V"/>
+    <tag k="surface" v="paved"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="State Highway V"/>
+    <tag k="tiger:name_base_1" v="Highway V"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="18318127">
+    <nd ref="188740875"/>
+    <nd ref="188740876"/>
+    <nd ref="188740877"/>
+    <nd ref="188740878"/>
+    <nd ref="188740879"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="East Haig Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Haig"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18318139">
+    <nd ref="188741006"/>
+    <nd ref="188664070"/>
+    <nd ref="188741008"/>
+    <nd ref="188663903"/>
+    <nd ref="188741010"/>
+    <nd ref="188637422"/>
+    <nd ref="188741012"/>
+    <nd ref="188749912"/>
+    <nd ref="188749913"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Galloway Road"/>
+    <tag k="name_1" v="County Road 565"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Galloway"/>
+    <tag k="tiger:name_base_1" v="Audrain Rd 565"/>
+    <tag k="tiger:name_base_2" v="County Road 565"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="18318146">
+    <nd ref="188738996"/>
+    <nd ref="188741070"/>
+    <nd ref="188741072"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="East Woodlawn Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Woodlawn"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18318183">
+    <nd ref="188663903"/>
+    <nd ref="188741573"/>
+    <nd ref="188741575"/>
+    <nd ref="188741576"/>
+    <nd ref="188663877"/>
+    <nd ref="188741577"/>
+    <nd ref="188741578"/>
+    <nd ref="188741579"/>
+    <nd ref="188637519"/>
+    <nd ref="188732155"/>
+    <nd ref="188741581"/>
+    <nd ref="188741583"/>
+    <nd ref="188741585"/>
+    <nd ref="188721912"/>
+    <nd ref="188737873"/>
+    <nd ref="188720692"/>
+    <nd ref="188741587"/>
+    <nd ref="188741589"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="West Walsh Boulevard"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Walsh"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="Blvd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18318227">
+    <nd ref="188634855"/>
+    <nd ref="188671536"/>
+    <nd ref="188742322"/>
+    <nd ref="188630338"/>
+    <nd ref="188737882"/>
+    <nd ref="188720702"/>
+    <nd ref="188742323"/>
+    <nd ref="188742324"/>
+    <nd ref="188724936"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="West State Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="State"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18318273">
+    <nd ref="188745341"/>
+    <nd ref="188646146"/>
+    <nd ref="188742805"/>
+    <nd ref="188742806"/>
+    <nd ref="188722144"/>
+    <nd ref="188742808"/>
+    <nd ref="188721812"/>
+    <nd ref="188742810"/>
+    <nd ref="188732304"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="North Clark Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Clark"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18318284">
+    <nd ref="188742915"/>
+    <nd ref="188742917"/>
+    <nd ref="188737406"/>
+    <nd ref="188741585"/>
+    <nd ref="188738986"/>
+    <nd ref="188631192"/>
+    <nd ref="188732112"/>
+    <nd ref="188742919"/>
+    <nd ref="188742322"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="South Oak Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Oak"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18318422">
+    <nd ref="188630343"/>
+    <nd ref="188637381"/>
+    <nd ref="188744617"/>
+    <nd ref="188744618"/>
+    <nd ref="188744620"/>
+    <nd ref="188744624"/>
+    <nd ref="188723569"/>
+    <nd ref="188679111"/>
+    <nd ref="188744626"/>
+    <nd ref="188744628"/>
+    <nd ref="188724911"/>
+    <nd ref="188744629"/>
+    <nd ref="188744631"/>
+    <nd ref="188744633"/>
+    <nd ref="188744634"/>
+    <nd ref="188744636"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="North Maple Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Maple"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18318430">
+    <nd ref="188737412"/>
+    <nd ref="188744778"/>
+    <nd ref="188744780"/>
+    <nd ref="188744781"/>
+    <nd ref="188744783"/>
+    <nd ref="188744785"/>
+    <nd ref="188744787"/>
+    <nd ref="188744789"/>
+    <nd ref="188733319"/>
+    <nd ref="188744791"/>
+    <nd ref="188729100"/>
+    <nd ref="8906116909"/>
+    <nd ref="188682230"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="East Home Street"/>
+    <tag k="name_1" v="Highway V"/>
+    <tag k="name_2" v="State Highway V"/>
+    <tag k="ref" v="MO V"/>
+    <tag k="surface" v="paved"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Home"/>
+    <tag k="tiger:name_base_1" v="Highway V"/>
+    <tag k="tiger:name_base_2" v="State Highway V"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18318432">
+    <nd ref="188744799"/>
+    <nd ref="188744800"/>
+    <nd ref="188744801"/>
+    <nd ref="188731175"/>
+    <nd ref="188731714"/>
+    <nd ref="188744636"/>
+    <nd ref="188744802"/>
+    <nd ref="188744803"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="West Arlington Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Arlington"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18318436">
+    <nd ref="188725878"/>
+    <nd ref="188744891"/>
+    <nd ref="188744893"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Birchtree Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Birchtree"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+  </way>
+  <way id="18318531">
+    <nd ref="188716870"/>
+    <nd ref="188746141"/>
+    <nd ref="188746143"/>
+    <nd ref="188746145"/>
+    <nd ref="188746147"/>
+    <nd ref="188716876"/>
+    <nd ref="188746149"/>
+    <nd ref="188732174"/>
+    <nd ref="188728292"/>
+    <nd ref="188746151"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="West Limit Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Limit"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18318577">
+    <nd ref="188746767"/>
+    <nd ref="188722142"/>
+    <nd ref="188746769"/>
+    <nd ref="188721814"/>
+    <nd ref="188746773"/>
+    <nd ref="188732300"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="North Monroe Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Monroe"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18318579">
+    <nd ref="188746778"/>
+    <nd ref="188637368"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="North Monroe Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Monroe"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="18318585">
+    <nd ref="188739226"/>
+    <nd ref="188746824"/>
+    <nd ref="188746826"/>
+    <nd ref="188746827"/>
+    <nd ref="188746829"/>
+    <nd ref="188746831"/>
+    <nd ref="188746833"/>
+    <nd ref="188746835"/>
+    <nd ref="188746837"/>
+    <nd ref="8994698297"/>
+    <nd ref="188732091"/>
+    <nd ref="188716755"/>
+    <nd ref="188746839"/>
+    <nd ref="188740879"/>
+    <nd ref="188679088"/>
+    <nd ref="188746840"/>
+    <nd ref="188746841"/>
+    <nd ref="188737412"/>
+    <nd ref="188741589"/>
+    <nd ref="188678947"/>
+    <nd ref="188746843"/>
+    <nd ref="188738996"/>
+    <nd ref="188631204"/>
+    <nd ref="188678869"/>
+    <nd ref="188732121"/>
+    <nd ref="188678821"/>
+    <nd ref="188746845"/>
+    <nd ref="188746847"/>
+    <nd ref="188724936"/>
+    <nd ref="188746849"/>
+    <nd ref="188746851"/>
+    <nd ref="188746853"/>
+    <nd ref="188637370"/>
+    <nd ref="188745345"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="South Main Street"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Main"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18318612">
+    <nd ref="188745345"/>
+    <nd ref="188747021"/>
+    <nd ref="188655415"/>
+    <nd ref="188747023"/>
+    <nd ref="188722140"/>
+    <nd ref="188721815"/>
+    <nd ref="188723582"/>
+    <nd ref="188747025"/>
+    <nd ref="188730314"/>
+    <nd ref="188744799"/>
+    <nd ref="188730280"/>
+    <nd ref="188729111"/>
+    <nd ref="188646071"/>
+    <nd ref="188646084"/>
+    <nd ref="188747027"/>
+    <nd ref="188672856"/>
+    <nd ref="188672930"/>
+    <nd ref="188672888"/>
+    <nd ref="188672842"/>
+    <nd ref="188728845"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="North Main Street"/>
+    <tag k="name_1" v="State Highway F"/>
+    <tag k="ref" v="MO F"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Main"/>
+    <tag k="tiger:name_base_1" v="State Highway F"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18318620">
+    <nd ref="188747099"/>
+    <nd ref="188747100"/>
+    <nd ref="188728294"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="West Pershing Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Pershing"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18318640">
+    <nd ref="188738267"/>
+    <nd ref="188747472"/>
+    <nd ref="188747474"/>
+    <nd ref="188747476"/>
+    <nd ref="188747479"/>
+    <nd ref="188747482"/>
+    <nd ref="188747484"/>
+    <nd ref="188747486"/>
+    <nd ref="188634809"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Myrtle Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Myrtle"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+  </way>
+  <way id="18318643">
+    <nd ref="188747023"/>
+    <nd ref="188746767"/>
+    <nd ref="188747491"/>
+    <nd ref="188742805"/>
+    <nd ref="188646142"/>
+    <nd ref="188726775"/>
+    <nd ref="188747492"/>
+    <nd ref="188729286"/>
+    <nd ref="188747494"/>
+    <nd ref="188747497"/>
+    <nd ref="188729409"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="East Washington Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Washington"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18318680">
+    <nd ref="188679078"/>
+    <nd ref="188737410"/>
+    <nd ref="188741587"/>
+    <nd ref="188738992"/>
+    <nd ref="188631203"/>
+    <nd ref="188732118"/>
+    <nd ref="188747908"/>
+    <nd ref="188742323"/>
+    <nd ref="188747910"/>
+    <nd ref="188747912"/>
+    <nd ref="188747914"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="South Lindell Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Lindell"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18318681">
+    <nd ref="188732089"/>
+    <nd ref="188716743"/>
+    <nd ref="188747922"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="South Lindell Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Lindell"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18318691">
+    <nd ref="188748320"/>
+    <nd ref="188747494"/>
+    <nd ref="188646130"/>
+    <nd ref="188722154"/>
+    <nd ref="188748322"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="North Adams Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Adams"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18318708">
+    <nd ref="188729104"/>
+    <nd ref="188748621"/>
+    <nd ref="188733321"/>
+    <nd ref="188748623"/>
+    <nd ref="188748625"/>
+    <nd ref="188748627"/>
+    <nd ref="188748629"/>
+    <nd ref="188748630"/>
+    <nd ref="188748631"/>
+    <nd ref="188748632"/>
+    <nd ref="188748633"/>
+    <nd ref="188741589"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="East Walsh Boulevard"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Walsh"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="Blvd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="18318713">
+    <nd ref="188746149"/>
+    <nd ref="188748673"/>
+    <nd ref="188747099"/>
+    <nd ref="8980737125"/>
+    <nd ref="188748675"/>
+    <nd ref="188748677"/>
+    <nd ref="188748679"/>
+    <nd ref="188748681"/>
+    <nd ref="188748685"/>
+    <nd ref="188748687"/>
+    <nd ref="188748689"/>
+    <nd ref="188737404"/>
+    <nd ref="188748691"/>
+    <nd ref="188741583"/>
+    <nd ref="188738984"/>
+    <nd ref="188631191"/>
+    <nd ref="188732110"/>
+    <nd ref="188748692"/>
+    <nd ref="188671531"/>
+    <nd ref="188634855"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="South Vine Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Vine"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="18318728">
+    <nd ref="188655417"/>
+    <nd ref="188749155"/>
+    <nd ref="188707512"/>
+    <nd ref="188749157"/>
+    <nd ref="188698127"/>
+    <nd ref="188749159"/>
+    <nd ref="188723578"/>
+    <nd ref="188749161"/>
+    <nd ref="188749163"/>
+    <nd ref="188749165"/>
+    <nd ref="188749167"/>
+    <nd ref="188724921"/>
+    <nd ref="188744801"/>
+    <nd ref="188749169"/>
+    <nd ref="188729113"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="North Lindell Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Lindell"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18318805">
+    <nd ref="188749913"/>
+    <nd ref="188709047"/>
+    <nd ref="188709030"/>
+    <nd ref="188671806"/>
+    <nd ref="188750584"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Galloway Road"/>
+    <tag k="name_1" v="County Road 565"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="County Road 565"/>
+    <tag k="tiger:name_base_1" v="Galloway"/>
+    <tag k="tiger:name_type_1" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18318827">
+    <nd ref="188750848"/>
+    <nd ref="188750850"/>
+    <nd ref="188728300"/>
+    <nd ref="188732143"/>
+    <nd ref="188750852"/>
+    <nd ref="188748687"/>
+    <nd ref="188742915"/>
+    <nd ref="188721906"/>
+    <nd ref="188737869"/>
+    <nd ref="188750854"/>
+    <nd ref="188720688"/>
+    <nd ref="188679078"/>
+    <nd ref="188750856"/>
+    <nd ref="188746840"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="West Bland Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Bland"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18318841">
+    <nd ref="188712807"/>
+    <nd ref="188716737"/>
+    <nd ref="188751046"/>
+    <nd ref="188751047"/>
+    <nd ref="188740878"/>
+    <nd ref="188751049"/>
+    <nd ref="188744778"/>
+    <nd ref="188751051"/>
+    <nd ref="188748632"/>
+    <nd ref="188678950"/>
+    <nd ref="188741070"/>
+    <nd ref="188751053"/>
+    <nd ref="188751056"/>
+    <nd ref="188678870"/>
+    <nd ref="188751058"/>
+    <nd ref="188678822"/>
+    <nd ref="188751060"/>
+    <nd ref="188724938"/>
+    <nd ref="188751062"/>
+    <nd ref="188751064"/>
+    <nd ref="188751065"/>
+    <nd ref="188746778"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="South Monroe Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Monroe"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18318901">
+    <nd ref="188746833"/>
+    <nd ref="188752031"/>
+    <nd ref="8995301450"/>
+    <nd ref="188752032"/>
+    <nd ref="188712805"/>
+    <nd ref="188752033"/>
+    <nd ref="188740875"/>
+    <nd ref="188752034"/>
+    <nd ref="188752035"/>
+    <nd ref="188744789"/>
+    <nd ref="188752036"/>
+    <nd ref="188748625"/>
+    <nd ref="188752038"/>
+    <nd ref="188752040"/>
+    <nd ref="188752042"/>
+    <nd ref="188718459"/>
+    <nd ref="188752044"/>
+    <nd ref="188752046"/>
+    <nd ref="188752048"/>
+    <nd ref="188752050"/>
+    <nd ref="188752052"/>
+    <nd ref="188752054"/>
+    <nd ref="188724957"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="South Highland Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Highland"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18318918">
+    <nd ref="188752200"/>
+    <nd ref="188747492"/>
+    <nd ref="188646134"/>
+    <nd ref="188722148"/>
+    <nd ref="188646137"/>
+    <nd ref="188721806"/>
+    <nd ref="188752202"/>
+    <nd ref="188752204"/>
+    <nd ref="188752206"/>
+    <nd ref="188752208"/>
+    <nd ref="188732293"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="North Grant Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Grant"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18318921">
+    <nd ref="188752219"/>
+    <nd ref="188752220"/>
+    <nd ref="188752222"/>
+    <nd ref="188752224"/>
+    <nd ref="188707528"/>
+    <nd ref="188752226"/>
+    <nd ref="188723564"/>
+    <nd ref="188679109"/>
+    <nd ref="188752228"/>
+    <nd ref="188724909"/>
+    <nd ref="188752230"/>
+    <nd ref="188752231"/>
+    <nd ref="188752232"/>
+    <nd ref="188752233"/>
+    <nd ref="188752234"/>
+    <nd ref="188752236"/>
+    <nd ref="188752238"/>
+    <nd ref="188744803"/>
+    <nd ref="188729123"/>
+    <nd ref="188752240"/>
+    <nd ref="188752242"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="North Oak Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Oak"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="18318929">
+    <nd ref="188730314"/>
+    <nd ref="188724921"/>
+    <nd ref="188731174"/>
+    <nd ref="188731712"/>
+    <nd ref="188744633"/>
+    <nd ref="188752342"/>
+    <nd ref="188752236"/>
+    <nd ref="188752344"/>
+    <nd ref="188752346"/>
+    <nd ref="188752348"/>
+    <nd ref="188752350"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="West Missouri Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Missouri"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18318935">
+    <nd ref="188729304"/>
+    <nd ref="188655524"/>
+    <nd ref="188752381"/>
+    <nd ref="188752383"/>
+    <nd ref="188752385"/>
+    <nd ref="188752387"/>
+    <nd ref="188655498"/>
+    <nd ref="188752389"/>
+    <nd ref="188729090"/>
+    <nd ref="188729107"/>
+    <nd ref="188655491"/>
+    <nd ref="188733307"/>
+    <nd ref="188733327"/>
+    <nd ref="188752390"/>
+    <nd ref="188752040"/>
+    <nd ref="188752391"/>
+    <nd ref="188752392"/>
+    <nd ref="188678814"/>
+    <nd ref="188752393"/>
+    <nd ref="188731364"/>
+    <nd ref="188752394"/>
+    <nd ref="188751056"/>
+    <nd ref="188631204"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="East Union Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Union"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+  </way>
+  <way id="18318938">
+    <nd ref="188752405"/>
+    <nd ref="188752407"/>
+    <nd ref="188752409"/>
+    <nd ref="188723555"/>
+    <nd ref="188752411"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="North Lincoln Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Lincoln"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18319005">
+    <nd ref="188740877"/>
+    <nd ref="188753282"/>
+    <nd ref="188753284"/>
+    <nd ref="188744780"/>
+    <nd ref="188753286"/>
+    <nd ref="188748630"/>
+    <nd ref="188753288"/>
+    <nd ref="188741072"/>
+    <nd ref="188752394"/>
+    <nd ref="188753290"/>
+    <nd ref="188753291"/>
+    <nd ref="188753293"/>
+    <nd ref="188724941"/>
+    <nd ref="188753295"/>
+    <nd ref="188742804"/>
+    <nd ref="188637366"/>
+    <nd ref="188745341"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="South Clark Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Clark"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18319017">
+    <nd ref="188753537"/>
+    <nd ref="188753539"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="North Daniel Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Daniel"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18319222">
+    <nd ref="188714754"/>
+    <nd ref="188756053"/>
+    <nd ref="188691883"/>
+    <nd ref="188748692"/>
+    <nd ref="188756055"/>
+    <nd ref="188742919"/>
+    <nd ref="188756056"/>
+    <nd ref="188721920"/>
+    <nd ref="188756058"/>
+    <nd ref="188737881"/>
+    <nd ref="188720700"/>
+    <nd ref="188747908"/>
+    <nd ref="188746845"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="West Park Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Park"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18319381">
+    <nd ref="188748675"/>
+    <nd ref="188758731"/>
+    <nd ref="188758734"/>
+    <nd ref="188758736"/>
+    <nd ref="188732131"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="West Haig Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Haig"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18319388">
+    <nd ref="188671806"/>
+    <nd ref="188641132"/>
+    <nd ref="188758824"/>
+    <nd ref="188741675"/>
+    <nd ref="188671557"/>
+    <nd ref="188753539"/>
+    <nd ref="188671526"/>
+    <nd ref="188742389"/>
+    <nd ref="188758825"/>
+    <nd ref="188735038"/>
+    <nd ref="188735052"/>
+    <nd ref="188634801"/>
+    <nd ref="188752405"/>
+    <nd ref="188752399"/>
+    <nd ref="188630726"/>
+    <nd ref="188752219"/>
+    <nd ref="188744617"/>
+    <nd ref="188758826"/>
+    <nd ref="188731699"/>
+    <nd ref="188758828"/>
+    <nd ref="188707516"/>
+    <nd ref="188731160"/>
+    <nd ref="188645966"/>
+    <nd ref="188749155"/>
+    <nd ref="188747023"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="West Washington Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Washington"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18319390">
+    <nd ref="188749163"/>
+    <nd ref="188758838"/>
+    <nd ref="188731165"/>
+    <nd ref="188678952"/>
+    <nd ref="188731705"/>
+    <nd ref="188744626"/>
+    <nd ref="188758840"/>
+    <nd ref="188752228"/>
+    <nd ref="188758842"/>
+    <nd ref="188630736"/>
+    <nd ref="188758844"/>
+    <nd ref="188752411"/>
+    <nd ref="188758845"/>
+    <nd ref="188758846"/>
+    <nd ref="188718420"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="West Saint Johns Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="St Johns"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18319447">
+    <nd ref="188750584"/>
+    <nd ref="188691874"/>
+    <nd ref="188738271"/>
+    <nd ref="188760010"/>
+    <nd ref="188760011"/>
+    <nd ref="188634803"/>
+    <nd ref="188734620"/>
+    <nd ref="188760012"/>
+    <nd ref="188718432"/>
+    <nd ref="188760014"/>
+    <nd ref="188723541"/>
+    <nd ref="188718421"/>
+    <nd ref="188718420"/>
+    <nd ref="188760015"/>
+    <nd ref="188724930"/>
+    <nd ref="188703839"/>
+    <nd ref="188678957"/>
+    <nd ref="188760018"/>
+    <nd ref="188678980"/>
+    <nd ref="188678879"/>
+    <nd ref="188752350"/>
+    <nd ref="188760020"/>
+    <nd ref="188698171"/>
+    <nd ref="188717714"/>
+    <nd ref="188760022"/>
+    <nd ref="188760024"/>
+    <nd ref="188730519"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="North Galloway Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Galloway"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="18319450">
+    <nd ref="188730292"/>
+    <nd ref="188760043"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Kirtley Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Kirtley"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="18319476">
+    <nd ref="188760503"/>
+    <nd ref="188760505"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Marys Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Marys"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18319492">
+    <nd ref="188752231"/>
+    <nd ref="188760660"/>
+    <nd ref="188630739"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="North 7th Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="7th"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18319533">
+    <nd ref="188678850"/>
+    <nd ref="188761150"/>
+    <nd ref="188761152"/>
+    <nd ref="188761154"/>
+    <nd ref="188761156"/>
+    <nd ref="188761158"/>
+    <nd ref="188761160"/>
+    <nd ref="188761162"/>
+    <nd ref="188761164"/>
+    <nd ref="188752350"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Breezy Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Breezy"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="18319608">
+    <nd ref="188735055"/>
+    <nd ref="188762499"/>
+    <nd ref="188752409"/>
+    <nd ref="188630732"/>
+    <nd ref="188752226"/>
+    <nd ref="188744620"/>
+    <nd ref="188731703"/>
+    <nd ref="188731163"/>
+    <nd ref="188749159"/>
+    <nd ref="188721815"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="West Page Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Page"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18319741">
+    <nd ref="188725872"/>
+    <nd ref="188764534"/>
+    <nd ref="188764535"/>
+    <nd ref="188764536"/>
+    <nd ref="188738277"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Aspen Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Aspen"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18319766">
+    <nd ref="188729120"/>
+    <nd ref="188765014"/>
+    <nd ref="188760503"/>
+    <nd ref="188765016"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Carr Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Carr"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18319783">
+    <nd ref="188746839"/>
+    <nd ref="188751047"/>
+    <nd ref="188752033"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="East 4th Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="4th"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18319860">
+    <nd ref="188729092"/>
+    <nd ref="188733311"/>
+    <nd ref="188766177"/>
+    <nd ref="188752044"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="East Olive Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Olive"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="18319861">
+    <nd ref="188732121"/>
+    <nd ref="188751058"/>
+    <nd ref="188753291"/>
+    <nd ref="188731369"/>
+    <nd ref="188766181"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="East Olive Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Olive"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18319947">
+    <nd ref="188746845"/>
+    <nd ref="188751060"/>
+    <nd ref="188753293"/>
+    <nd ref="188731373"/>
+    <nd ref="188767282"/>
+    <nd ref="188767284"/>
+    <nd ref="188767286"/>
+    <nd ref="188752048"/>
+    <nd ref="188767288"/>
+    <nd ref="188767290"/>
+    <nd ref="188733313"/>
+    <nd ref="188729094"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="East Park Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Park"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18320014">
+    <nd ref="188758734"/>
+    <nd ref="188750852"/>
+    <nd ref="188737400"/>
+    <nd ref="188741581"/>
+    <nd ref="188768249"/>
+    <nd ref="188738982"/>
+    <nd ref="188768251"/>
+    <nd ref="188631188"/>
+    <nd ref="188732107"/>
+    <nd ref="188768253"/>
+    <nd ref="188756053"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="South Lincoln Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Lincoln"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="18320143">
+    <nd ref="188748629"/>
+    <nd ref="188770443"/>
+    <nd ref="188752393"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="South Sharon Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Sharon"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="18320238">
+    <nd ref="188737898"/>
+    <nd ref="188716759"/>
+    <nd ref="188720686"/>
+    <nd ref="188747922"/>
+    <nd ref="188746839"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="West 4th Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="4th"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="18320241">
+    <nd ref="188746840"/>
+    <nd ref="188751049"/>
+    <nd ref="188753282"/>
+    <nd ref="188771795"/>
+    <nd ref="188752035"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="East Bland Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Bland"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="63382"/>
+    <tag k="tiger:zip_right" v="63382"/>
+  </way>
+  <way id="388566635">
+    <nd ref="188637454"/>
+    <nd ref="188637457"/>
+    <nd ref="188637459"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="551004056">
+    <nd ref="188637488"/>
+    <nd ref="188726284"/>
+    <nd ref="5321445506"/>
+    <nd ref="8906235746"/>
+    <nd ref="5321445508"/>
+    <nd ref="5321445509"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="ref" v="US 54"/>
+  </way>
+  <way id="551004057">
+    <nd ref="5321445509"/>
+    <nd ref="5321445510"/>
+    <nd ref="188750584"/>
+    <nd ref="5321445511"/>
+    <nd ref="188738263"/>
+    <nd ref="188753537"/>
+    <nd ref="188742387"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="35 mph"/>
+    <tag k="ref" v="US 54"/>
+  </way>
+  <way id="551004058">
+    <nd ref="188742387"/>
+    <nd ref="188742389"/>
+    <nd ref="188742391"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="North Central Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Audrain, MO"/>
+    <tag k="tiger:name_base" v="Central"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="551004059">
+    <nd ref="188742387"/>
+    <nd ref="188735054"/>
+    <nd ref="188752407"/>
+    <nd ref="188630728"/>
+    <nd ref="188752222"/>
+    <nd ref="188744618"/>
+    <nd ref="188731701"/>
+    <nd ref="188731162"/>
+    <nd ref="188749157"/>
+    <nd ref="188722140"/>
+    <nd ref="188722142"/>
+    <nd ref="188722144"/>
+    <nd ref="188722146"/>
+    <nd ref="188722148"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="ref" v="US 54"/>
+  </way>
+  <way id="551004060">
+    <nd ref="188722148"/>
+    <nd ref="188722153"/>
+    <nd ref="188722154"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="35 mph"/>
+    <tag k="ref" v="US 54"/>
+  </way>
+  <way id="551004061">
+    <nd ref="188722154"/>
+    <nd ref="188722155"/>
+    <nd ref="5321445512"/>
+    <nd ref="5321445513"/>
+    <nd ref="8049664522"/>
+    <nd ref="5321445514"/>
+    <nd ref="5321445515"/>
+    <nd ref="5321445516"/>
+    <nd ref="5321445517"/>
+    <nd ref="5321445518"/>
+    <nd ref="5321445519"/>
+    <nd ref="5321445520"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="ref" v="US 54"/>
+  </way>
+  <way id="551004062">
+    <nd ref="5321445520"/>
+    <nd ref="5321445721"/>
+    <nd ref="188646165"/>
+    <nd ref="188712693"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="ref" v="US 54"/>
+  </way>
+  <node id="188723508" lat="39.3080060" lon="-91.5522010"/>
+  <node id="188738315" lat="39.3079390" lon="-91.5491810"/>
+  <node id="188644065" lat="39.3078880" lon="-91.5472060"/>
+  <node id="188644153" lat="39.3078440" lon="-91.5454120"/>
+  <node id="188738313" lat="39.3077870" lon="-91.5424840"/>
+  <node id="188738314" lat="39.3078600" lon="-91.5460780"/>
+  <node id="188636526" lat="39.3076700" lon="-91.5371470"/>
+  <node id="188644086" lat="39.3077120" lon="-91.5390410"/>
+  <node id="188644092" lat="39.3075830" lon="-91.5334130"/>
+  <node id="188644187" lat="39.3074760" lon="-91.5295070"/>
+  <node id="188644208" lat="39.3074830" lon="-91.5297580"/>
+  <node id="188738310" lat="39.3075150" lon="-91.5308800"/>
+  <node id="188738311" lat="39.3075660" lon="-91.5326920"/>
+  <node id="188669661" lat="39.3072220" lon="-91.5194680"/>
+  <node id="188727517" lat="39.3068090" lon="-91.5147470"/>
+  <node id="188738299" lat="39.3068940" lon="-91.5155370"/>
+  <node id="188738301" lat="39.3069400" lon="-91.5159670"/>
+  <node id="188738302" lat="39.3071060" lon="-91.5175760"/>
+  <node id="188738303" lat="39.3071810" lon="-91.5184280"/>
+  <node id="188738304" lat="39.3072070" lon="-91.5189730"/>
+  <node id="188738306" lat="39.3072660" lon="-91.5208860"/>
+  <node id="188741006" lat="39.2914900" lon="-91.4996920"/>
+  <node id="188664070" lat="39.2941540" lon="-91.4996460"/>
+  <node id="188741008" lat="39.2968440" lon="-91.4996010"/>
+  <node id="188728288" lat="39.2963410" lon="-91.4913220"/>
+  <node id="188728290" lat="39.2977570" lon="-91.4912990"/>
+  <node id="188728292" lat="39.2985990" lon="-91.4912670"/>
+  <node id="188732161" lat="39.2963370" lon="-91.4901700"/>
+  <node id="188732164" lat="39.2963400" lon="-91.4901410"/>
+  <node id="188732166" lat="39.2963790" lon="-91.4900940"/>
+  <node id="188732169" lat="39.2964570" lon="-91.4900790"/>
+  <node id="188732172" lat="39.2977470" lon="-91.4900560"/>
+  <node id="188732174" lat="39.2985810" lon="-91.4900290"/>
+  <node id="188746149" lat="39.2985550" lon="-91.4886370"/>
+  <node id="188746151" lat="39.2986130" lon="-91.4922790"/>
+  <node id="188637454" lat="39.3044910" lon="-91.5031940"/>
+  <node id="188637488" lat="39.3022375" lon="-91.5051459"/>
+  <node id="188725872" lat="39.3051520" lon="-91.5018390"/>
+  <node id="188725874" lat="39.3051310" lon="-91.5018590"/>
+  <node id="188725876" lat="39.3049650" lon="-91.5021530"/>
+  <node id="188725878" lat="39.3048500" lon="-91.5024060"/>
+  <node id="188725881" lat="39.3042710" lon="-91.5036190"/>
+  <node id="188725883" lat="39.3037900" lon="-91.5046090"/>
+  <node id="188725885" lat="39.3036590" lon="-91.5048980"/>
+  <node id="188726284" lat="39.3026425" lon="-91.5041657"/>
+  <node id="188744891" lat="39.3050610" lon="-91.5025860"/>
+  <node id="188764534" lat="39.3052270" lon="-91.5017670"/>
+  <node id="5321445506" lat="39.3029480" lon="-91.5034262"/>
+  <node id="5321445508" lat="39.3032996" lon="-91.5026329"/>
+  <node id="5321445509" lat="39.3035430" lon="-91.5021955"/>
+  <node id="5321445510" lat="39.3040031" lon="-91.5014025"/>
+  <node id="8906235746" lat="39.3030476" lon="-91.5032015"/>
+  <node id="8955933464" lat="39.3040688" lon="-91.5040353"/>
+  <node id="188669672" lat="39.3065780" lon="-91.5120730"/>
+  <node id="188691781" lat="39.3064450" lon="-91.5084770"/>
+  <node id="188691803" lat="39.3064760" lon="-91.5093530"/>
+  <node id="188738287" lat="39.3064320" lon="-91.5081070"/>
+  <node id="188738289" lat="39.3064980" lon="-91.5099910"/>
+  <node id="188738291" lat="39.3065050" lon="-91.5101800"/>
+  <node id="188738293" lat="39.3065470" lon="-91.5111320"/>
+  <node id="188738294" lat="39.3065930" lon="-91.5125240"/>
+  <node id="188738295" lat="39.3066240" lon="-91.5129690"/>
+  <node id="188738296" lat="39.3066970" lon="-91.5137390"/>
+  <node id="188637457" lat="39.3055880" lon="-91.5041130"/>
+  <node id="188637459" lat="39.3057100" lon="-91.5042370"/>
+  <node id="188637514" lat="39.3063930" lon="-91.5070000"/>
+  <node id="188671540" lat="39.3062627" lon="-91.5035574"/>
+  <node id="188671551" lat="39.3062787" lon="-91.5040182"/>
+  <node id="188738277" lat="39.3061919" lon="-91.5017144"/>
+  <node id="188738279" lat="39.3062470" lon="-91.5029710"/>
+  <node id="188738281" lat="39.3062987" lon="-91.5045911"/>
+  <node id="188738283" lat="39.3063134" lon="-91.5048637"/>
+  <node id="188738285" lat="39.3063335" lon="-91.5056075"/>
+  <node id="188744893" lat="39.3055050" lon="-91.5029300"/>
+  <node id="188764535" lat="39.3055590" lon="-91.5017210"/>
+  <node id="188764536" lat="39.3058060" lon="-91.5017310"/>
+  <node id="188637422" lat="39.3040267" lon="-91.4994824"/>
+  <node id="188641132" lat="39.3051740" lon="-91.4992390"/>
+  <node id="188663877" lat="39.2995540" lon="-91.4976260"/>
+  <node id="188663899" lat="39.2987680" lon="-91.5001160"/>
+  <node id="188663901" lat="39.2988000" lon="-91.4997980"/>
+  <node id="188663903" lat="39.2988230" lon="-91.4995680"/>
+  <node id="188671806" lat="39.3050900" lon="-91.4994680"/>
+  <node id="188709030" lat="39.3048860" lon="-91.4994700"/>
+  <node id="188709047" lat="39.3045707" lon="-91.4994878"/>
+  <node id="188741010" lat="39.3031620" lon="-91.4994890"/>
+  <node id="188741012" lat="39.3040963" lon="-91.4994824"/>
+  <node id="188741573" lat="39.2988260" lon="-91.4994272"/>
+  <node id="188741575" lat="39.2988700" lon="-91.4992460"/>
+  <node id="188741576" lat="39.2988840" lon="-91.4992120"/>
+  <node id="188741577" lat="39.3001860" lon="-91.4961360"/>
+  <node id="188741578" lat="39.3003080" lon="-91.4958270"/>
+  <node id="188749912" lat="39.3043121" lon="-91.4994903"/>
+  <node id="188749913" lat="39.3043637" lon="-91.4994885"/>
+  <node id="188631188" lat="39.3039300" lon="-91.4918850"/>
+  <node id="188631191" lat="39.3043180" lon="-91.4909390"/>
+  <node id="188631192" lat="39.3046760" lon="-91.4900870"/>
+  <node id="188631194" lat="39.3048564" lon="-91.4896526"/>
+  <node id="188631197" lat="39.3050680" lon="-91.4891530"/>
+  <node id="188637519" lat="39.3016476" lon="-91.4927147"/>
+  <node id="188678954" lat="39.3040960" lon="-91.4891830"/>
+  <node id="188691881" lat="39.3048650" lon="-91.4919360"/>
+  <node id="188721914" lat="39.3043220" lon="-91.4886320"/>
+  <node id="188728294" lat="39.2993920" lon="-91.4912350"/>
+  <node id="188728296" lat="39.2995170" lon="-91.4912620"/>
+  <node id="188728298" lat="39.2996300" lon="-91.4913030"/>
+  <node id="188728299" lat="39.2998300" lon="-91.4914300"/>
+  <node id="188728300" lat="39.3001390" lon="-91.4916530"/>
+  <node id="188728301" lat="39.3009040" lon="-91.4921740"/>
+  <node id="188728302" lat="39.3011610" lon="-91.4923480"/>
+  <node id="188731717" lat="39.3042400" lon="-91.4934490"/>
+  <node id="188732101" lat="39.3041500" lon="-91.4936580"/>
+  <node id="188732104" lat="39.3043680" lon="-91.4931480"/>
+  <node id="188732107" lat="39.3046740" lon="-91.4923990"/>
+  <node id="188732110" lat="39.3050640" lon="-91.4914580"/>
+  <node id="188732131" lat="39.2998800" lon="-91.4901460"/>
+  <node id="188732133" lat="39.2998690" lon="-91.4902290"/>
+  <node id="188732137" lat="39.2999080" lon="-91.4903080"/>
+  <node id="188732140" lat="39.3003290" lon="-91.4906180"/>
+  <node id="188732143" lat="39.3005210" lon="-91.4907350"/>
+  <node id="188732145" lat="39.3006380" lon="-91.4908060"/>
+  <node id="188732147" lat="39.3009060" lon="-91.4909960"/>
+  <node id="188732149" lat="39.3012900" lon="-91.4912520"/>
+  <node id="188732152" lat="39.3016080" lon="-91.4914640"/>
+  <node id="188732155" lat="39.3020330" lon="-91.4917550"/>
+  <node id="188737396" lat="39.3006260" lon="-91.4928420"/>
+  <node id="188737399" lat="39.3015740" lon="-91.4905250"/>
+  <node id="188737400" lat="39.3016670" lon="-91.4903150"/>
+  <node id="188737403" lat="39.3018220" lon="-91.4899650"/>
+  <node id="188737404" lat="39.3020640" lon="-91.4893880"/>
+  <node id="188737406" lat="39.3024310" lon="-91.4885240"/>
+  <node id="188738982" lat="39.3031620" lon="-91.4913550"/>
+  <node id="188738984" lat="39.3035640" lon="-91.4904190"/>
+  <node id="188738986" lat="39.3039290" lon="-91.4895830"/>
+  <node id="188738988" lat="39.3039780" lon="-91.4894720"/>
+  <node id="188741579" lat="39.3008480" lon="-91.4945810"/>
+  <node id="188741581" lat="39.3024210" lon="-91.4908400"/>
+  <node id="188741583" lat="39.3028160" lon="-91.4899100"/>
+  <node id="188741585" lat="39.3031720" lon="-91.4890730"/>
+  <node id="188742917" lat="39.3022690" lon="-91.4884040"/>
+  <node id="188747099" lat="39.2993880" lon="-91.4886100"/>
+  <node id="188747100" lat="39.2993900" lon="-91.4901100"/>
+  <node id="188748673" lat="39.2987270" lon="-91.4886270"/>
+  <node id="188748675" lat="39.3005050" lon="-91.4885840"/>
+  <node id="188748677" lat="39.3009380" lon="-91.4885750"/>
+  <node id="188748679" lat="39.3009470" lon="-91.4887120"/>
+  <node id="188748681" lat="39.3010040" lon="-91.4887110"/>
+  <node id="188748685" lat="39.3010960" lon="-91.4887340"/>
+  <node id="188748687" lat="39.3013100" lon="-91.4888720"/>
+  <node id="188748689" lat="39.3016080" lon="-91.4890660"/>
+  <node id="188748691" lat="39.3024780" lon="-91.4896800"/>
+  <node id="188750848" lat="39.2998840" lon="-91.4922280"/>
+  <node id="188750850" lat="39.3000320" lon="-91.4919140"/>
+  <node id="188750852" lat="39.3009160" lon="-91.4897970"/>
+  <node id="188758731" lat="39.3004450" lon="-91.4887620"/>
+  <node id="188758734" lat="39.3002100" lon="-91.4893230"/>
+  <node id="188758736" lat="39.2998850" lon="-91.4901090"/>
+  <node id="188768249" lat="39.3029640" lon="-91.4912220"/>
+  <node id="188768251" lat="39.3034340" lon="-91.4915360"/>
+  <node id="8980737125" lat="39.3001040" lon="-91.4885933"/>
+  <node id="188630734" lat="39.3099190" lon="-91.4949550"/>
+  <node id="188630736" lat="39.3106520" lon="-91.4954510"/>
+  <node id="188634803" lat="39.3067130" lon="-91.4994150"/>
+  <node id="188634805" lat="39.3067130" lon="-91.4993580"/>
+  <node id="188634807" lat="39.3068390" lon="-91.4990840"/>
+  <node id="188634809" lat="39.3068680" lon="-91.4988950"/>
+  <node id="188671524" lat="39.3064070" lon="-91.4985950"/>
+  <node id="188671526" lat="39.3063270" lon="-91.4965130"/>
+  <node id="188671557" lat="39.3056830" lon="-91.4980190"/>
+  <node id="188671574" lat="39.3061452" lon="-91.5002303"/>
+  <node id="188678957" lat="39.3110533" lon="-91.4992545"/>
+  <node id="188678980" lat="39.3113797" lon="-91.4992392"/>
+  <node id="188691874" lat="39.3057380" lon="-91.4994450"/>
+  <node id="188703839" lat="39.3100520" lon="-91.4992780"/>
+  <node id="188718420" lat="39.3090222" lon="-91.4993239"/>
+  <node id="188718421" lat="39.3083221" lon="-91.4993562"/>
+  <node id="188718432" lat="39.3072870" lon="-91.4994030"/>
+  <node id="188718434" lat="39.3073013" lon="-91.4995437"/>
+  <node id="188718436" lat="39.3073137" lon="-91.4999119"/>
+  <node id="188718438" lat="39.3073123" lon="-91.5001882"/>
+  <node id="188723541" lat="39.3080565" lon="-91.4993646"/>
+  <node id="188723542" lat="39.3081460" lon="-91.4992140"/>
+  <node id="188723543" lat="39.3082460" lon="-91.4989710"/>
+  <node id="188723546" lat="39.3083070" lon="-91.4987390"/>
+  <node id="188723549" lat="39.3085480" lon="-91.4981750"/>
+  <node id="188723551" lat="39.3089820" lon="-91.4971440"/>
+  <node id="188723553" lat="39.3091200" lon="-91.4968150"/>
+  <node id="188723555" lat="39.3095150" lon="-91.4958620"/>
+  <node id="188723558" lat="39.3096470" lon="-91.4955420"/>
+  <node id="188724905" lat="39.3112030" lon="-91.4964260"/>
+  <node id="188724906" lat="39.3115180" lon="-91.4956780"/>
+  <node id="188724907" lat="39.3116690" lon="-91.4953360"/>
+  <node id="188724926" lat="39.3102000" lon="-91.4987810"/>
+  <node id="188724928" lat="39.3100940" lon="-91.4990920"/>
+  <node id="188724930" lat="39.3099760" lon="-91.4992830"/>
+  <node id="188734620" lat="39.3068000" lon="-91.4994140"/>
+  <node id="188735038" lat="39.3066650" lon="-91.4957340"/>
+  <node id="188735052" lat="39.3068790" lon="-91.4952350"/>
+  <node id="188735054" lat="39.3076240" lon="-91.4957590"/>
+  <node id="188735055" lat="39.3083710" lon="-91.4962840"/>
+  <node id="188735057" lat="39.3087980" lon="-91.4965750"/>
+  <node id="188738263" lat="39.3066227" lon="-91.4980060"/>
+  <node id="188738265" lat="39.3065340" lon="-91.4982380"/>
+  <node id="188738267" lat="39.3065210" lon="-91.4982760"/>
+  <node id="188738269" lat="39.3062300" lon="-91.4990890"/>
+  <node id="188738271" lat="39.3061497" lon="-91.4994399"/>
+  <node id="188738272" lat="39.3061373" lon="-91.4995694"/>
+  <node id="188738273" lat="39.3061385" lon="-91.4996730"/>
+  <node id="188738275" lat="39.3061372" lon="-91.4998438"/>
+  <node id="188741675" lat="39.3054650" lon="-91.4985320"/>
+  <node id="188742387" lat="39.3072320" lon="-91.4966830"/>
+  <node id="188742389" lat="39.3064790" lon="-91.4961630"/>
+  <node id="188742391" lat="39.3060932" lon="-91.4959010"/>
+  <node id="188747472" lat="39.3067740" lon="-91.4984540"/>
+  <node id="188747474" lat="39.3070120" lon="-91.4985910"/>
+  <node id="188747476" lat="39.3071690" lon="-91.4986760"/>
+  <node id="188747479" lat="39.3071740" lon="-91.4987150"/>
+  <node id="188747482" lat="39.3071330" lon="-91.4988530"/>
+  <node id="188747484" lat="39.3070700" lon="-91.4989820"/>
+  <node id="188747486" lat="39.3070170" lon="-91.4989930"/>
+  <node id="188750584" lat="39.3056000" lon="-91.4994500"/>
+  <node id="188752407" lat="39.3080200" lon="-91.4948220"/>
+  <node id="188752409" lat="39.3087690" lon="-91.4953430"/>
+  <node id="188752411" lat="39.3102610" lon="-91.4964010"/>
+  <node id="188753537" lat="39.3068220" lon="-91.4976180"/>
+  <node id="188753539" lat="39.3060740" lon="-91.4971010"/>
+  <node id="188758824" lat="39.3053073" lon="-91.4989337"/>
+  <node id="188758825" lat="39.3066310" lon="-91.4958120"/>
+  <node id="188758844" lat="39.3105820" lon="-91.4956340"/>
+  <node id="188758845" lat="39.3100150" lon="-91.4969890"/>
+  <node id="188758846" lat="39.3090980" lon="-91.4991840"/>
+  <node id="188760010" lat="39.3063900" lon="-91.4994220"/>
+  <node id="188760011" lat="39.3065690" lon="-91.4994180"/>
+  <node id="188760012" lat="39.3071050" lon="-91.4994070"/>
+  <node id="188760014" lat="39.3076380" lon="-91.4993960"/>
+  <node id="188760015" lat="39.3092070" lon="-91.4993280"/>
+  <node id="188760018" lat="39.3111890" lon="-91.4992472"/>
+  <node id="188762499" lat="39.3085570" lon="-91.4958360"/>
+  <node id="5321445511" lat="39.3061401" lon="-91.4987024"/>
+  <node id="188630338" lat="39.3073140" lon="-91.4907370"/>
+  <node id="188630340" lat="39.3073990" lon="-91.4907960"/>
+  <node id="188630342" lat="39.3077842" lon="-91.4910648"/>
+  <node id="188630343" lat="39.3078340" lon="-91.4910975"/>
+  <node id="188630724" lat="39.3073732" lon="-91.4931940"/>
+  <node id="188630726" lat="39.3076590" lon="-91.4933860"/>
+  <node id="188630728" lat="39.3084050" lon="-91.4939150"/>
+  <node id="188630730" lat="39.3087760" lon="-91.4941710"/>
+  <node id="188630732" lat="39.3091590" lon="-91.4944360"/>
+  <node id="188634801" lat="39.3071310" lon="-91.4946380"/>
+  <node id="188634855" lat="39.3065540" lon="-91.4925070"/>
+  <node id="188637377" lat="39.3085489" lon="-91.4891612"/>
+  <node id="188637381" lat="39.3078998" lon="-91.4911399"/>
+  <node id="188645964" lat="39.3090102" lon="-91.4889390"/>
+  <node id="188645966" lat="39.3094290" lon="-91.4892440"/>
+  <node id="188655417" lat="39.3092210" lon="-91.4884160"/>
+  <node id="188655419" lat="39.3088180" lon="-91.4893540"/>
+  <node id="188655486" lat="39.3089670" lon="-91.4894600"/>
+  <node id="188671531" lat="39.3062430" lon="-91.4922890"/>
+  <node id="188671536" lat="39.3067490" lon="-91.4920670"/>
+  <node id="188679109" lat="39.3106993" lon="-91.4942901"/>
+  <node id="188679111" lat="39.3110762" lon="-91.4933572"/>
+  <node id="188691762" lat="39.3056110" lon="-91.4935180"/>
+  <node id="188691883" lat="39.3056050" lon="-91.4924600"/>
+  <node id="188698125" lat="39.3103560" lon="-91.4904470"/>
+  <node id="188698127" lat="39.3107752" lon="-91.4895179"/>
+  <node id="188707506" lat="39.3092410" lon="-91.4908620"/>
+  <node id="188707510" lat="39.3096462" lon="-91.4899358"/>
+  <node id="188707512" lat="39.3100220" lon="-91.4889869"/>
+  <node id="188707516" lat="39.3090920" lon="-91.4900270"/>
+  <node id="188707528" lat="39.3091390" lon="-91.4932020"/>
+  <node id="188714754" lat="39.3053130" lon="-91.4931810"/>
+  <node id="188714755" lat="39.3053230" lon="-91.4932990"/>
+  <node id="188714756" lat="39.3053810" lon="-91.4933660"/>
+  <node id="188720700" lat="39.3073360" lon="-91.4883250"/>
+  <node id="188720702" lat="39.3081090" lon="-91.4888580"/>
+  <node id="188720703" lat="39.3082140" lon="-91.4889310"/>
+  <node id="188720704" lat="39.3083740" lon="-91.4890420"/>
+  <node id="188720705" lat="39.3084734" lon="-91.4891105"/>
+  <node id="188721815" lat="39.3115280" lon="-91.4888510"/>
+  <node id="188721916" lat="39.3055400" lon="-91.4894820"/>
+  <node id="188721918" lat="39.3058100" lon="-91.4896790"/>
+  <node id="188721920" lat="39.3065650" lon="-91.4902120"/>
+  <node id="188722140" lat="39.3107810" lon="-91.4883420"/>
+  <node id="188723560" lat="39.3100060" lon="-91.4947680"/>
+  <node id="188723562" lat="39.3102480" lon="-91.4941990"/>
+  <node id="188723564" lat="39.3103070" lon="-91.4940240"/>
+  <node id="188723566" lat="39.3103720" lon="-91.4938340"/>
+  <node id="188723569" lat="39.3106860" lon="-91.4930850"/>
+  <node id="188723571" lat="39.3109900" lon="-91.4923660"/>
+  <node id="188723573" lat="39.3110780" lon="-91.4921490"/>
+  <node id="188723574" lat="39.3114640" lon="-91.4912050"/>
+  <node id="188731160" lat="39.3092510" lon="-91.4896560"/>
+  <node id="188731162" lat="39.3099980" lon="-91.4901870"/>
+  <node id="188731163" lat="39.3107470" lon="-91.4907130"/>
+  <node id="188731164" lat="39.3111970" lon="-91.4910180"/>
+  <node id="188731699" lat="39.3088430" lon="-91.4905810"/>
+  <node id="188731701" lat="39.3096120" lon="-91.4911220"/>
+  <node id="188731703" lat="39.3103560" lon="-91.4916450"/>
+  <node id="188732112" lat="39.3054240" lon="-91.4905910"/>
+  <node id="188732115" lat="39.3062050" lon="-91.4887430"/>
+  <node id="188737881" lat="39.3069450" lon="-91.4892630"/>
+  <node id="188737882" lat="39.3077140" lon="-91.4897870"/>
+  <node id="188742322" lat="39.3069420" lon="-91.4916120"/>
+  <node id="188742919" lat="39.3061850" lon="-91.4911040"/>
+  <node id="188744617" lat="39.3084440" lon="-91.4915170"/>
+  <node id="188744618" lat="39.3092280" lon="-91.4920530"/>
+  <node id="188744620" lat="39.3099620" lon="-91.4925840"/>
+  <node id="188744624" lat="39.3101370" lon="-91.4927100"/>
+  <node id="188744626" lat="39.3114440" lon="-91.4936110"/>
+  <node id="188744628" lat="39.3117340" lon="-91.4938300"/>
+  <node id="188745348" lat="39.3086926" lon="-91.4892655"/>
+  <node id="188748692" lat="39.3058080" lon="-91.4919850"/>
+  <node id="188749155" lat="39.3096570" lon="-91.4887170"/>
+  <node id="188749157" lat="39.3104080" lon="-91.4892570"/>
+  <node id="188749159" lat="39.3111400" lon="-91.4897770"/>
+  <node id="188752219" lat="39.3080470" lon="-91.4924650"/>
+  <node id="188752220" lat="39.3083520" lon="-91.4926800"/>
+  <node id="188752222" lat="39.3088240" lon="-91.4929880"/>
+  <node id="188752224" lat="39.3090370" lon="-91.4931270"/>
+  <node id="188752226" lat="39.3095600" lon="-91.4935120"/>
+  <node id="188752228" lat="39.3110480" lon="-91.4945340"/>
+  <node id="188752399" lat="39.3075670" lon="-91.4936050"/>
+  <node id="188752405" lat="39.3072730" lon="-91.4943020"/>
+  <node id="188756053" lat="39.3054170" lon="-91.4929140"/>
+  <node id="188756055" lat="39.3060460" lon="-91.4914190"/>
+  <node id="188756056" lat="39.3064600" lon="-91.4904780"/>
+  <node id="188756058" lat="39.3067110" lon="-91.4898400"/>
+  <node id="188758826" lat="39.3087520" lon="-91.4907810"/>
+  <node id="188758828" lat="39.3090310" lon="-91.4901700"/>
+  <node id="188758840" lat="39.3111260" lon="-91.4943660"/>
+  <node id="188758842" lat="39.3109810" lon="-91.4946780"/>
+  <node id="188768253" lat="39.3053340" lon="-91.4928560"/>
+  <node id="3917536611" lat="39.3086359" lon="-91.4892255"/>
+  <node id="188630739" lat="39.3119460" lon="-91.4969550"/>
+  <node id="188630740" lat="39.3123240" lon="-91.4969820"/>
+  <node id="188678850" lat="39.3139650" lon="-91.5006060"/>
+  <node id="188678852" lat="39.3140320" lon="-91.5007080"/>
+  <node id="188678854" lat="39.3141190" lon="-91.5007440"/>
+  <node id="188678856" lat="39.3142080" lon="-91.5007420"/>
+  <node id="188678860" lat="39.3142650" lon="-91.5007130"/>
+  <node id="188678862" lat="39.3143970" lon="-91.5006440"/>
+  <node id="188678864" lat="39.3146390" lon="-91.5005000"/>
+  <node id="188678879" lat="39.3121020" lon="-91.4992235"/>
+  <node id="188698154" lat="39.3118900" lon="-91.4970930"/>
+  <node id="188698171" lat="39.3150400" lon="-91.4990810"/>
+  <node id="188717714" lat="39.3163410" lon="-91.4990330"/>
+  <node id="188724909" lat="39.3117840" lon="-91.4950620"/>
+  <node id="188729120" lat="39.3153880" lon="-91.4950930"/>
+  <node id="188729122" lat="39.3154140" lon="-91.4957890"/>
+  <node id="188729123" lat="39.3154350" lon="-91.4961540"/>
+  <node id="188744802" lat="39.3145890" lon="-91.4959540"/>
+  <node id="188744803" lat="39.3145880" lon="-91.4961830"/>
+  <node id="188752230" lat="39.3118800" lon="-91.4951310"/>
+  <node id="188752231" lat="39.3125210" lon="-91.4955630"/>
+  <node id="188752232" lat="39.3131800" lon="-91.4960060"/>
+  <node id="188752233" lat="39.3134110" lon="-91.4961330"/>
+  <node id="188752234" lat="39.3135910" lon="-91.4961980"/>
+  <node id="188752236" lat="39.3137890" lon="-91.4962040"/>
+  <node id="188752238" lat="39.3144930" lon="-91.4961870"/>
+  <node id="188752240" lat="39.3163600" lon="-91.4961220"/>
+  <node id="188752242" lat="39.3168480" lon="-91.4960920"/>
+  <node id="188752342" lat="39.3137560" lon="-91.4952050"/>
+  <node id="188752344" lat="39.3138680" lon="-91.4985830"/>
+  <node id="188752346" lat="39.3138780" lon="-91.4988170"/>
+  <node id="188752348" lat="39.3138850" lon="-91.4989900"/>
+  <node id="188752350" lat="39.3139140" lon="-91.4991230"/>
+  <node id="188760020" lat="39.3142630" lon="-91.4991100"/>
+  <node id="188760022" lat="39.3182170" lon="-91.4989620"/>
+  <node id="188760503" lat="39.3164000" lon="-91.4950620"/>
+  <node id="188760660" lat="39.3121270" lon="-91.4965040"/>
+  <node id="188761150" lat="39.3139180" lon="-91.5005350"/>
+  <node id="188761152" lat="39.3138620" lon="-91.5003290"/>
+  <node id="188761154" lat="39.3138530" lon="-91.5002840"/>
+  <node id="188761156" lat="39.3138350" lon="-91.5001980"/>
+  <node id="188761158" lat="39.3138350" lon="-91.5001130"/>
+  <node id="188761160" lat="39.3138530" lon="-91.5000590"/>
+  <node id="188761162" lat="39.3139090" lon="-91.4998130"/>
+  <node id="188761164" lat="39.3139330" lon="-91.4994300"/>
+  <node id="188765014" lat="39.3158660" lon="-91.4950730"/>
+  <node id="188765016" lat="39.3167090" lon="-91.4950550"/>
+  <node id="188646071" lat="39.3157490" lon="-91.4895380"/>
+  <node id="188646084" lat="39.3161080" lon="-91.4895240"/>
+  <node id="188678840" lat="39.3162250" lon="-91.4917590"/>
+  <node id="188678841" lat="39.3162480" lon="-91.4927100"/>
+  <node id="188678842" lat="39.3162400" lon="-91.4933610"/>
+  <node id="188678843" lat="39.3159380" lon="-91.4933590"/>
+  <node id="188678844" lat="39.3153240" lon="-91.4933900"/>
+  <node id="188678952" lat="39.3120270" lon="-91.4922330"/>
+  <node id="188723576" lat="39.3117950" lon="-91.4904140"/>
+  <node id="188723578" lat="39.3118310" lon="-91.4902660"/>
+  <node id="188723579" lat="39.3118600" lon="-91.4901450"/>
+  <node id="188723581" lat="39.3121920" lon="-91.4894020"/>
+  <node id="188723582" lat="39.3122370" lon="-91.4893350"/>
+  <node id="188724911" lat="39.3121810" lon="-91.4941130"/>
+  <node id="188724913" lat="39.3125780" lon="-91.4931650"/>
+  <node id="188724916" lat="39.3129730" lon="-91.4922420"/>
+  <node id="188724921" lat="39.3136250" lon="-91.4912570"/>
+  <node id="188729111" lat="39.3152080" lon="-91.4895600"/>
+  <node id="188729113" lat="39.3152720" lon="-91.4912030"/>
+  <node id="188729115" lat="39.3152940" lon="-91.4922840"/>
+  <node id="188729117" lat="39.3153040" lon="-91.4928720"/>
+  <node id="188729119" lat="39.3153650" lon="-91.4944750"/>
+  <node id="188730280" lat="39.3147470" lon="-91.4895810"/>
+  <node id="188730282" lat="39.3147500" lon="-91.4892310"/>
+  <node id="188730306" lat="39.3137440" lon="-91.4883840"/>
+  <node id="188730308" lat="39.3137280" lon="-91.4886100"/>
+  <node id="188730309" lat="39.3137040" lon="-91.4888120"/>
+  <node id="188730310" lat="39.3136690" lon="-91.4889550"/>
+  <node id="188730311" lat="39.3136310" lon="-91.4891130"/>
+  <node id="188730312" lat="39.3135780" lon="-91.4894380"/>
+  <node id="188730314" lat="39.3135830" lon="-91.4896320"/>
+  <node id="188731165" lat="39.3122380" lon="-91.4917440"/>
+  <node id="188731166" lat="39.3129200" lon="-91.4922120"/>
+  <node id="188731168" lat="39.3130280" lon="-91.4922740"/>
+  <node id="188731170" lat="39.3131040" lon="-91.4923010"/>
+  <node id="188731172" lat="39.3133980" lon="-91.4923440"/>
+  <node id="188731174" lat="39.3136550" lon="-91.4923350"/>
+  <node id="188731175" lat="39.3144740" lon="-91.4923130"/>
+  <node id="188731705" lat="39.3118370" lon="-91.4926760"/>
+  <node id="188731707" lat="39.3122190" lon="-91.4929360"/>
+  <node id="188731709" lat="39.3130400" lon="-91.4933150"/>
+  <node id="188731710" lat="39.3135300" lon="-91.4934630"/>
+  <node id="188731712" lat="39.3136920" lon="-91.4934670"/>
+  <node id="188731714" lat="39.3145120" lon="-91.4934250"/>
+  <node id="188732298" lat="39.3123280" lon="-91.4891970"/>
+  <node id="188732299" lat="39.3125340" lon="-91.4887360"/>
+  <node id="188732300" lat="39.3126690" lon="-91.4883930"/>
+  <node id="188744629" lat="39.3126820" lon="-91.4942550"/>
+  <node id="188744631" lat="39.3134240" lon="-91.4944240"/>
+  <node id="188744633" lat="39.3137270" lon="-91.4944670"/>
+  <node id="188744634" lat="39.3139950" lon="-91.4945040"/>
+  <node id="188744636" lat="39.3145470" lon="-91.4944790"/>
+  <node id="188744799" lat="39.3143850" lon="-91.4895970"/>
+  <node id="188744800" lat="39.3143880" lon="-91.4898010"/>
+  <node id="188744801" lat="39.3144370" lon="-91.4912400"/>
+  <node id="188747025" lat="39.3127240" lon="-91.4896770"/>
+  <node id="188747027" lat="39.3171880" lon="-91.4894770"/>
+  <node id="188749161" lat="39.3124080" lon="-91.4906750"/>
+  <node id="188749163" lat="39.3126320" lon="-91.4908250"/>
+  <node id="188749165" lat="39.3133010" lon="-91.4912740"/>
+  <node id="188749167" lat="39.3134910" lon="-91.4912800"/>
+  <node id="188749169" lat="39.3146850" lon="-91.4912350"/>
+  <node id="188758838" lat="39.3125540" lon="-91.4910140"/>
+  <node id="188760505" lat="39.3163820" lon="-91.4942620"/>
+  <node id="188730519" lat="39.3210830" lon="-91.4988570"/>
+  <node id="188760024" lat="39.3205610" lon="-91.4988870"/>
+  <node id="188672842" lat="39.3203030" lon="-91.4893360"/>
+  <node id="188672856" lat="39.3193930" lon="-91.4893820"/>
+  <node id="188672888" lat="39.3200020" lon="-91.4893510"/>
+  <node id="188672930" lat="39.3196860" lon="-91.4893670"/>
+  <node id="188728845" lat="39.3206996" lon="-91.4893190"/>
+  <node id="188716876" lat="39.2985050" lon="-91.4874570"/>
+  <node id="188716878" lat="39.2970480" lon="-91.4875130"/>
+  <node id="188746141" lat="39.2986300" lon="-91.4868930"/>
+  <node id="188746143" lat="39.2985200" lon="-91.4869110"/>
+  <node id="188746145" lat="39.2984730" lon="-91.4870070"/>
+  <node id="188746147" lat="39.2985010" lon="-91.4873620"/>
+  <node id="188739226" lat="39.2981920" lon="-91.4805830"/>
+  <node id="188746824" lat="39.2983920" lon="-91.4805690"/>
+  <node id="188645967" lat="39.3021160" lon="-91.4846860"/>
+  <node id="188645969" lat="39.3019460" lon="-91.4851050"/>
+  <node id="188645970" lat="39.3018900" lon="-91.4852410"/>
+  <node id="188651497" lat="39.3012760" lon="-91.4858410"/>
+  <node id="188651500" lat="39.3015520" lon="-91.4858220"/>
+  <node id="188651502" lat="39.3016030" lon="-91.4858190"/>
+  <node id="188679078" lat="39.3032660" lon="-91.4842430"/>
+  <node id="188679088" lat="39.3029950" lon="-91.4828940"/>
+  <node id="188686117" lat="39.3016083" lon="-91.4867763"/>
+  <node id="188686201" lat="39.3012310" lon="-91.4868070"/>
+  <node id="188686202" lat="39.3012180" lon="-91.4860920"/>
+  <node id="188686203" lat="39.3012050" lon="-91.4859750"/>
+  <node id="188686204" lat="39.3011620" lon="-91.4858530"/>
+  <node id="188686206" lat="39.3011600" lon="-91.4857690"/>
+  <node id="188686207" lat="39.3011750" lon="-91.4857500"/>
+  <node id="188686208" lat="39.3012170" lon="-91.4857390"/>
+  <node id="188686209" lat="39.3012590" lon="-91.4857480"/>
+  <node id="188686210" lat="39.3012830" lon="-91.4858060"/>
+  <node id="188686211" lat="39.3012500" lon="-91.4859050"/>
+  <node id="188716743" lat="39.3013190" lon="-91.4829080"/>
+  <node id="188716745" lat="39.3013750" lon="-91.4826680"/>
+  <node id="188716747" lat="39.3014300" lon="-91.4824570"/>
+  <node id="188716749" lat="39.3014290" lon="-91.4823770"/>
+  <node id="188716751" lat="39.3014170" lon="-91.4821790"/>
+  <node id="188716753" lat="39.3014430" lon="-91.4819680"/>
+  <node id="188716755" lat="39.3014820" lon="-91.4818350"/>
+  <node id="188716759" lat="39.3011730" lon="-91.4846190"/>
+  <node id="188716760" lat="39.3015600" lon="-91.4848580"/>
+  <node id="188716775" lat="39.3008960" lon="-91.4868250"/>
+  <node id="188716777" lat="39.3008940" lon="-91.4869920"/>
+  <node id="188716779" lat="39.3009010" lon="-91.4875510"/>
+  <node id="188716815" lat="39.3008340" lon="-91.4858550"/>
+  <node id="188716837" lat="39.3009600" lon="-91.4838930"/>
+  <node id="188716847" lat="39.3005470" lon="-91.4831160"/>
+  <node id="188716852" lat="39.2996180" lon="-91.4868720"/>
+  <node id="188716854" lat="39.2996200" lon="-91.4865030"/>
+  <node id="188716856" lat="39.2996160" lon="-91.4862090"/>
+  <node id="188716858" lat="39.2995510" lon="-91.4860250"/>
+  <node id="188716860" lat="39.2994440" lon="-91.4859470"/>
+  <node id="188716862" lat="39.2991080" lon="-91.4859540"/>
+  <node id="188716864" lat="39.2989940" lon="-91.4860370"/>
+  <node id="188716866" lat="39.2989330" lon="-91.4861560"/>
+  <node id="188716868" lat="39.2989260" lon="-91.4863290"/>
+  <node id="188716870" lat="39.2989330" lon="-91.4868870"/>
+  <node id="188720684" lat="39.3004120" lon="-91.4835070"/>
+  <node id="188720686" lat="39.3013550" lon="-91.4841690"/>
+  <node id="188720688" lat="39.3028740" lon="-91.4852100"/>
+  <node id="188720690" lat="39.3036060" lon="-91.4857170"/>
+  <node id="188720692" lat="39.3043590" lon="-91.4862390"/>
+  <node id="188720694" lat="39.3051040" lon="-91.4867600"/>
+  <node id="188721897" lat="39.2998870" lon="-91.4868660"/>
+  <node id="188721898" lat="39.3015240" lon="-91.4867920"/>
+  <node id="188721900" lat="39.3017000" lon="-91.4868170"/>
+  <node id="188721902" lat="39.3018080" lon="-91.4868640"/>
+  <node id="188721904" lat="39.3019150" lon="-91.4869550"/>
+  <node id="188721906" lat="39.3020710" lon="-91.4870700"/>
+  <node id="188721908" lat="39.3024000" lon="-91.4873130"/>
+  <node id="188721909" lat="39.3028190" lon="-91.4876030"/>
+  <node id="188721910" lat="39.3030390" lon="-91.4877550"/>
+  <node id="188721911" lat="39.3034770" lon="-91.4880300"/>
+  <node id="188721912" lat="39.3035840" lon="-91.4881080"/>
+  <node id="188732086" lat="39.3004700" lon="-91.4832990"/>
+  <node id="188732089" lat="39.3007860" lon="-91.4825460"/>
+  <node id="188737408" lat="39.3032170" lon="-91.4866550"/>
+  <node id="188737410" lat="39.3040060" lon="-91.4847760"/>
+  <node id="188737412" lat="39.3043950" lon="-91.4838640"/>
+  <node id="188737869" lat="39.3024620" lon="-91.4861460"/>
+  <node id="188737871" lat="39.3034450" lon="-91.4868090"/>
+  <node id="188737873" lat="39.3039630" lon="-91.4871840"/>
+  <node id="188737875" lat="39.3041220" lon="-91.4872990"/>
+  <node id="188737877" lat="39.3047080" lon="-91.4877000"/>
+  <node id="188737894" lat="39.2999860" lon="-91.4845710"/>
+  <node id="188737896" lat="39.3006850" lon="-91.4850440"/>
+  <node id="188737898" lat="39.3009810" lon="-91.4850930"/>
+  <node id="188738990" lat="39.3045760" lon="-91.4880120"/>
+  <node id="188740878" lat="39.3032770" lon="-91.4818760"/>
+  <node id="188740879" lat="39.3028760" lon="-91.4828110"/>
+  <node id="188741587" lat="39.3047530" lon="-91.4853010"/>
+  <node id="188741589" lat="39.3051390" lon="-91.4843910"/>
+  <node id="188742915" lat="39.3016770" lon="-91.4879980"/>
+  <node id="188744778" lat="39.3047860" lon="-91.4829310"/>
+  <node id="188744780" lat="39.3051760" lon="-91.4819920"/>
+  <node id="188746839" lat="39.3021450" lon="-91.4823010"/>
+  <node id="188746840" lat="39.3036320" lon="-91.4833340"/>
+  <node id="188746841" lat="39.3040710" lon="-91.4836340"/>
+  <node id="188747922" lat="39.3017600" lon="-91.4832090"/>
+  <node id="188750854" lat="39.3025870" lon="-91.4858470"/>
+  <node id="188750856" lat="39.3035110" lon="-91.4836210"/>
+  <node id="188751049" lat="39.3040290" lon="-91.4823960"/>
+  <node id="188751051" lat="39.3050620" lon="-91.4831270"/>
+  <node id="8980737129" lat="39.3002475" lon="-91.4868514"/>
+  <node id="188712805" lat="39.3015910" lon="-91.4806260"/>
+  <node id="188712807" lat="39.3015500" lon="-91.4807230"/>
+  <node id="188716737" lat="39.3018900" lon="-91.4809360"/>
+  <node id="188716740" lat="39.3014150" lon="-91.4810440"/>
+  <node id="188732091" lat="39.3011720" lon="-91.4816240"/>
+  <node id="188732094" lat="39.3015030" lon="-91.4808350"/>
+  <node id="188740875" lat="39.3038100" lon="-91.4805760"/>
+  <node id="188740876" lat="39.3037850" lon="-91.4807010"/>
+  <node id="188740877" lat="39.3036760" lon="-91.4809480"/>
+  <node id="188746826" lat="39.2987240" lon="-91.4805860"/>
+  <node id="188746827" lat="39.2991330" lon="-91.4806460"/>
+  <node id="188746829" lat="39.2995310" lon="-91.4807500"/>
+  <node id="188746831" lat="39.2999560" lon="-91.4809170"/>
+  <node id="188746833" lat="39.3000470" lon="-91.4809630"/>
+  <node id="188746835" lat="39.3002780" lon="-91.4810770"/>
+  <node id="188746837" lat="39.3006160" lon="-91.4812560"/>
+  <node id="188751046" lat="39.3023990" lon="-91.4812550"/>
+  <node id="188751047" lat="39.3025450" lon="-91.4813580"/>
+  <node id="188752031" lat="39.3001390" lon="-91.4807070"/>
+  <node id="188752032" lat="39.3014320" lon="-91.4806350"/>
+  <node id="188752033" lat="39.3028670" lon="-91.4805990"/>
+  <node id="188752034" lat="39.3039160" lon="-91.4805740"/>
+  <node id="188752035" lat="39.3047840" lon="-91.4805550"/>
+  <node id="188753282" lat="39.3044230" lon="-91.4814600"/>
+  <node id="188753284" lat="39.3045360" lon="-91.4815350"/>
+  <node id="188771795" lat="39.3047460" lon="-91.4807050"/>
+  <node id="8994698297" lat="39.3008178" lon="-91.4813896"/>
+  <node id="8995301450" lat="39.3002197" lon="-91.4807025"/>
+  <node id="188631199" lat="39.3054490" lon="-91.4882140"/>
+  <node id="188631201" lat="39.3058470" lon="-91.4872800"/>
+  <node id="188631203" lat="39.3062470" lon="-91.4863470"/>
+  <node id="188631204" lat="39.3066430" lon="-91.4854280"/>
+  <node id="188637366" lat="39.3102280" lon="-91.4855020"/>
+  <node id="188637368" lat="39.3098270" lon="-91.4864190"/>
+  <node id="188637370" lat="39.3093789" lon="-91.4873466"/>
+  <node id="188646142" lat="39.3110290" lon="-91.4854470"/>
+  <node id="188646146" lat="39.3103430" lon="-91.4855820"/>
+  <node id="188655415" lat="39.3096130" lon="-91.4875040"/>
+  <node id="188678821" lat="39.3077750" lon="-91.4862270"/>
+  <node id="188678822" lat="39.3081520" lon="-91.4852850"/>
+  <node id="188678869" lat="39.3070330" lon="-91.4857040"/>
+  <node id="188678870" lat="39.3074310" lon="-91.4847770"/>
+  <node id="188678947" lat="39.3055190" lon="-91.4846450"/>
+  <node id="188678950" lat="39.3059160" lon="-91.4837000"/>
+  <node id="188720696" lat="39.3066010" lon="-91.4878110"/>
+  <node id="188720698" lat="39.3070650" lon="-91.4881390"/>
+  <node id="188722142" lat="39.3111790" lon="-91.4873800"/>
+  <node id="188722144" lat="39.3115730" lon="-91.4864490"/>
+  <node id="188724936" lat="39.3088960" lon="-91.4870230"/>
+  <node id="188724938" lat="39.3092940" lon="-91.4860630"/>
+  <node id="188724941" lat="39.3096830" lon="-91.4851300"/>
+  <node id="188724943" lat="39.3100560" lon="-91.4842590"/>
+  <node id="188724945" lat="39.3105720" lon="-91.4830600"/>
+  <node id="188726774" lat="39.3107590" lon="-91.4846810"/>
+  <node id="188726775" lat="39.3112340" lon="-91.4849750"/>
+  <node id="188729285" lat="39.3116580" lon="-91.4828750"/>
+  <node id="188731364" lat="39.3078310" lon="-91.4826890"/>
+  <node id="188731367" lat="39.3079540" lon="-91.4827650"/>
+  <node id="188731369" lat="39.3085690" lon="-91.4831790"/>
+  <node id="188731371" lat="39.3087130" lon="-91.4832760"/>
+  <node id="188731373" lat="39.3093150" lon="-91.4837080"/>
+  <node id="188731375" lat="39.3104850" lon="-91.4845190"/>
+  <node id="188732118" lat="39.3070020" lon="-91.4868760"/>
+  <node id="188732121" lat="39.3073930" lon="-91.4859580"/>
+  <node id="188738992" lat="39.3055020" lon="-91.4858250"/>
+  <node id="188738994" lat="39.3058260" lon="-91.4850320"/>
+  <node id="188738996" lat="39.3058860" lon="-91.4848950"/>
+  <node id="188741070" lat="39.3062960" lon="-91.4839560"/>
+  <node id="188741072" lat="39.3066830" lon="-91.4830480"/>
+  <node id="188742323" lat="39.3085130" lon="-91.4879270"/>
+  <node id="188742324" lat="39.3086790" lon="-91.4875460"/>
+  <node id="188742804" lat="39.3101560" lon="-91.4854530"/>
+  <node id="188742805" lat="39.3108240" lon="-91.4859190"/>
+  <node id="188742806" lat="39.3111050" lon="-91.4861240"/>
+  <node id="188742808" lat="39.3117440" lon="-91.4865670"/>
+  <node id="188745341" lat="39.3102714" lon="-91.4855322"/>
+  <node id="188745345" lat="39.3094816" lon="-91.4874102"/>
+  <node id="188746767" lat="39.3104230" lon="-91.4868750"/>
+  <node id="188746769" lat="39.3112760" lon="-91.4874380"/>
+  <node id="188746778" lat="39.3097400" lon="-91.4863650"/>
+  <node id="188746843" lat="39.3056750" lon="-91.4847470"/>
+  <node id="188746845" lat="39.3081210" lon="-91.4864760"/>
+  <node id="188746847" lat="39.3086260" lon="-91.4868420"/>
+  <node id="188746849" lat="39.3089760" lon="-91.4870760"/>
+  <node id="188746851" lat="39.3091970" lon="-91.4872230"/>
+  <node id="188746853" lat="39.3093250" lon="-91.4873090"/>
+  <node id="188747021" lat="39.3095260" lon="-91.4874410"/>
+  <node id="188747023" lat="39.3100350" lon="-91.4878070"/>
+  <node id="188747491" lat="39.3107270" lon="-91.4861440"/>
+  <node id="188747492" lat="39.3116360" lon="-91.4840580"/>
+  <node id="188747908" lat="39.3077310" lon="-91.4873860"/>
+  <node id="188747910" lat="39.3086140" lon="-91.4879970"/>
+  <node id="188747912" lat="39.3087870" lon="-91.4881160"/>
+  <node id="188747914" lat="39.3089510" lon="-91.4882354"/>
+  <node id="188748630" lat="39.3059260" lon="-91.4825160"/>
+  <node id="188748631" lat="39.3058490" lon="-91.4826890"/>
+  <node id="188748632" lat="39.3055370" lon="-91.4834450"/>
+  <node id="188748633" lat="39.3054320" lon="-91.4837020"/>
+  <node id="188751053" lat="39.3064000" lon="-91.4840260"/>
+  <node id="188751056" lat="39.3070450" lon="-91.4844960"/>
+  <node id="188751058" lat="39.3077820" lon="-91.4850330"/>
+  <node id="188751060" lat="39.3085230" lon="-91.4855380"/>
+  <node id="188751062" lat="39.3093730" lon="-91.4861170"/>
+  <node id="188751064" lat="39.3095910" lon="-91.4862660"/>
+  <node id="188751065" lat="39.3096820" lon="-91.4863280"/>
+  <node id="188752200" lat="39.3112560" lon="-91.4837920"/>
+  <node id="188752393" lat="39.3080470" lon="-91.4821850"/>
+  <node id="188752394" lat="39.3074410" lon="-91.4835860"/>
+  <node id="188753286" lat="39.3053500" lon="-91.4821170"/>
+  <node id="188753288" lat="39.3062310" lon="-91.4827270"/>
+  <node id="188753290" lat="39.3078010" lon="-91.4838410"/>
+  <node id="188753291" lat="39.3081770" lon="-91.4840990"/>
+  <node id="188753293" lat="39.3089240" lon="-91.4846100"/>
+  <node id="188753295" lat="39.3100360" lon="-91.4853710"/>
+  <node id="188766181" lat="39.3088570" lon="-91.4825190"/>
+  <node id="188767282" lat="39.3096230" lon="-91.4829970"/>
+  <node id="188767284" lat="39.3098370" lon="-91.4824770"/>
+  <node id="188655491" lat="39.3087250" lon="-91.4787060"/>
+  <node id="188655493" lat="39.3092270" lon="-91.4786650"/>
+  <node id="188655498" lat="39.3086630" lon="-91.4766680"/>
+  <node id="188658233" lat="39.3115450" lon="-91.4781690"/>
+  <node id="188678814" lat="39.3082580" lon="-91.4816860"/>
+  <node id="188682230" lat="39.3054550" lon="-91.4755090"/>
+  <node id="188718459" lat="39.3094240" lon="-91.4803950"/>
+  <node id="188724948" lat="39.3111560" lon="-91.4815940"/>
+  <node id="188724950" lat="39.3116080" lon="-91.4806180"/>
+  <node id="188724951" lat="39.3116450" lon="-91.4805090"/>
+  <node id="188724952" lat="39.3116590" lon="-91.4804300"/>
+  <node id="188724954" lat="39.3116510" lon="-91.4803670"/>
+  <node id="188724957" lat="39.3116230" lon="-91.4803180"/>
+  <node id="188729090" lat="39.3087140" lon="-91.4782630"/>
+  <node id="188729092" lat="39.3097070" lon="-91.4782400"/>
+  <node id="188729094" lat="39.3106740" lon="-91.4782090"/>
+  <node id="188729100" lat="39.3055390" lon="-91.4786840"/>
+  <node id="188729102" lat="39.3057100" lon="-91.4786540"/>
+  <node id="188729104" lat="39.3068000" lon="-91.4786050"/>
+  <node id="188729105" lat="39.3076400" lon="-91.4785660"/>
+  <node id="188729106" lat="39.3085270" lon="-91.4785250"/>
+  <node id="188729107" lat="39.3087200" lon="-91.4785110"/>
+  <node id="188733307" lat="39.3087400" lon="-91.4793310"/>
+  <node id="188733309" lat="39.3088320" lon="-91.4793230"/>
+  <node id="188733311" lat="39.3097300" lon="-91.4792770"/>
+  <node id="188733313" lat="39.3107140" lon="-91.4792230"/>
+  <node id="188733315" lat="39.3116130" lon="-91.4791740"/>
+  <node id="188733319" lat="39.3055740" lon="-91.4795670"/>
+  <node id="188733320" lat="39.3062140" lon="-91.4795220"/>
+  <node id="188733321" lat="39.3068260" lon="-91.4794960"/>
+  <node id="188733323" lat="39.3069480" lon="-91.4794890"/>
+  <node id="188733325" lat="39.3078540" lon="-91.4794870"/>
+  <node id="188733327" lat="39.3087430" lon="-91.4794500"/>
+  <node id="188744781" lat="39.3054860" lon="-91.4812450"/>
+  <node id="188744783" lat="39.3055390" lon="-91.4810750"/>
+  <node id="188744785" lat="39.3055840" lon="-91.4808610"/>
+  <node id="188744787" lat="39.3055960" lon="-91.4807060"/>
+  <node id="188744789" lat="39.3055920" lon="-91.4805440"/>
+  <node id="188744791" lat="39.3055510" lon="-91.4791430"/>
+  <node id="188748621" lat="39.3068100" lon="-91.4787680"/>
+  <node id="188748623" lat="39.3068360" lon="-91.4802830"/>
+  <node id="188748625" lat="39.3067820" lon="-91.4804970"/>
+  <node id="188748627" lat="39.3067090" lon="-91.4806600"/>
+  <node id="188748629" lat="39.3065430" lon="-91.4811340"/>
+  <node id="188752036" lat="39.3057920" lon="-91.4805430"/>
+  <node id="188752038" lat="39.3082390" lon="-91.4804600"/>
+  <node id="188752040" lat="39.3087640" lon="-91.4804380"/>
+  <node id="188752042" lat="39.3089670" lon="-91.4804300"/>
+  <node id="188752044" lat="39.3097580" lon="-91.4803770"/>
+  <node id="188752046" lat="39.3101370" lon="-91.4803550"/>
+  <node id="188752048" lat="39.3107190" lon="-91.4803290"/>
+  <node id="188752050" lat="39.3109520" lon="-91.4803330"/>
+  <node id="188752052" lat="39.3113640" lon="-91.4803040"/>
+  <node id="188752054" lat="39.3115620" lon="-91.4803050"/>
+  <node id="188752389" lat="39.3086650" lon="-91.4767340"/>
+  <node id="188752390" lat="39.3087630" lon="-91.4802070"/>
+  <node id="188752391" lat="39.3086860" lon="-91.4806530"/>
+  <node id="188752392" lat="39.3085960" lon="-91.4808850"/>
+  <node id="188766177" lat="39.3097420" lon="-91.4798520"/>
+  <node id="188767286" lat="39.3106990" lon="-91.4804470"/>
+  <node id="188767288" lat="39.3107420" lon="-91.4802010"/>
+  <node id="188767290" lat="39.3107310" lon="-91.4796660"/>
+  <node id="188770443" lat="39.3066480" lon="-91.4812260"/>
+  <node id="8906116904" lat="39.3062497" lon="-91.4786297"/>
+  <node id="8906116909" lat="39.3055201" lon="-91.4779682"/>
+  <node id="188655524" lat="39.3085560" lon="-91.4723900"/>
+  <node id="188678940" lat="39.3053970" lon="-91.4730350"/>
+  <node id="188729299" lat="39.3053450" lon="-91.4709090"/>
+  <node id="188729304" lat="39.3085130" lon="-91.4708260"/>
+  <node id="188739021" lat="39.3053550" lon="-91.4714750"/>
+  <node id="188739022" lat="39.3054000" lon="-91.4731830"/>
+  <node id="188752381" lat="39.3085650" lon="-91.4726950"/>
+  <node id="188752383" lat="39.3085970" lon="-91.4737960"/>
+  <node id="188752385" lat="39.3086010" lon="-91.4740250"/>
+  <node id="188752387" lat="39.3086200" lon="-91.4750700"/>
+  <node id="188739020" lat="39.3052470" lon="-91.4658940"/>
+  <node id="188676514" lat="39.3050770" lon="-91.4568700"/>
+  <node id="188739018" lat="39.3051560" lon="-91.4607250"/>
+  <node id="188739019" lat="39.3051710" lon="-91.4616120"/>
+  <node id="188695396" lat="39.3048840" lon="-91.4492460"/>
+  <node id="188739015" lat="39.3049580" lon="-91.4512510"/>
+  <node id="188739017" lat="39.3049770" lon="-91.4521400"/>
+  <node id="188695366" lat="39.3048590" lon="-91.4485850"/>
+  <node id="188695416" lat="39.3046580" lon="-91.4433180"/>
+  <node id="188707829" lat="39.3046270" lon="-91.4424930"/>
+  <node id="188695369" lat="39.3045580" lon="-91.4406170"/>
+  <node id="188695400" lat="39.3045210" lon="-91.4396250"/>
+  <node id="188739013" lat="39.3044410" lon="-91.4374830"/>
+  <node id="188646130" lat="39.3128070" lon="-91.4824600"/>
+  <node id="188646132" lat="39.3123950" lon="-91.4833690"/>
+  <node id="188646134" lat="39.3119920" lon="-91.4843100"/>
+  <node id="188646137" lat="39.3127370" lon="-91.4848430"/>
+  <node id="188646138" lat="39.3123360" lon="-91.4857650"/>
+  <node id="188712636" lat="39.3137630" lon="-91.4871790"/>
+  <node id="188721804" lat="39.3136970" lon="-91.4836650"/>
+  <node id="188721805" lat="39.3135070" lon="-91.4841510"/>
+  <node id="188721806" lat="39.3131290" lon="-91.4851200"/>
+  <node id="188721808" lat="39.3127850" lon="-91.4858780"/>
+  <node id="188721810" lat="39.3127190" lon="-91.4860320"/>
+  <node id="188721812" lat="39.3123140" lon="-91.4869800"/>
+  <node id="188721814" lat="39.3119290" lon="-91.4878910"/>
+  <node id="188722146" lat="39.3119670" lon="-91.4855020"/>
+  <node id="188722148" lat="39.3123580" lon="-91.4845690"/>
+  <node id="188722153" lat="39.3127800" lon="-91.4836450"/>
+  <node id="188722154" lat="39.3131710" lon="-91.4826970"/>
+  <node id="188722155" lat="39.3135380" lon="-91.4818050"/>
+  <node id="188724302" lat="39.3139440" lon="-91.4875600"/>
+  <node id="188724304" lat="39.3138350" lon="-91.4873480"/>
+  <node id="188726781" lat="39.3132550" lon="-91.4864040"/>
+  <node id="188726783" lat="39.3134359" lon="-91.4865401"/>
+  <node id="188726784" lat="39.3135070" lon="-91.4865890"/>
+  <node id="188726785" lat="39.3136870" lon="-91.4865910"/>
+  <node id="188726786" lat="39.3148070" lon="-91.4865430"/>
+  <node id="188726788" lat="39.3152610" lon="-91.4865350"/>
+  <node id="188726790" lat="39.3155160" lon="-91.4864780"/>
+  <node id="188729286" lat="39.3120290" lon="-91.4831090"/>
+  <node id="188729288" lat="39.3121160" lon="-91.4831620"/>
+  <node id="188729290" lat="39.3121630" lon="-91.4832020"/>
+  <node id="188729291" lat="39.3132750" lon="-91.4839980"/>
+  <node id="188730285" lat="39.3147100" lon="-91.4881970"/>
+  <node id="188730287" lat="39.3146880" lon="-91.4879910"/>
+  <node id="188730288" lat="39.3146440" lon="-91.4878400"/>
+  <node id="188730289" lat="39.3145510" lon="-91.4877050"/>
+  <node id="188730290" lat="39.3144350" lon="-91.4875650"/>
+  <node id="188730292" lat="39.3143890" lon="-91.4875440"/>
+  <node id="188730294" lat="39.3143040" lon="-91.4875040"/>
+  <node id="188730295" lat="39.3141550" lon="-91.4874730"/>
+  <node id="188730296" lat="39.3140330" lon="-91.4874950"/>
+  <node id="188730298" lat="39.3139010" lon="-91.4875910"/>
+  <node id="188730300" lat="39.3138230" lon="-91.4877060"/>
+  <node id="188730302" lat="39.3137680" lon="-91.4878930"/>
+  <node id="188730304" lat="39.3137480" lon="-91.4881490"/>
+  <node id="188732293" lat="39.3137270" lon="-91.4858500"/>
+  <node id="188732294" lat="39.3135499" lon="-91.4862690"/>
+  <node id="188732302" lat="39.3128910" lon="-91.4878320"/>
+  <node id="188732304" lat="39.3130490" lon="-91.4874810"/>
+  <node id="188732306" lat="39.3131075" lon="-91.4873336"/>
+  <node id="188732308" lat="39.3132015" lon="-91.4871106"/>
+  <node id="188732310" lat="39.3132820" lon="-91.4869056"/>
+  <node id="188742810" lat="39.3124050" lon="-91.4870460"/>
+  <node id="188746773" lat="39.3123230" lon="-91.4881640"/>
+  <node id="188747494" lat="39.3124080" lon="-91.4822110"/>
+  <node id="188748320" lat="39.3119990" lon="-91.4819000"/>
+  <node id="188748322" lat="39.3137000" lon="-91.4830650"/>
+  <node id="188752202" lat="39.3135520" lon="-91.4854050"/>
+  <node id="188752204" lat="39.3137910" lon="-91.4855810"/>
+  <node id="188752206" lat="39.3138150" lon="-91.4856300"/>
+  <node id="188752208" lat="39.3137820" lon="-91.4857340"/>
+  <node id="188760043" lat="39.3145880" lon="-91.4870880"/>
+  <node id="188646129" lat="39.3131830" lon="-91.4815460"/>
+  <node id="188646165" lat="39.3145870" lon="-91.4759570"/>
+  <node id="188729409" lat="39.3127540" lon="-91.4813740"/>
+  <node id="188729411" lat="39.3127940" lon="-91.4813310"/>
+  <node id="188729413" lat="39.3128580" lon="-91.4813180"/>
+  <node id="188729415" lat="39.3129780" lon="-91.4813980"/>
+  <node id="188747497" lat="39.3127310" lon="-91.4813980"/>
+  <node id="5321445512" lat="39.3139055" lon="-91.4808685"/>
+  <node id="5321445513" lat="39.3140530" lon="-91.4803856"/>
+  <node id="5321445514" lat="39.3140841" lon="-91.4800177"/>
+  <node id="5321445515" lat="39.3140664" lon="-91.4795808"/>
+  <node id="5321445516" lat="39.3140263" lon="-91.4790405"/>
+  <node id="5321445517" lat="39.3140174" lon="-91.4785634"/>
+  <node id="5321445518" lat="39.3140441" lon="-91.4780863"/>
+  <node id="5321445519" lat="39.3140975" lon="-91.4776264"/>
+  <node id="5321445520" lat="39.3141820" lon="-91.4771148"/>
+  <node id="5321445721" lat="39.3143732" lon="-91.4764883"/>
+  <node id="8049664522" lat="39.3140670" lon="-91.4802198"/>
+  <node id="188712693" lat="39.3162530" lon="-91.4720803"/>
+  <node id="188739011" lat="39.3043750" lon="-91.4358220"/>
+
+</osm>

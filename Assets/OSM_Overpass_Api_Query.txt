@@ -1,0 +1,30 @@
+﻿[out:xml][timeout:25];
+(
+  // Filter our Roads to standard usage
+  way
+    ["service"!="driveway"]
+    ["boundary"!~".*"]
+    ["highway"!="service"]
+    ["access"!="private"]
+	// Unclassified needed for Farm Country but in city can be bad.
+	//["highway"!="unclassified"]
+    ["highway"!="footway"]
+    ["highway"!="pedestrian"]
+    ["highway"!="cycleway"]
+    ["highway"!="path"]
+    ["leisure"!~".*"]
+    ["amenity"!~".*"]
+    ["highway"]
+  ({{bbox}})->.a;
+
+  // Grab Only Nodes on these Roads.
+  node(w.a)->.b;
+
+  // Union the Ways and Nodes
+  (.a; node.a.b;)->.c;
+
+);
+// Output only the Union
+.c out body;
+>;
+out skel qt;

@@ -1,0 +1,48 @@
+<osm>
+	<way id="18309620">
+		<nd ref="188630338" ndOrder="1"/>
+		<nd ref="188630340" ndOrder="2"/>
+		<nd ref="188630342" ndOrder="3"/>
+		<nd ref="188630343" ndOrder="4"/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="South Maple Street"/>
+		<tag k="tiger:cfcc" v="A41"/>
+		<tag k="tiger:county" v="Audrain, MO"/>
+		<tag k="tiger:name_base" v="P S Maple"/>
+		<tag k="tiger:name_type" v="St"/>
+		<tag k="tiger:reviewed" v="no"/>
+	</way>
+	<way id="18318227">
+		<nd ref="188634855" ndOrder=1/>
+		<nd ref="188671536" ndOrder=2/>
+		<nd ref="188742322" ndOrder=3/>
+		<nd ref="188630338" ndOrder=4/>
+		<nd ref="188737882" ndOrder=5/>
+		<nd ref="188720702" ndOrder=6/>
+		<nd ref="188742323" ndOrder=7/>
+		<nd ref="188742324" ndOrder=8/>
+		<nd ref="188724936" ndOrder=9/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="West State Street"/>
+		<tag k="tiger:cfcc" v="A41"/>
+		<tag k="tiger:county" v="Audrain, MO"/>
+		<tag k="tiger:name_base" v="State"/>
+		<tag k="tiger:name_direction_prefix" v="W"/>
+		<tag k="tiger:name_type" v="St"/>
+		<tag k="tiger:reviewed" v="no"/>
+		<tag k="tiger:zip_left" v="63382"/>
+		<tag k="tiger:zip_right" v="63382"/>
+	</way>
+	<node id="188630338" lat="39.3073140" lon="-91.4907370"/>
+	<node id="188630340" lat="39.3073990" lon="-91.4907960"/>
+	<node id="188630342" lat="39.3077842" lon="-91.4910648"/>
+	<node id="188630343" lat="39.3078340" lon="-91.4910975"/>
+	<node id="188634855" lat="39.3065540" lon="-91.4925070"/>
+	<node id="188671536" lat="39.3067490" lon="-91.4920670"/>
+	<node id="188742322" lat="39.3069420" lon="-91.4916120"/>
+	<node id="188737882" lat="39.3077140" lon="-91.4897870"/>
+	<node id="188720702" lat="39.3081090" lon="-91.4888580"/>
+	<node id="188742323" lat="39.3085130" lon="-91.4879270"/>
+	<node id="188742324" lat="39.3086790" lon="-91.4875460"/>
+	<node id="188724936" lat="39.3088960" lon="-91.4870230"/>
+</osm>
