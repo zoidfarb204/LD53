@@ -21,22 +21,15 @@ public class MapHandler : MonoBehaviour
         OsmXML.osm osmXml = (OsmXML.osm)xmlSerializer.Deserialize(fileStream);
         Debug.Log("Done");
 
-        var latmin = osmXml.node.Min(x => x.lat);
-        var latmax = osmXml.node.Max(x => x.lat);
-        var longmin = osmXml.node.Min(x => x.lon);
-        var longmax = osmXml.node.Max(x => x.lon);
+    
         
         var nodeList = GenerateNodes(osmXml);
 
         foreach (var node in nodeList)
         {
-            var scaledY = (node.Y - latmin) / (latmax - latmin) * (200);
-            var scaledX = (node.X - longmin) / (longmax - longmin) * (200);
 
             foreach (var connectedNode in node.ConnectedNodes)
             {
-                var connectedScaledY = (connectedNode.Y - latmin) / (latmax - latmin) * (200);
-                var connectedScaledX = (connectedNode.X - longmin) / (longmax - longmin) * (200);
                 //create an empty game object
                 GameObject go = new GameObject();
                 // add line renderer component
@@ -44,10 +37,11 @@ public class MapHandler : MonoBehaviour
                 lr.material = new Material(Shader.Find("Legacy Shaders/Particles/Alpha Blended Premultiply"));
                 //set line segments to nd.count
                 lr.positionCount = 2;
+                lr.sortingOrder = 1;
                 lr.SetWidth(0.1f, .1f);
 
-                lr.SetPosition(0, new Vector2((float)scaledX, (float)scaledY));
-                lr.SetPosition(1, new Vector2((float)connectedScaledX, (float)connectedScaledY));
+                lr.SetPosition(0, new Vector2((float)node.X, (float)node.Y));
+                lr.SetPosition(1, new Vector2((float)connectedNode.X, (float)connectedNode.Y));
             }
         }
 
@@ -65,7 +59,27 @@ public class MapHandler : MonoBehaviour
         {
             Debug.Log($"Start Node: {startNode.Id} End Node: {endNode.Id} -- could not find a path");
         }
-
+        else
+        {
+            //create an empty game object
+            GameObject go = new GameObject();
+            // add line renderer component
+            LineRenderer lr = go.AddComponent<LineRenderer>();
+            lr.material = new Material(Shader.Find("Legacy Shaders/Particles/Alpha Blended Premultiply"));
+            //set line segments to nd.count
+            lr.positionCount = path.Count;
+            lr.sortingOrder = 10;
+            lr.SetWidth(0.1f, .1f);
+            lr.startColor = Color.red;
+            lr.endColor = Color.red;
+            int count = 0;
+            foreach (var node in path)
+            {
+                lr.SetPosition(count, new Vector2((float)node.X, (float)node.Y));
+                count++;
+            }
+        }
+        
         //Draw a straight line between the two nodes
         //create an empty game object
         var gameObject = new GameObject();
@@ -74,30 +88,34 @@ public class MapHandler : MonoBehaviour
         LineRenderer lineRenderer = gameObject.AddComponent<LineRenderer>();
         //set line segments to nd.count
         lineRenderer.positionCount = 2;
-        lineRenderer.SetWidth(1f, 1f);
+        lineRenderer.SetWidth(.1f, .1f);
         lineRenderer.material = new Material(Shader.Find("Legacy Shaders/Particles/Alpha Blended Premultiply"));
         lineRenderer.startColor = Color.blue;
         lineRenderer.endColor = Color.blue;
-        var x1 = (startNode.X - longmin) / (longmax - longmin) * (200);
-        var x2 = (endNode.X - longmin) / (longmax - longmin) * (200);
-        var y1 = (startNode.Y - latmin) / (latmax - latmin) * (200);
-        var y2 = (endNode.Y - latmin) / (latmax - latmin) * (200);
-        lineRenderer.SetPosition(0, new Vector2((float)x1, (float)y1));
-        lineRenderer.SetPosition(1, new Vector2((float)x2, (float)y2));
+        lineRenderer.SetPosition(0, new Vector2((float)startNode.X, (float)startNode.Y));
+        lineRenderer.SetPosition(1, new Vector2((float)endNode.X, (float)endNode.Y));
 
         string s = "s";
     }
 
     private static List<Node> GenerateNodes(OsmXML.osm osmXml)
     {
+        var latmin = osmXml.node.Min(x => x.lat);
+        var latmax = osmXml.node.Max(x => x.lat);
+        var longmin = osmXml.node.Min(x => x.lon);
+        var longmax = osmXml.node.Max(x => x.lon);
+        
         var nodeList = new List<Node>();
         foreach (var node in osmXml.node)
         {
+            var scaledY = (node.lat - latmin) / (latmax - latmin) * (200);
+            var scaledX = (node.lon - longmin) / (longmax - longmin) * (200);
+            
             nodeList.Add(new Node
             {
                 Id = node.id,
-                X = node.lon,
-                Y = node.lat,
+                X = scaledX,
+                Y = scaledY,
                 ConnectedNodes = new List<Node>()
             });
         }

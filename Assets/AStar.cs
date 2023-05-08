@@ -2,20 +2,21 @@
 using System.Collections.Generic;
 using System.Linq;
 using Models;
+using UnityEngine;
 
 namespace DefaultNamespace
 {
     public class AStar
     {
-        private Queue<Node> path;
+        private LinkedList<Node> path;
 
         //given a starting node and ending node what is the fastest path between them
         //use a priority queue to keep track of the nodes to visit
         
         
-        public Dictionary<Node,Node> Path(Node start, Node end)
+        public LinkedList<Node> Path(Node start, Node end)
         {
-            path = new Queue<Node>();
+            path = new LinkedList<Node>();
 
             var birdFlyDistance = Cost(start, end);
             
@@ -34,7 +35,13 @@ namespace DefaultNamespace
                 var current = activeTiles.OrderBy(x => f_score[x]).First();
                 if(current.Id == end.Id)
                 {
-                    return visitedTiles;
+                    path.AddFirst(current);
+                    while (visitedTiles.ContainsKey(current))
+                    {
+                        current = visitedTiles[current];
+                        path.AddFirst(current);
+                    }
+                    return path;
                 }
                 
                 activeTiles.Remove(current);
@@ -46,12 +53,13 @@ namespace DefaultNamespace
                     }
 
                     double tentative_g_score = g_score[current] + Cost(current, connectedNode);
+                    Debug.Log($"{current.Id} {connectedNode.Id} {tentative_g_score} {g_score[connectedNode]}");
                     if(tentative_g_score < g_score[connectedNode])
                     {
                         visitedTiles[connectedNode] = current;
 
                         g_score[connectedNode] = tentative_g_score;
-                        f_score[connectedNode] = g_score[connectedNode] + Cost(connectedNode, end);
+                        f_score[connectedNode] = tentative_g_score + Cost(connectedNode, end);
                         if (!activeTiles.Contains(connectedNode))
                         {
                             activeTiles.Add(connectedNode);
